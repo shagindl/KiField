@@ -12,7 +12,7 @@
     <RootNamespace>kifield</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
-    <CommandLineArguments>-d 100 -x Dcm.Lib.csv -i AC_DC.dcm -w</CommandLineArguments>
+    <CommandLineArguments>-x Dcm.Lib.csv -i ADC.dcm -w</CommandLineArguments>
     <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">

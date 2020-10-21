@@ -43,3 +43,6 @@ output/*/index.html
 #docs/_build
 
 *.bak
+/vs/kifield/.vs/kifield/v16/*.suo
+/vs/kifield/Debug/*.csv#
+/kifield/*.spec

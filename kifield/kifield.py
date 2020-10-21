@@ -1150,7 +1150,8 @@ def insert_part_fields_into_dcm(part_fields_dict, filename, recurse, group_compo
     dcm_part_fields_dict = extract_part_fields_from_dcm(filename)
 
     # Add the part fields from the part field dictionary.
-    dcm_part_fields_dict = combine_part_field_dicts(part_fields_dict, dcm_part_fields_dict)
+    # dcm_part_fields_dict = combine_part_field_dicts(part_fields_dict, dcm_part_fields_dict)
+    dcm_part_fields_dict = combine_part_field_dicts(part_fields_dict, dcm_part_fields_dict, False)
 
     # Create a new Dcm object from the combined part fields.
     dcm = Dcm()
