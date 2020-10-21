@@ -1,0 +1,1 @@
+bash -c "kifield -x Dcm.Lib.csv -i ./lib/*.dcm ./lib/*.lib -w -nb"

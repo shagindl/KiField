@@ -47,9 +47,9 @@ from copy import deepcopy
 from pprint import pprint
 from difflib import get_close_matches
 import openpyxl as pyxl
-from sch import Schematic
-from schlib import SchLib
-from dcm import Dcm, Component
+from .sch import Schematic
+from .schlib import SchLib
+from .dcm import Dcm, Component
 import pdb
 
 logger = logging.getLogger('kifield')
@@ -235,7 +235,7 @@ def wb_to_csvfile(wb, csv_filename, dialect):
     mode = 'w'
     if USING_PYTHON2:
         mode += 'b'
-    with open(csv_filename, mode) as csv_file:
+    with open(csv_filename, mode, encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file, dialect=dialect, lineterminator='\n')
         for row in ws.rows:
             writer.writerow([cell.value for cell in row])
