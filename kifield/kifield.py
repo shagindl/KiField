@@ -47,9 +47,9 @@ from copy import deepcopy
 from pprint import pprint
 from difflib import get_close_matches
 import openpyxl as pyxl
-from .sch import Schematic
-from .schlib import SchLib
-from .dcm import Dcm, Component
+from sch import Schematic
+from schlib import SchLib
+from dcm import Dcm, Component
 import pdb
 
 logger = logging.getLogger('kifield')
@@ -207,7 +207,7 @@ def csvfile_to_wb(csv_filename):
         DEBUG_DETAILED,
         'Converting CSV file {} into an XLSX workbook.'.format(csv_filename))
 
-    with open(csv_filename) as csv_file:
+    with open(csv_filename, 'r', encoding='utf-8') as csv_file:
         dialect = csv.Sniffer().sniff(csv_file.read())
         if USING_PYTHON2:
             for attr in dir(dialect):
@@ -1124,8 +1124,12 @@ def insert_part_fields_into_lib(part_fields_dict, filename, recurse, group_compo
         component.fields = [
             f
             for f in component.fields
-            if unquote(f.get('fieldname', None)) in (None, '', '~') or unquote(
-                f.get('name', None)) not in (None, '')
+                if unquote(f.get('reference', None)) != None or
+                   unquote(f.get('fieldname', None)) == '' or
+                   unquote(f.get('fieldname', None)) not in (None, '') and unquote(f.get('name', None)) not in (None, '')
+        
+            #if (unquote(f.get('fieldname', None)) in (None, '', '~') or unquote(f.get('name', None)) not in (None, '')) and
+            #   ( unquote(f.get('fieldname', None)) != None  and  unquote(f.get('name', None)) != None )
         ]
 
     # Save the updated library.

@@ -24,7 +24,7 @@ class Documentation(object):
         if not os.path.isfile(filename):
             return
 
-        f = open(filename)
+        f = open(filename, encoding='utf-8')
         self.header = f.readline()
 
         if self.header and not 'EESchema-DOCLIB' in self.header:
@@ -217,11 +217,11 @@ class SchLib(object):
 
         if create:
             if not os.path.isfile(filename):
-                f = open(filename, 'w')
+                f = open(filename, 'w', encoding='utf-8')
                 self.header = ['EESchema-LIBRARY Version 2.3\n', '#encoding utf-8\n']
                 return
 
-        f = open(filename)
+        f = open(filename, encoding='utf-8')
         self.header = [f.readline()]
 
         if self.header and not 'EESchema-LIBRARY' in self.header[0]:
@@ -341,5 +341,5 @@ class SchLib(object):
         # This prevents errors caused by an internal CR, LF breaking a line.
         to_write = [re.sub(r'[\n\r]', '', l) + '\n' for l in to_write]
 
-        f = open(filename, 'w')
+        f = open(filename, 'w', encoding='utf-8')
         f.writelines(to_write)

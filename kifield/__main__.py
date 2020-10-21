@@ -32,8 +32,8 @@ import os
 import shutil
 import sys
 import logging
-from .kifield import *
-from .pckg_info import __version__
+from kifield import *
+from pckg_info import __version__
 
 ###############################################################################
 # Command-line interface.
