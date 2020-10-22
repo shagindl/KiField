@@ -741,7 +741,8 @@ def insert_part_fields_into_wb(part_fields_dict, wb, recurse=False):
     field_labels = []
     for fields_and_values in part_fields_dict.values():
         for field_label in fields_and_values:
-            field_labels.append(field_label)
+            if field_labels.count(field_label) == 0:
+                field_labels.append(field_label)
     field_labels.insert(0, id_label)
 
     if wb is None:
