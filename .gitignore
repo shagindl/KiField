@@ -48,3 +48,4 @@ output/*/index.html
 /vs/kifield/Debug/lib.ред.*
 *.sch-bak
 /vs/kifield/Debug/~$KiCAD_Fields.xlsx
+*.csv#
