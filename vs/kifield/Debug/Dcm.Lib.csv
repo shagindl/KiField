@@ -1,569 +1,569 @@
-Refs,datasheet,description,docfile,footprint,keywords,prefix,value,Автор,Дата последней коррекции,Дата последней правки,Дата создани,Дата создания,Документация по ГОСТ,Мощность,Наименование,Номинал,Обозначение по ГОСТ,Поле1,Поле3,Поле4,Поле5,Процент,Рабочее напряжение,ТКЕ,ТКС
-"+1,2B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+1,5B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+1,8B",,,,,,,,,,,,,,,,,,,,,,,,,
-+12B,Any,,,Any,,#PWR,+12B,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+12B_DAC,Any,,,Any,,#PWR,+12B_DAC,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+14B,Any,,,Any,,#PWR,+14B,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+15B,Any,,,Any,,#PWR,+15B,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+15B1,Any,,,Any,,#PWR,+15B1,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+18B,Any,,,Any,,#PWR,+18B,Хлюнев А.А.,17.11.2014_14:47,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-"+2,048B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+2,4B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+2,5B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+2,7B",,,,,,,,,,,,,,,,,,,,,,,,,
-+24B,Any,,,Any,,#PWR,+24B,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-"+3,3B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B1",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B2",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_ETHERNET",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_SD_MMC",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_TFT",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_TION",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,5B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,5B1",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,5B2",,,,,,,,,,,,,,,,,,,,,,,,,
-+3B,Any,,,Any,,#PWR,+3B,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+5B,Any,,,Any,,#PWR,+5B,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+5B1,Any,,,Any,,#PWR,+5B1,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+5B2,Any,,,Any,,#PWR,+5B2,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+5B3,Any,,,Any,,#PWR,+5B3,Хлюнев А.А.,27.11.2013_12:27,,,27.11.2013_12:27,,,Any,,Any,,Any,Any,Any,,,,
-+5B_ETHERNET,Any,,,Any,,#PWR,+5B_ETHERNET,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+5B_LED_TFT,Any,,,Any,,#PWR,+5B_LED_TFT,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+5B_TION28,Any,,,Any,,#PWR,+5B_TION28,Хлюнев А.А.,27.11.2013_16:24,,,27.11.2013_16:24,,,Any,,Any,,Any,Any,Any,,,,
-+5B_USB,Any,,,Any,,#PWR,+5B_USB,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+6B,Any,,,Any,,#PWR,+6B,Миронова,10.10.2012_13:27,,,10.10.2012_13:27,,,Any,,Any,,Any,Any,Any,,,,
-+6B1,Any,,,Any,,#PWR,+6B1,Миронова,10.10.2012_13:27,,,10.10.2012_13:27,,,Any,,Any,,Any,Any,Any,,,,
-+6B2,Any,,,Any,,#PWR,+6B2,Миронова,10.10.2012_13:27,,,10.10.2012_13:27,,,Any,,Any,,Any,Any,Any,,,,
-+6B3,Any,,,Any,,#PWR,+6B3,Миронова,10.10.2012_13:27,,,10.10.2012_13:27,,,Any,,Any,,Any,Any,Any,,,,
-+6B4,Any,,,Any,,#PWR,+6B4,Миронова,10.10.2012_13:27,,,10.10.2012_13:27,,,Any,,Any,,Any,Any,Any,,,,
-+9B,Any,,,Any,,#PWR,+9B,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+U,Any,,,Any,,#PWR,+U,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+U1,Any,,,Any,,#PWR,+U1,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-+U2,Any,,,Any,,#PWR,+U2,Хлюнев А.А.,10.05.2012_11:27,,,10.05.2012_11:27,,,Any,,Any,,Any,Any,Any,,,,
-+U3,Any,,,Any,,#PWR,+U3,Хлюнев А.А.,10.05.2012_11:28,,,10.05.2012_11:28,,,Any,,Any,,Any,Any,Any,,,,
-+U4,Any,,,Any,,#PWR,+U4,Хлюнев А.А.,10.05.2012_11:29,,,10.05.2012_11:29,,,Any,,Any,,Any,Any,Any,,,,
-+U5,Any,,,Any,,#PWR,+U5,Хлюнев А.А.,10.05.2012_11:30,,,10.05.2012_11:30,,,Any,,Any,,Any,Any,Any,,,,
-+UREF,Any,,,Any,,#PWR,+UREF,Миронова,09.06.2012_13:21,,,27.04.2012_12:24,,,Any,,Any,,Any,Any,Any,,,,
-+UREF1,Any,,,Any,,#PWR,+UREF1,Миронова,29.11.2013_10:15,,,29.11.2013_10:15,,,Any,,Any,,Any,Any,Any,,,,
-+UREF2,Any,,,Any,,#PWR,+UREF2,Миронова,29.11.2013_10:17,,,29.11.2013_10:17,,,Any,,Any,,Any,Any,Any,,,,
-+UREF3,Any,,,Any,,#PWR,+UREF3,Миронова,29.11.2013_10:18,,,29.11.2013_10:18,,,Any,,Any,,Any,Any,Any,,,,
-+Ubat,Any,,,Any,,#PWR,+Ubat,Хлюнев А.А.,08.06.2012_13:23,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
--12B,Any,,,Any,,#PWR,-12B,Миронова,06.09.2012_13:20,,,06.09.2012_13:20,,,Any,,Any,,Any,Any,Any,,,,
--15B,Any,,,Any,,#PWR,-15B,Миронова,06.09.2012_13:20,,,06.09.2012_13:20,,,Any,,Any,,Any,Any,Any,,,,
--18B,Any,,,Any,,#PWR,-18B,Хлюнев А.А.,17.11.2014_14:49,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
--5B,Any,,,Any,,#PWR,-5B,Миронова,03.11.2011_14:22,,,03.11.2011_14:22,,,Any,,Any,,Any,Any,Any,,,,
--5B1,Any,,,Any,,#PWR,-5B1,Хлюнев А.А.,05.03.2011 09:47,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
--5B2,Any,,,Any,,#PWR,-5B2,Хлюнев А.А.,05.03.2011 09:48,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
--U,Any,,,Any,,#PWR,-U,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
--U1,Any,,,Any,,#PWR,-U1,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
--UREF,Any,,,Any,,#PWR,-UREF,Миронова,09.06.2012_13:25,,,27.04.2012_12:25,,,Any,,Any,,Any,Any,Any,,,,
--Ubat,Any,,,Any,,#PWR,-Ubat,Хлюнев А.А.,11.05.2012_09:57,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-0V,Any,,,Any,,#PWR,0V,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-0V1,Any,,,Any,,#PWR,0V1,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-0V2,Any,,,Any,,#PWR,0V2,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-0V3,Any,,,Any,,#PWR,0V3,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-10MQ040N,T:\\Components\\International Rectifier\\Diode\\10mq040n.pdf,,,10MQ040N,,VD,10MQ040N,Хлюнев А.А.,14.09.2011_11:10,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-10MQ040N_PWR,T:\\Components\\International Rectifier\\Diode\\10mq040n.pdf,,,10MQ040N,,VD,10MQ040N_PWR,Хлюнев А.А.,14.09.2011_11:38,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-16CTQ060,T:\\Components\\International Rectifier\\Diode\\16CTQ060.pdf,,,Any_PAT,,VD,16CTQ060,Миронова,22.01.2014_15:53,,,22.01.2014_15:53,,,Any,,Any,,Any,Any,Any,,,,
-1N4729A,Any_DOC,,,1N4729A,,VD,1N4729A,Хлюнев А.А.,09.10.2011_09:13,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-2200RM,T:/Components/Murata/2200RM.pdf,,T:/Components/Murata/2200RM.pdf,2200RM,,L,2200RM,Миронова,22.06.2018_10:04,,,03.09.2015_08:33,,,Any,Any,Any,,,Any,Any,,,,
-30FLZ-RSM1-TB,T:\\Components\\JST\\JST_FLZ_connectors.pdf,,,30FLZ,,X,30FLZ-RSM1-TB,Хлюнев А.А.,16.09.2011_13:42,,,23.07.2010_15:20,,,,,Any,Any,Any,Any,Any,,,,
-36-4465,Any_DOC,,,PSM,,SA,36-4465,Миронова ,27.02.2012_09:44,,,31.01.2012_10:52,,,PSM101,,Any,,Any,Any,Any,,,,
-4N25,T:\\Components\\Vishay\\Opto\\4n25.pdf,,T:\Components\Vishay\Opto\4n25.pdf,DIP_6,,V,4N25,Миронова,10.02.2015_08:27,,,10.02.2015_08:27,,,4N25,,Any,,Any,Any,Any,,,,
-52207-1085,T:\\Components\\Molex\\52207-1085.pdf,,,52207_1085,,X,52207-1085,Хлюнев А.А.,23.06.2015_15:20,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-52207-1085_12,T:\\Components\\Molex\\52207-1085.pdf,,,52207_1085_12,,X,52207-1085_12,Хлюнев А.А.,04.03.2015_08:10,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-54132-4062,T:\\Components\\Molex\\541324097_sd.pdf,,,Any_PAT,,X,54132-4062,Хлюнев А.А.,20.03.2018_12:59,,,23.07.2010_15:18,,,,,Any,Any,Any,Any,Any,,,,
-5P14.3A,T:\\Components\\Proton\\OPTRON1.PDF,Оптореле.,T:\Components\Proton\OPTRON1.PDF,DIP_8,Оптореле.,V,5P14.3A,Хлюнев А.А.,23.09.2011_10:56,,,10.06.2010 15:27,,,5P14.3A,,Any,,Any,Any,Any,,,,
-5P14.3A_V2,T:\\Components\\Proton\\OPTRON1.PDF,Оптореле.,T:\Components\Proton\OPTRON1.PDF,DIP_8,Оптореле.,V,5P14.3A_V2,Хлюнев А.А.,15.09.2011_09:06,,,10.06.2010_15:27,,,5P14.3A_V2,,Any,,Any,Any,Any,,,,
-AD420AR-32,T:\\Components\\AnalogDevices\\DAC\\AD420\\AD420.pdf,,T:\Components\AnalogDevices\DAC\AD420\AD420.pdf,SOIC_24,,DD,AD420AR-32,Хлюнев А.А.,16.09.2011_10:02,,,10.06.2010_15:27,,,AD420AR-32,,Any,,Any,Any,Any,,,,
-AD5420AREZ,T:\\Components\\AnalogDevices\\DAC\\AD5420\\AD5410_5420.pdf,,T:\Components\AnalogDevices\DAC\AD5420\AD5410_5420.pdf,TSSOP_24,,DD,AD5420AREZ,Хлюнев А.А.,09.11.2012_10:38,,,10.06.2010_15:27,,,AD5420AREZ,,Any,,Any,Any,Any,,,,
-AD597AR,T:\\Components\\AnalogDevices\\Thermocouple\\AD596_AD597.pdf,RS-485,T:\Components\AnalogDevices\Thermocouple\AD596_AD597.pdf,SO_8,RS-485,DD,AD597AR,Миронова,14.08.2012_09:54,,,13.08.2012_15:35,,,AD597AR,,Any,,Any,Any,Any,,,,
-AD7124-4,T:\\Components\\AnalogDevices\\ADC\\AD7124-4.pdf,АЦП.,T:\Components\AnalogDevices\ADC\AD7124-4.pdf,TSSOP_24,АЦП.,DA,AD7124-4,Клюев С.В.,08.05.2018 13:58,,,08.05.2018 13:58,,,Any,,AD7124-4BRUZ,,Any,Any,Any,,,,
-AD737JRZ,T:\\Components\\AnalogDevices\\RMS-to-DC Converter\\AD737.pdf,Операционный усилитель.,T:\Components\AnalogDevices\RMS-to-DC Converter\AD737.pdf,SO_8,Операционный усилитель.,DA,AD737JRZ,Миронова,19.06.2013_08:02,,,19.06.2013_08:02,,,AD737JRZ,,Any,,Any,Any,Any,,,,
-AD7705BRU,T:\\Components\\AnalogDevices\\ADC\\AD7705_7706\\AD7705_AD7706.pdf,АЦП.,T:\Components\AnalogDevices\ADC\AD7705_7706\AD7705_AD7706.pdf,TSSOP_16,АЦП.,DA,AD7705BRU,Хлюнев А.А.,08.09.2011_08:23,,,10.06.2010 15:27,,,AD7705BRU,,Any,,Any,Any,Any,,,,
-AD7708BR,T:\\Components\\AnalogDevices\\ADC\\AD7708_7718\\AD7708_7718.pdf,АЦП.,T:\Components\AnalogDevices\ADC\AD7708_7718\AD7708_7718.pdf,Any_PAT,АЦП.,DA,AD7708BR,Хлюнев А.А.,12.07.2013 10:48,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-AD7708BRU,,,T:\Components\AnalogDevices\ADC\AD7708_7718\AD7708_7718.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD7718BRU,,,T:\Components\AnalogDevices\ADC\AD7708_7718\AD7708_7718.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD7794BRU,T:\\Components\\AnalogDevices\\ADC\\AD7794_7795\\AD7794_AD7795.pdf,,T:\Components\AnalogDevices\ADC\AD7794_7795\AD7794_AD7795.pdf,TSSOP_24,,DA,AD7794BRU,Лапин Ю.А.,24.01.2017_10:30,,,24.01.2017_10:30,,,AD7794BRU,,Any,,Any,Any,Any,,,,
-AD7798BR,T:\\Components\\AnalogDevices\\ADC\\AD7798-7799\\AD7798_7799.pdf,,T:\Components\AnalogDevices\ADC\AD7798-7799\AD7798_7799.pdf,TSSOP_16,,DA,AD7798BR,Хлюнев А.А.,12.07.2013 10:48,,,10.06.2010 15:27,,,AD7798BR,,Any,,Any,Any,Any,,,,
-AD8066AR,,,T:\Components\AnalogDevices\Operational Amplifier\AD8066.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD8231ACPZ,T:\\Components\\AnalogDevices\\Operational Amplifier\\AD8231.pdf,,T:\Components\AnalogDevices\Operational Amplifier\AD8231.pdf,LFCSP_16,,DA,AD8231ACPZ,Лапин,03.10.2018_11:42,,,03.10.2018_11:42,,,AD8231ACPZ,,Any,,Any,Any,Any,,,,
-AD8307AR,T:\\Components\\AnalogDevices\\Operational Amplifier\\AD8307.pdf,RS-485,T:\Components\AnalogDevices\Operational Amplifier\AD8307.pdf,SO_8,RS-485,DD,AD8307AR,Миронова,08.12.2014_16:17,,,03.12.2014_16:08,,,AD8307AR,,Any,,Any,Any,Any,,,,
-AD8436ARQZ,T:\\Components\\AnalogDevices\\VoltageConverters\\AD8436.pdf,,T:\Components\AnalogDevices\VoltageConverters\AD8436.pdf,QSOP_20,,DA,AD8436ARQZ,Миронова,01.02.2016_15:20,,,01.02.2016_15:20,,,AD8436ARQZ,,Any,,Any,Any,Any,,,,
-AD8500AKSZ,T:\\Components\\AnalogDevices\\Operational Amplifier\\OP07.pdf,,T:\Components\AnalogDevices\Operational Amplifier\OP07.pdf,Any_PAT,,DA,AD8500AKSZ,Миронова,10.10.2013_08:49,,,10.10.2013_08:49,,,AD8500AKSZ,,Any,,Any,Any,Any,,,,
-AD8551AR_2,Any_DOC,Операционный усилитель.,T:\Components\AnalogDevices\Operational Amplifier\AD8551_AD8552_AD8554.pdf,SO_8,Операционный усилитель.,DA,AD8551AR_2,Хлюнев А.А.,01.02.2016 13:00,,,10.06.2010 15:27,,,AD8551AR_2,,Any,,Any,Any,Any,,,,
-AD8551AR_3,T:\\Components\\AnalogDevices\\Operational Amplifier\\AD8551_AD8552_AD8554.pdf,Операционный усилитель.,T:\Components\AnalogDevices\Operational Amplifier\AD8551_AD8552_AD8554.pdf,SO_8,Операционный усилитель.,DA,AD8551AR_3,Хлюнев А.А.,09.02.2011 13:54,,,10.06.2010 15:27,,,AD8551AR_3,,Any,,Any,Any,Any,,,,
-AD8603AUJ,,,T:\Components\AnalogDevices\Operational Amplifier\AD8603_AD8607_AD8609.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD8605ART,,,T:\Components\AnalogDevices\Operational Amplifier\AD8605_8606_8608.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD8606AR,,,T:\Components\AnalogDevices\Operational Amplifier\AD8605_8606_8608.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD8607AR_1,T:\\Components\\AnalogDevices\\Operational Amplifier\\AD8603_AD8607_AD8609.pdf,Операционный усилитель.,T:\Components\AnalogDevices\Operational Amplifier\AD8603_AD8607_AD8609.pdf,SO_8,Операционный усилитель.,DA,AD8607AR_1,Хлюнев А.А.,17.11.2014_13:42,,,10.06.2010_15:27,,,AD8551AR_1,,Any,,Any,Any,Any,,,,
-AD8638ARZ,,,T:\Components\AnalogDevices\Operational Amplifier\AD8638.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD8638ARZ_2,,,T:\Components\AnalogDevices\Operational Amplifier\AD8638.pdf,,,,,,,,,,,,,,,,,,,,,,
-AD9837,T:\\Components\\AnalogDevices\\DDS\\AD9837.pdf,,T:\Components\AnalogDevices\DDS\AD9837.pdf,10_LFCSP,,DD,AD9837,Mиронова,10.10.2013_16:04,,,10.10.2013_16:04,,,AD9837,,Any,,Any,Any,Any,,,,
-AD9837ACPZ,T:\\Components\\AnalogDevices\\DDS\\AD9837.pdf,,T:\Components\AnalogDevices\DDS\AD9837.pdf,10_LFCSP,,DD,AD9837ACPZ,Mиронова,20.11.2013_10:56,,,20.11.2013_16:04,,,AD9837ACPZ,,Any,,Any,Any,Any,,,,
-AD9837BCPZ,,,T:\Components\AnalogDevices\DDS\AD9837.pdf,,,,,,,,,,,,,,,,,,,,,,
-ADG1334BRSZ,T:\\Components\\AnalogDevices\\Switches\\ADG1334.pdf,,T:\Components\AnalogDevices\Switches\ADG1334.pdf,SSOP_20,,DA,ADG1334BRSZ,Миронова,24.11.2014_15:01,,,24.11.2014_15:01,,,ADG1334BRSZ,,Any,,Any,Any,Any,,,,
-ADG419BR,T:\\Components\\AnalogDevices\\Switches\\ADG419.pdf,,T:\Components\AnalogDevices\Switches\ADG419.pdf,SO_8,,DA,ADG419BR,Миронова,18.11.2014_09:03,,,18.11.2014_09:03,,,ADG419BR,,Any,,Any,Any,Any,,,,
-ADG619BRT,T:\\Components\\AnalogDevices\\Switches\\ADG619_620.pdf,,T:\Components\AnalogDevices\Switches\ADG619_620.pdf,SOT_23_8,,DA,ADG619BRT,Хлюнев,06.09.2011_08:50,,,11.06.2011_13:57,,,ADG619BRT,,Any,,Any,Any,Any,,,,
-ADG633,T:\\Components\\AnalogDevices\\Switches\\ADG633.pdf,,T:\Components\AnalogDevices\Switches\ADG633.pdf,TSSOP_16,,DA,ADG633,Миронова,20.12.2017_14:52,,,20.12.2017_14:52,Any,,ADG633,,,,Any,Any,Any,,,,
-ADG709BRU,,Аналоговый мультиплексор.,T:\Components\AnalogDevices\Switches\ADG709.pdf,,Аналоговый мультиплексор.,,,,,,,,,,,,,,,,,,,,
-ADG712BR,T:\\Components\\AnalogDevices\\Switches\\ADG711_712_713.PDF,,T:\Components\AnalogDevices\Switches\ADG711_712_713.PDF,Any,,DA,ADG712BR,Хлюнев,15.09.2011_11:57,,,23.11.2010_09:09,Any,,ADG712BR,,,,Any,Any,Any,,,,
-ADG712BR_,T:\\Components\\AnalogDevices\\Switches\\ADG711_712_713.PDF,,T:\Components\AnalogDevices\Switches\ADG711_712_713.PDF,Any,,DA,ADG712BR_,Хлюнев,27.04.2012_14:22,,,23.11.2010_09:09,Any,,ADG712BR_,,,,Any,Any,Any,,,,
-ADG721BRM,T:\\Components\\AnalogDevices\\Switches\\ADG721_722_723.pdf,Коммутатор.,T:\Components\AnalogDevices\Switches\ADG721_722_723.pdf,TSSOP_8,Коммутатор.,DA,ADG721BRM,Хлюнев,09.11.2012_10:56,,,11.06.2010_13:57,,,ADG721BRM,,Any,,Any,Any,Any,,,,
-ADG819BRM,T:\\Components\\AnalogDevices\\Switches\\ADG819_820.pdf,Коммутатор.,T:\Components\AnalogDevices\Switches\ADG819_820.pdf,TSSOP_8,Коммутатор.,DA,ADG819BRM,Хлюнев,09.11.2012_10:56,,,11.06.2010_13:57,,,ADG819BRM,,Any,,Any,Any,Any,,,,
-ADM1232ARN,T:\\Components\\AnalogDevices\\SuperVisors\\ADM1232.pdf,,T:\Components\AnalogDevices\SuperVisors\ADM1232.pdf,SO_8,,DD,ADM1232ARN,Миронова,07.09.2012_13:56,,,07.09.2012_13:56,,,TPS3828-33DBVT,,Any,,Any,Any,Any,,,,
-ADM2587EBRWZ,T:\\Components\\AnalogDevices\\Interface\\RS-485\\ADM2582E_2587E.pdf,Signal and Power Isolated RS-485 Transceiver with ±15 kV ESD Protection.,T:\Components\AnalogDevices\Interface\RS-485\ADM2582E_2587E.pdf,SOIC_20,RS-485,DD,ADM2587EBRWZ,Хлюнев А.А.,14.09.2011_16:01,,,10.06.2010_15:27,,,ADM2587EBRWZ,,Any,,Any,Any,Any,,,,
-ADM3483ARZ,T:\\Components\\AnalogDevices\\Interface\\RS-485\\ADM3483_3485_3488_3490_3491.pdf,RS-485,T:\Components\AnalogDevices\Interface\RS-485\ADM3483_3485_3488_3490_3491.pdf,SO_8,RS-485,DD,ADM3483ARZ,Хлюнев А.А.,17.02.2011 11:06,,,10.06.2010 15:27,,,ADM3483ARZ,,Any,,Any,Any,Any,,,,
-ADM660AR,T:\\Components\\AnalogDevices\\VoltageConverters\\ADM660_8660.pdf,Преобразователь напряжения.,T:\Components\AnalogDevices\VoltageConverters\ADM660_8660.pdf,SO_8,Преобразователь напряжения.,DA,ADM660AR,Хлюнев А.А.,26.01.2012_ 14:17,,,11.06.2010_13:31,,,Any,,Any,,Any,Any,Any,,,,
-ADM8660AR,T:\\Components\\AnalogDevices\\VoltageConverters\\ADM660_8660.pdf,Преобразователь напряжения.,T:\Components\AnalogDevices\VoltageConverters\ADM660_8660.pdf,SO_8,Преобразователь напряжения.,DA,ADM8660AR,Хлюнев А.А.,16.02.2012_15:20,,,11.06.2010_13:31,,,Any,,Any,,Any,Any,Any,,,,
-ADS1241E,T:\\Components\\TexasInstruments\\BurrBrown\\ADC\\ADS1240_ADS1241\\ADS1240_ADS1241.pdf,АЦП,T:\Components\TexasInstruments\BurrBrown\ADC\ADS1240_ADS1241\ADS1240_ADS1241.pdf,SSOP_28,АЦП,DA,ADS1241E,Хлюнев А.А.,09.02.2011 14:20,,,10.06.2010 15:27,,,ADS1241E,,Any,,Any,Any,Any,,,,
-ADS8325,T:\\Components\\TexasInstruments\\BurrBrown\\ADC\\ADS8325\\ads8325.pdf,АЦП.,T:\Components\TexasInstruments\BurrBrown\ADC\ADS8325\ads8325.pdf,TSSOP_8,АЦП.,DA,ADS8325,Миронова,09.11.2012_11:12,,,07.02.2012_11:52,,,ADS8325,,Any,,Any,Any,Any,,,,
-ADUM1400ARW,Any_DOC,Цифровой изолятор.,T:\Components\AnalogDevices\OptoIsolators\ADuM1400_ADuM1401_ADuM1402.pdf,SOIC_16,Цифровой изолятор.,DD,ADUM1400ARW,Хлюнев А.А.,05.09.2011 08:44,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-AM1D-2405DZ,T:\\Components\\Aimtec\\DC_DC\\AM1D-Z.PDF,,T:\Components\Aimtec\DC_DC\AM1D-Z.PDF,AM1D,,DA,AM1D-2405DZ,Хлюнев А.А.,01.09.2011 13:45,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-AM1S-0503S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-0505S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-0507S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-0509S,Any_PAT,DC/DC,T:\Components\Aimtec\DC_DC\AM1S.PDF,AM1S,DC/DC,DA,AM1S-0509S,Хлюнев А.А.,05.03.2011 09:10,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-AM1S-0512S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-0515S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-0518S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-0524S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-1203S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-1205S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-1207S,,DC/DC,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC,,,,,,,,,,,,,,,,,,,,
-AM1S-1209S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-1212S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-1215S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-1218S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-1224S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-2403S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-2405S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-2407S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-2409S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-2412S,,DC/DC,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC,,,,,,,,,,,,,,,,,,,,
-AM1S-2415S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-2418S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM1S-2424S,,DC/DC.,T:\Components\Aimtec\DC_DC\AM1S.PDF,,DC/DC.,,,,,,,,,,,,,,,,,,,,
-AM5T-1205D,T:\\Components\\Aimtec\\DC_DC\\am5t.pdf,,T:\Components\Aimtec\DC_DC\am5t.pdf,AM5T,,DA,AM5T-1205D,Миронова,14.01.2014_11:27,,,14.01.2014_11:27,,,Any,,Any,,Any,Any,Any,,,,
-AM5T-1205S,,,T:\Components\Aimtec\DC_DC\am5t.pdf,,,,,,,,,,,,,,,,,,,,,,
-AM5T-2403S,Any_DOC,DC/DC,T:\Components\Aimtec\DC_DC\am5t.pdf,AM5T,DC/DC,DA,AM5T-2403S,Хлюнев А.А.,10.09.2015_12:01,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-AM5T-2405S,,DC\DC,T:\Components\Aimtec\DC_DC\am5t.pdf,,DC\DC,,,,,,,,,,,,,,,,,,,,
-AMP1473005-1,,,T:\Components\ZAO-ZEO\Tion\tion-v1.3.pdf,,,,,,,,,,,,,,,,,,,,,,
-ANR26650M1A,Any_DOC,,,Any_PAT,,GP,ANR26650M1A,Миронова,13.12.2013_10:06,,,11.10.2013_16:06,,,ANR26650M1A,,Any,,Any,Any,Any,,,,
-AP5100,T:\\Components\\Diodes Inc\\AP5100.pdf,,T:\Components\Diodes Inc\AP5100.pdf,SOT_23,,DD,AP5100,Миронова,,25.12.13_10:55,,25.12.13_10:55,,,AP5100,,Any,,Any,Any,Any,,,,
-AT89C2051-12PC,T:\\Components\\Atmel\\CPU\\AT89C2051\\AT89C2051.pdf,,T:\Components\Atmel\CPU\AT89C2051\AT89C2051.pdf,Any_PAT,,DD,AT89C2051-12PC,Миронова,09.10.2012_10:57,,,05.09.2012_14:08,,,AT89C2051-12PC,,Any,,Any,Any,Any,,,,
-AT89C2051-12PC_,,,T:\Components\Atmel\CPU\AT89C2051\AT89C2051.pdf,,,,,,,,,,,,,,,,,,,,,,
-AT89S8253-24AI,T:Components\\Atmel\\CPU\\AT89S8253\\AT89S8253.pdf,,T:Components\Atmel\CPU\AT89S8253\AT89S8253.pdf,TQFP_44,,DD,AT89S8253-24AI,Миронова,11.12.2012_11:35,,,05.09.2012_14:35,,,AT89S8253-24AI,,Any,,Any,Any,Any,,,,
-Arrows,Any,,,Any,,AR,Arrows,Хлюнев А.А.,09.08.2011 11:21,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-B0505XT-1WR2,T:\\Components\\Mourmsun\\B_XT-1WR2.pdf,DC/DC,T:\Components\Mourmsun\B_XT-1WR2.pdf,SMD_8,DC/DC,DA,B0505XT-1WR2,Миронова,17.08.2015_14:50,,,07.04.2015_11:55,,,B0505XT-1WR2,,Any,,Any,Any,Any,,,,
-B2405XT-1WR2,,,T:\Components\Mourmsun\B_XT-1WR2.pdf,,,,,,,,,,,,,,,,,,,,,,
-B2409XT-1WR2,,,T:\Components\Mourmsun\B_XT-1WR2.pdf,,,,,,,,,,,,,,,,,,,,,,
-B2415XT-1WR2,,,T:\Components\Mourmsun\B_XT-1WR2.pdf,,,,,,,,,,,,,,,,,,,,,,
-B57164K104J,T:\\Components\\Epcos\\NTC thermistor\\B57164.pdf,Резистор,T:\Components\Epcos\NTC thermistor\B57164.pdf,B57164K104J,Резистор,R,B57164K104J,Миронова,,20.02.2018_14:30,,20.02.2018_14:30,,Any,,Any,Any,,,,,Any,,,Any
-B82721K,T:\\Components\\Epcos\\Inductors\\B82721.pdf,Дроссель аксиальный.,T:\Components\Epcos\Inductors\B82721.pdf,B82721K,Дроссель аксиальный.,L,B82721K,Миронова,20.03.2017 _14:45,,,20.03.2017 _14:45,,,B82721K,,Any,,Any,Any,Any,,,,
-B827290C0,T:\\Components\\Epcos\\Inductors\\B82790C0.pdf,Дроссель аксиальный.,T:\Components\Epcos\Inductors\B82790C0.pdf,B827290C0,Дроссель аксиальный.,L,B827290C0,Миронова,20.03.2017 _14:50,,,20.03.2017 _14:50,,,B827290C0,,Any,,Any,Any,Any,,,,
-B9-1212S,T:\\Components\\BOTHHAND\\B9-1212S.pdf,,T:\Components\BOTHHAND\B9-1212S.pdf,SPB03,,DA,B9-1212S,Миронова,29.09.2016_10:32,,,30.03.2012_11:32,,,B9-1212S,,Any,,Any,Any,Any,,,,
-BAV99,T:\\Components\\NXP\\Diode\\BAV99.pdf,,,SOT_23,,VD,BAV99,Лапин,04.02.2019_15:28,,,04.02.2019_15:28,,,BAV99,,Any,,Any,Any,Any,,,,
-BC847,Any_DOC,Транзистор.,T:\Components\Motorola\Transistors\BC846_847_848_849_850.pdf,Any_PAT,Транзистор.,VT,BC847,Хлюнев,09.10.2011_11:33,,,07.06.2010_14:34,,,BC847,,Any,,Any,Any,Any,,,,
-BC857,Any_DOC,,T:\Components\Motorola\Transistors\BC856_857_858.pdf,Any_PAT,,VT,BC857,хлюнев,09.10.2011_12:03,,,07.06.2010_14:34,,,BC857,,Any,,Any,Any,Any,,,,
-BLA2AB,Any_DOC,Резистор,T:\Components\Murata\EMI_Suppression_Filters_DC.pdf,Any_PAT,Резистор,L,BLA2AB,Хлюнев А.А.,,22.09.2015_10:37,,07.09.2010 12:56,,Any,,Any,Any,,,,,Any,,,Any
-BLM0805,Any_DOC,Дроссель аксиальный.,T:\Components\Murata\EMI_Suppression_Filters_DC.pdf,Any_PAT,Дроссель аксиальный.,L,BLM0805,Миронова,18.04.2019_15:21,,,03.09.2015_08:33,,,Any,Any,Any,,,Any,Any,,,,
-BLM18HE,,,T:\Components\Murata\BLM18HE.pdf,,,,,,,,,,,,,,,,,,,,,,
-BLM31PG601SN1,,,T:\Components\Murata\EMI_Suppression_Filters_DC.pdf,,,,,,,,,,,,,,,,,,,,,,
-BLM31PG601SN1_PWR,,,T:\Components\Murata\EMI_Suppression_Filters_DC.pdf,,,,,,,,,,,,,,,,,,,,,,
-BLS-2,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-BLS-4,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-BNX002-01,T:\\Components\\Murata\\EMI\\BNX002-01.pdf,,T:\Components\Murata\EMI\BNX002-01.pdf,BNX002-01,,Z,BNX002-01,Миронова,20.03.2017_15:38,,,20.03.2017_15:38,,,BNX002-01,,Any,,Any,Any,Any,,,,
-BSP_78,T:\\Components\\Infineon\\BSP78.PDF,,T:\Components\Infineon\BSP78.PDF,SOT_223,,DA,BSP_78,Миронова,03.12.2018_11:09,,,23.11.2010_09:09,Any,,BSP_78,,,,Any,Any,Any,,,,
-BT-12S,T:\\Components\\ECE\\ECE_e_fram.pdf,,T:\Components\Bestar\Relay\BT.pdf,BT_12S,,K,BT-12S,Хлюнев А.А.,19.01.2012_10:25,,,10.06.2010 15:27,,,BT-12S,,Any,,Any,Any,Any,,,,
-BZV55C5V6,T:\\Components\\MicroSemi\\Zeners\\BZV55_C2V4_C75.pdf,,,BZV55,,VD,BZV55C5V6,Хлюнев А.А.,22.03.2012_15:50,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-BZX84C4V3,T:\\Components\\Diodes Inc\\bzx84c.pdf,,,SOT_23,,VD,BZX84C4V3,Миронова,31.01.2019_13:45,,,31.01.2019_13:45,,,Any,,Any,,Any,Any,Any,,,,
-"C2-29B-0,125_G",,,,,,,,,,,,,,,,,,,,,,,,,
-C3917-34BTTI00,Any_DOC,,,Any_PAD,,X,C3917-34BTTI00,Хлюнев А.А.,16.09.2011_11:38,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-CAT661EVA,T:\\Components\\ON Semiconductor\\Voltage Regulators\\cat661.pdf,,T:\Components\ON Semiconductor\Voltage Regulators\cat661.pdf,SO_8,,DA,CAT661EVA,Денисов_Е.А.,,25.012018,,25.01.2018,,,CAT661EVA,,Any,,Any,Any,Any,,,,
-CD4011BM,T:\\Components\\TexasInstruments\\Logic\\CD4011B.pdf,,T:\Components\TexasInstruments\Logic\CD4011B.pdf,SO_14,,DD,CD4011BM,Миронова,03.05.2012_11:39,,,06.10.2011_14:22,,,CD4011BM,,Any,,Any,Any,Any,,,,
-CD4049UBD,,,T:\Components\TexasInstruments\Logic\CD4049.pdf,,,,,,,,,,,,,,,,,,,,,,
-CD74HC4049B,Any_DOC,6 инверторов.,,SO_16,6 инверторов.,DD,CD74HC4049B,Хлюнев А.А.,10.06.2016_15:04,,,10.06.2010_15:27,,,CD74HC4049B,,Any,,Any,Any,Any,,,,
-CDRH104RNP,T:\\Components\\SUMIDA\\CDRH104RNP.pdf,Дроссель аксиальный.,T:\Components\SUMIDA\CDRH104RNP.pdf,CDRH104RNP,Дроссель аксиальный.,L,CDRH104RNP,Миронова,08.04.2015 _09:27,,,08.04.2015 _09:27,,,CDRH104RNP-221NC,,Any,,Any,Any,Any,,,,
-CDRH127/LDNP,,,T:\Components\SUMIDA\sumida-cdrh127ld.pdf,,,,,,,,,,,,,,,,,,,,,,
-CDRH2D18/LDNP-100NC,,,T:\Components\SUMIDA\CDRH2D18_LDNP.pdf,,,,,,,,,,,,,,,,,,,,,,
-CDRH5D28N,,,"T:\Components\Murata\CDRH5D28,5D28R,5D28RHP.pdf",,,,,,,,,,,,,,,,,,,,,,
-CDRH8D43NP,,,T:\Components\SUMIDA\sumida-cdrh8d43.pdf,,,,,,,,,,,,,,,,,,,,,,
-CDSOD323-T03C,T:\\Components\\Vishay\\Diode\\smaj36ca.PDF,,,CDSOD323,,VD,CDSOD323-T03C,Хлюнев А.А.,14.09.2011_13:34,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-CH25-2032,Any_DOC,,,CH25_2032,,X,CH25-2032,Хлюнев А.А.,31.08.2011 14:56,,,23.07.2010 15:07,,,,,Any,Any,Any,Any,Any,,,,
-CON-24,Any_DOC,,,Any_PAT,,X,CON-24,Хлюнев А.А.,30.04.2015_08:23,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-CON-25,Any_DOC,,,Any_PAT,,X,CON-25,Хлюнев А.А.,30.04.2015_08:23,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-CPFC54,T:\\Components\\SUMIDA\\CPFC54.pdf,Дроссель аксиальный.,T:\Components\SUMIDA\CPFC54.pdf,CPFC54,Дроссель аксиальный.,L,CPFC54,Миронова,08.04.2015 _10:27,,,08.04.2015 _10:27,,,CPFC54-102C,,Any,,Any,Any,Any,,,,
-CR2032,Any_DOC,,,Any_PAT,,GP,CR2032,Хлюнев А.А.,06.10.2011 11:06,,,10.06.2010 15:27,,,CR2032,,Any,,Any,Any,Any,,,,
-CS8952-CQ,T:\\Components\\Cirrus Logic\\EtherNet\\CS8952_F1.pdf,,T:\Components\Cirrus Logic\EtherNet\CS8952_F1.pdf,TQFP_100,,DD,CS8952-CQ,Хлюнев А.А.,14.09.2011_15:48,,,10.06.2010_15:27,,,CS8952-CQ,,Any,,Any,Any,Any,,,,
-D1A050D00,,,T:Components\TexasInstruments\D1A050D00.pdf,,,,,,,,,,,,,,,,,,,,,,
-DB107,T:\\Components\\Diodes Inc\\DB101 - DB107.pdf,,,DB107,,VD,DB107,Хлюнев А.А.,14.09.2012 14:44,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-DB9,Any_DOC,,,Any_PAT,,X,DB9,Хлюнев А.А.,16.09.2011_11:50,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DC08-11GWA,T:\\Components\\KingBright\\Display\\DC08-11GWA(Ver1189474697.8).pdf,LED indicator.,T:\Components\KingBright\Display\DC08-11GWA(Ver1189474697.8).pdf,SO_16,LED indicator.,HG,DC08-11GWA,Хлюнев А.А.,14.09.2011_15:59,,,10.06.2010_15:27,,,DC08-11GWA,,Any,,Any,Any,Any,,,,
-DE2E3,,,T:\Components\Murata\Capacitors\DE2E3.pdf,,,,,,,,,,,,,,,,,,,,,,
-DG142V-02P,Any_DOC,,,Any_PAT,,X,DG142V-02P,Хлюнев А.А.,19.02.2019_13:26,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-03P,Any_DOC,,,Any_PAT,,X,DG142V-03P,Хлюнев А.А.,19.04.2019_13:50,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-04P,Any_DOC,,,Any_PAT,,X,DG142V-04P,Хлюнев А.А.,08.06.2018_11:13,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-04P_2,Any_DOC,,,Any_PAT,,X,DG142V-04P_2,Миронова,29.12.2016_11:26,,,27.09.2016_11:26,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-05P,T:\\Components\\Degson\\dg142v.pdf,,,DG142V_05P,,X,DG142V-05P,Хлюнев А.А.,16.09.2011_14:07,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-06P,Any_DOC,,,Any_PAT,,X,DG142V-06P,Хлюнев А.А.,29.04.2019_15:07,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-06P_2,Any_DOC,,,Any_PAT,,X,DG142V-06P_2,Миронова,27.09.2016_11:26,,,27.09.2016_11:26,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-07P,T:\\Components\\Degson\\dg142v.pdf,,,Any_PAT,,X,DG142V-07P,Хлюнев А.А.,16.09.2011 _14:11,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-08P,Any_DOC,,,Any_PAT,,X,DG142V-08P,Хлюнев А.А.,19.04.2019_14:11,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-08P_3,Any_DOC,,,Any_PAT,,X,DG142V-08P_3,Миронова,27.12.2016_10:18,,,27.09.2016_11:26,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-12P,Any_DOC,,,DG142V_12P,,X,DG142V-12P,Миронова,20.03.2018_15:22,,,15.03.2016_14:58,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-14P,T:\\Components\\Degson\\dg142v.pdf,,,DG142V_14P,,X,DG142V-14P,Миронова,12.10.2016_08:27,,,18.03.2016_14:58,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-14P_4,Any_DOC,,,Any_PAT,,X,DG142V-14P_4,Миронова,12.10.2016_08:17,,,27.09.2016_11:07,,,,,Any,Any,Any,Any,Any,,,,
-DG142V-16P,T:\\Components\\Degson\\dg142v.pdf,,,DG142V_16P,,X,DG142V-16P,Миронова,18.03.2016_14:58,,,18.03.2016_14:58,,,,,Any,Any,Any,Any,Any,,,,
-DG409DY,Any_DOC,Аналоговый мультиплексор.,T:\Components\Intersil\Switch\DG408_DG409.pdf,Any_PAD,Аналоговый мультиплексор.,DA,DG409DY,Хлюнев,25.06.2013_12:04,,,11.06.2011_13:57,,,DG409DY,,Any,,Any,Any,Any,,,,
-DHR-44FA,T:\\Components\\Conn\\DHR\\dhr-fm_1038.pdf,,,DHR_44,,X,DHR-44FA,Миронова,25.11.2014_13:56,,,25.11.2014_13:56,,,,,Any,Any,Any,Any,Any,,,,
-DIP-20SM,T:\\Components\\Conn\\PLS\\DIP-20.pdf,,,DIP_20SM,,X,DIP-20SM,Миронова,11.09.2012_10:33,,,11.09.2012_10:33,,,DIP-20SM,,Any,,Any,Any,Any,,,,
-DM3C-SF,T:\\Components\\Hirose\\Connectors\\e60900232.pdf,,,DM3C-SF,,X,DM3C-SF,Хлюнев А.А.,16.09.2011_12:32,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-DRV8816,T:/Components/TexasInstruments/MotorControl/drv8816.pdf,,T:/Components/TexasInstruments/MotorControl/drv8816.pdf,HTSSOP_16,,DD,DRV8816,Клюев С.В.,,04.05.2018,,04.05.2018,,,DRV8816,,DRV8816PWP,,Any,Any,Any,,,,
-DRV8823DCA,Any_DOC,,T:\Components\TexasInstruments\MotorControl\drv8823.pdf,TSOP-48,,DA,DRV8823DCA,Лапин,09.04.2018_11:42,,,09.04.2018_11:42,,,DRV8823DCA,,Any,,Any,Any,Any,,,,
-DRV8825,T:/Components/TexasInstruments/MotorControl/drv8825.pdf,,T:/Components/TexasInstruments/MotorControl/drv8825.pdf,HTSSOP_28,,DD,DRV8825,Клюев С.В.,,04.05.2018,04.05.2018,,,,DRV8825,,Any,,Any,Any,Any,,,,
-EC24,Any_DOC,Дроссель аксиальный.,T:\Components\Coils\EC.pdf,Any_PAT,Дроссель аксиальный.,L,EC24,Хлюнев А.А.,16.03.2018_14:28,,,10.06.2010_15:27,,,Any,Any,Any,,,Any,Any,,,,
-EC24_PWR,T:\\Components\\Coils\\EC.pdf,Дроссель аксиальный.,T:\Components\Coils\EC.pdf,EC24,Дроссель аксиальный.,L,EC24_PWR,Миронова,20.10.2011_15:57,,,20.10.2011_15:57,,,Any,,Any,,Any,Any,Any,,,,
-ECAP_NP,,,T:\Components\Capacity\ECAP NP.pdf,,,,,,,,,,,,,,,,,,,,,,
-EDR3D1C05,T:\\Components\\ECE\\ECE_e_fram.pdf,Реле.,T:\Components\ECE\ECE_e_fram.pdf,EDR3D,Реле.,K,EDR3D1C05,Миронова,08.11.2011_12:07,,,08.11.2011_12:07,,,EDR3D1C05,,Any,,Any,Any,Any,,,,
-EDR3H1A05,Any_DOC,Реле.,T:\Components\ECE\EDR3H1A05.pdf,EDR3H,Реле.,K,EDR3H1A05,Хлюнев А.А.,01.04.2019_11:42,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-ER14250-VB,,,T:Components/EEMB/ER14250_VB.pdf,,,,,,,,,,,,,,,,,,,,,,
-FCM1608-0603,,,T:\Components\TAI_Tech\fcm1608.pdf,,,,,,,,,,,,,,,,,,,,,,
-FDB7030BL,,,T:\Components\FairChild\MOSFET\FDB7030BL.pdf,,,,,,,,,,,,,,,,,,,,,,
-FDC1004,T:\\Components\\TexasInstruments\\CapSence\\FDC1004.pdf,,T:\Components\TexasInstruments\CapSence\FDC1004.pdf,VSSOP_10,,DA,FDC1004,Лапин_Ю.А.,06.08.2018_13:45,,,06.08.2018 13:27,,,FDC1004,,Any,,Any,Any,Any,,,,
-FH-101C,T:\\Components\\Dragon City Industries\\Fuse Holders\\FH-101C.pdf,Fuse holder.,T:\Components\Dragon City Industries\Fuse Holders\FH-101C.pdf,FH_101C,Fuse holder.,X,FH-101C,Хлюнев А.А.,08.09.2011 11:26,,,10.06.2010 15:27,,,FH-101C,,Any,,Any,Any,Any,,,,
-FH12-45S-0.5SH,T:\\Components\\Conn\\FH12 Series.pdf,,,FH12_45S,,X,FH12-45S-0.5SH,Миронова,20.04.2015_14:51,,,20.04.2015_14:51,,,,,Any,Any,Any,Any,Any,,,,
-FM25L04B-G,T:\\Components\\Cypress\\FM25L04B-G.pdf,,T:\Components\Cypress\FM25L04B-G.pdf,SO_8,,DD,FM25L04B-G,Миронова,,12.12.13_10:00,,12.12.13_10:00,,,Any,,Any,,Any,Any,Any,,,,
-FNR-07K560,Any_DOC,Резистор,T:\Components\FENGHUA\FNR.pdf,K10-17,Резистор,RU,FNR-07K560,Миронова,,17.08.2015_15:02,,09.04.2015_08:19,,Any,,Any,Any,,,,,Any,,,Any
-FT8U232BM,T:\\Components\\FTDI\\DS_FT232BM.pdf,FT232BM USB UART ( USB - Serial) I.C.,T:\Components\FTDI\DS_FT232BM.pdf,LQFP_32,FT232BM USB UART ( USB - Serial) I.C.,DD,FT8U232BM,Хлюнев А.А.,13.05.2013_14:13,,,10.06.2010_15:27,,,FT8U232BM,,Any,,Any,Any,Any,,,,
-FX8C-100S-SV,T:\\Components\\Hirose\\Connectors\\e57805019.pdf,,,FX8C_100,,X,FX8C-100S-SV,Миронова,28.01.2014_10:58,,,20.11.2013_10:12,,,,,Any,Any,Any,Any,Any,,,,
-GND,Any,,,Any,,#PWR,GND,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-GND1,Any,,,Any,,#PWR,GND1,Хлюнев А.А.,05.03.2011 09:46,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-GND2,Any,,,Any,,#PWR,GND2,Хлюнев А.А.,05.03.2011 09:46,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-GND3,Any,,,Any,,#PWR,GND3,Хлюнев А.А.,27.11.2013_12:41,,,27.11.2013_12:41,,,Any,,Any,,Any,Any,Any,,,,
-GRM1206,Any_DOC,Чип емкость 1206,,Any_PAT,Чип емкость 1206,C,GRM1206,Хлюнев А.А.,,16.12.2013_11:13,,07.09.2010 13:20,,,,Any,Any,,,,,Any,Any,Any,
-GRM2220,,,T:\Components\Murata\Capacitors\grm2220.pdf,,,,,,,,,,,,,,,,,,,,,,
-H1102,T:\\Components\\Pulse\\Magnetic\\H325.pdf,Однопортовый трансформаторный модуль для 10/100 BASE-T фирмы Pulse.,T:\Components\Pulse\Magnetic\H325.pdf,Any,Однопортовый трансформаторный модуль для 10/100 BASE-T фирмы Pulse.,DD,H1102,Хлюнев,06.09.2011_13:49,,,10.06.2010_16:09,,,H1102,,Any,,Any,Any,Any,,,,
-HC49,Any_DOC,Кварцевый резонатор HC49.,T:\Components\Golledge\hc49.pdf,Any_PAT,Кварцевый резонатор HC49.,ZQ,HC49,Хлюнев А.А.,10.02.2015_09:41,,,10.06.2010 15:27,,,,0 МГц,Any,,Any,Any,Any,,,,
-HC49U,,Кварцевый резонатор HC49U.,,,Кварцевый резонатор HC49U.,,,,,,,,,,,,,,,,,,,,
-HC49_G,,,T:\Components\Golledge\hc49.pdf,,,,,,,,,,,,,,,,,,,,,,
-HEF4049BT,,,T:\Components\NXP\Logic\HEF4049B.pdf,,,,,,,,,,,,,,,,,,,,,,
-HI1206N101R-00,,,T:\Components\Steward\FB\hi1206n101r-10.pdf,,,,,,,,,,,,,,,,,,,,,,
-HI1206N101R-00_PWR,Any_DOC,Дроссель аксиальный.,T:\Components\Steward\FB\hi1206n101r-10.pdf,P1-12-1206,Дроссель аксиальный.,L,HI1206N101R-00_PWR,Миронова,23.04.2012_13:10,,,22.11.2011_13:41,,,Any,,Any,,Any,Any,Any,,,,
-HI1206N101R-10,,,T:\Components\\Laird Technologes\HI1206N101R-10-587378.pdf,,,,,,,,,,,,,,,,,,,,,,
-HK3FF,T:\\Components\\Bestar\\Relay\\HR703F.pdf,,T:\Components\Bestar\Relay\HR703F.pdf,HK3FF,,K,HK3FF,Миронова,15.11.2016_14:42,,,15.11.2016_14:42,,,HK3FF,,Any,,Any,Any,Any,,,,
-HPM14AX,T:\\Components\\SoniCrest\\HPM14AX_vnxr.pdf,,T:\Components\SoniCrest\HPM14AX_vnxr.pdf,HPM14AX,,HA,HPM14AX,Хлюнев,17.02.2012_11:06,,,08.09.2010_14:22,,,HPM14AX,,Any,,Any,Any,Any,,,,
-Hat,,,,,,XX,Hat,,,,,,,,,,,,,,,,,,
-ICL60002,,,T:\Components\Renesas\REF\isl60002.pdf,,,,,,,,,,,,,,,,,,,,,,
-ICL7660SCBA,T:\\Components\\Intersil\\Voltage Converters\\ICL7660S.pdf,Преобразователь напряжения.,T:\Components\Intersil\Voltage Converters\ICL7660S.pdf,SO_8,Преобразователь напряжения.,DA,ICL7660SCBA,Миронова,01.11.2011_16:10,,,01.11.2011_16:10,,,ICL7660SCBA,,Any,,Any,Any,Any,,,,
-ICL7667CBA,T:\\Components\\Intersil\\MOSFET Driver\\ICL7667.pdf,MOSFET драйвер.,T:\Components\Intersil\MOSFET Driver\ICL7667.pdf,SO_8,MOSFET драйвер.,DA,ICL7667CBA,Хлюнев А.А.,02.09.2011 14:49,,,10.06.2010 15:27,,,ICL7667CBA,,Any,,Any,Any,Any,,,,
-IDC-06F,Any_DOC,,,Any_PAT,,X,IDC-06F,Хлюнев А.А.,03.03.2017_07:59,,,30.01.2015_15:07,,,,,Any,Any,Any,Any,Any,,,,
-IDC-10M,Any_DOC,,,Any_PAT,,X,IDC-10M,Хлюнев А.А.,26.04.2097_13:30,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-IDC-14MS,T:\\Components\\Tyco\\IDC.pdf,,,IDC_14M,,X,IDC-14MS,Хлюнев А.А.,04.04.2016_09:20,,,24.05.2012_14:15,,,,,Any,Any,Any,Any,Any,,,,
-IDC-16M,Any_DOC,,,Any_PAT,,X,IDC-16M,Хлюнев А.А.,04.08.2075_10:15,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-IDC-24M,Any_DOC,,,Any_PAT,,X,IDC-24M,Хлюнев А.А.,08.08.2012_10:18,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-IDC-30M,Any_DOC,,,Any_PAT,,X,IDC-30M,Хлюнев А.А.,20.12.2011_12:49,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-IDC-30M_2,T:\\Components\\Tyco\\IDC.pdf,,,IDC_30M,,X,IDC-30M_2,Хлюнев А.А.,12.12.2011_13:55,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-IDC-40M,Any_DOC,,,IDC_40M,,X,IDC-40M,Хлюнев А.А.,22.09.2015_09:14,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-IDCC-24MR_10,T:\\Components\\Tyco\\IDC.pdf,,,IDCC_24MR,,X,IDCC-24MR_10,Миронова,04.09.2012_08:31,,,04.09.2012_08:31,,,,,Any,Any,Any,Any,Any,,,,
-IDCC-24MR_14,T:\\Components\\Tyco\\IDC.pdf,,,IDCC_24MR,,X,IDCC-24MR_14,Миронова,04.09.2012_08:31,,,04.09.2012_08:31,,,,,Any,Any,Any,Any,Any,,,,
-IDCC-24MR_8,T:\\Components\\Tyco\\IDC.pdf,,,IDCC_24MR,,X,IDCC-24MR_8,Миронова,04.09.2012_08:31,,,04.09.2012_08:31,,,,,Any,Any,Any,Any,Any,,,,
-IGC24-4-7F,T:\\Components\\Indicator\\IGC-2.pdf,LED indicator.,T:\Components\Indicator\IGC-2.pdf,SO_16,LED indicator.,HG,IGC24-4-7F,Миронова,13.08.2012_13:27,,,13.08.2012_13:27,,,IGC24-4-7F,,,,Any,Any,Any,,,,
-IR3220S,T:\\Components\\International Rectifier\\Motor Controller\\ir3220s.pdf,Signal and Power Isolated RS-485 Transceiver with ±15 kV ESD Protection.,T:\Components\International Rectifier\Motor Controller\ir3220s.pdf,SOIC_20,RS-485,DD,IR3220S,Сафронов А.В.,24.09.2012_12:57,,,20.09.2012_16:09,,,IR3220S,,Any,,Any,Any,Any,,,,
-IRF7416,T:\\Components\\International Rectifier\\HEXFET\\IRF7416.PDF,,T:\Components\International Rectifier\HEXFET\IRF7416.PDF,SOT_23,,VT,IRF7416,Хлюнев,06.09.2011_14:20,,,07.06.2010_14:34,,,IRF7416,,Any,,Any,Any,Any,,,,
-IRF7484Q,T:\\Components\\International Rectifier\\HEXFET\\irf7484q.pdf,,T:\Components\International Rectifier\HEXFET\irf7484q.pdf,SO_8,,VT,IRF7484Q,Сафронов,24.09.2012_09:00,,,21.09.2012_09:00,,,IRF7484Q,,Any,,Any,Any,Any,,,,
-IRFR024N,Any_DOC,,T:\Components\International Rectifier\HEXFET\irfr024n.pdf,Any_PAD,,VT,IRFR024N,Хлюнев,11.06.2013_12:34,,,07.06.2010_14:34,,,IRFR024N,,Any,,Any,Any,Any,,,,
-IRLML0060,,,T:\Components\International Rectifier\HEXFET\IRLML0060.pdf,,,,,,,,,,,,,,,,,,,,,,
-IRLML2060,,,T:\Components\International Rectifier\HEXFET\IRLML2060.pdf,,,,,,,,,,,,,,,,,,,,,,
-IRLML2402,T:\\Components\\International Rectifier\\HEXFET\\irlml2402.pdf,HEXFET Power MOSFET.,T:\Components\International Rectifier\HEXFET\irlml2402.pdf,SOT_23,HEXFET Power MOSFET.,VT,IRLML2402,Хлюнев,10.08.2012_13:15,,,07.06.2010_14:34,,,IRLML2402,,Any,,Any,Any,Any,,,,
-IRLML6302,Any_DOC,HEXFET Power MOSFET.,T:\Components\International Rectifier\HEXFET\irlml6302.pdf,SOT_23,HEXFET Power MOSFET.,VT,IRLML6302,Хлюнев,23.04.2014_11:15,,,07.06.2010_14:34,,,IRLML6302,,Any,,Any,Any,Any,,,,
-IRLML6402,,,T:\Components\International Rectifier\HEXFET\irlml6402.pdf,,,,,,,,,,,,,,,,,,,,,,
-IRM-45,T:/Components/Mean Well/AC_DC/IRM45.pdf,DC/DC,T:\Components\Mean Well\AC_DC\IRM45.pdf,IRM-45,DC/DC,A,IRM-45,Клюев С.В.,31.05.2018_14:16,,,31.05.2018_14:16,,,Any,,IRM-45,,Any,Any,Any,,,,
-IRM-45-1,T:/Components/Mean Well/AC_DC/IRM45.pdf,,T:/Components/Mean Well/AC_DC/IRM45.pdf,IRM-45,,A,IRM-45-1,Клюев С.В.,31.05.2018_14:16,,,31.05.2018_14:16,,,Any,,IRM-45,,Any,Any,Any,,,,
-ISO7641FCDW,,,T:\Components\TexasInstruments\Opto\iso7641fc.pdf,,,,,,,,,,,,,,,,,,,,,,
-K10-17,,Емкость,,,Емкость,,,,,,,,,,,,,,,,,,,,
-KAN0611-0431B,,,T:\Components\Buttoms\KAN0611-0431B 6x6x4.3 mm.pdf,,,,,,,,,,,,,,,,,,,,,,
-KP-1608CGCK,Any_DOC,,,Any_PAT,,VD,KP-1608CGCK,Хлюнев А.А.,10.10.2018_10:20,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-KX-38_32768_6pF,,,T:\Components\Geyer\GEYER-KX-38_02.pdf,,,,,,,,,,,,,,,,,,,,,,
-KX-K,T:\\Components\\Geyer\\KX-K-12-87823.pdf,Кварцевый резонатор KX-K 8.0 MHz,T:\Components\Geyer\KX-K-12-87823.pdf,КХ_К,Кварцевый резонатор KX-K 8.0 MHz,ZQ,KX-K,Миронова,23.12.2013_16:27,,,23.12.2013_16:27,,,,"8,0 MГц",Any,,Any,Any,Any,,,,
-KXO-210,T:\\Components\\Geyer\\KXO-210.pdf,Pезонатор.,T:\Components\Geyer\KXO-210.pdf,KXO_210,Pезонатор.,ZQ,KXO-210,Миронова,01.12.2014_13:05,,,01.12.2014_13:05,,,,0 МГц,Any,,Any,Any,Any,,,,
-L7805,,,T:Components\STMicroelectronics\Voltage Regulator\L78xx.pdf,,,,,,,,,,,,,,,,,,,,,,
-L7805ABV,,,T:Components\STMicroelectronics\Voltage Regulator\L7805abv.pdf,,,,,,,,,,,,,,,,,,,,,,
-L7805CD2T,Any_DOC,Регулятор напряжения.,T:Components\STMicroelectronics\Voltage Regulator\L78xx.pdf,TO-263AB,Регулятор напряжения.,DA,L7805CD2T,Миронова,07.04.2015_15:16,,,07.04.2015_15:16,,,L7805CD2T-TR,,Any,,Any,Any,Any,,,,
-L7812,,,T:Components\STMicroelectronics\Voltage Regulator\L78xx.pdf,,,,,,,,,,,,,,,,,,,,,,
-L78L05CD13TR,T:\\Components\\STMicroelectronics\\Voltage Regulator\\L78Lxx.pdf,Регулятор напряжения.,T:\Components\STMicroelectronics\Voltage Regulator\L78Lxx.pdf,SO_8,Регулятор напряжения.,DA,L78L05CD13TR,Хлюнев А.А.,06.09.2011 15:07,,,11.06.2010 13:31,,,Any,,Any,,Any,Any,Any,,,,
-L78L09CZ,T:\\Components\\STMicroelectronics\\Voltage Regulator\\L78Lxx.pdf,Регулятор напряжения.,T:\Components\STMicroelectronics\Voltage Regulator\L78Lxx.pdf,TO_92,Регулятор напряжения.,DA,L78L09CZ,Хлюнев А.А.,15.09.2011_13:13,,,11.06.2010_13:31,,,Any,,Any,,Any,Any,Any,,,,
-LAA110P,Any_DOC,Оптореле.,T:\Components\CLARE\datasheet_LAA110.pdf,"S0_8_2,54",Оптореле.,V,LAA110P,Миронова,12.12.2013_14:52,,,23.09.2011_12:51,,,LAA110,,Any,,Any,Any,Any,,,,
-LD1117DT33TR,T:\\Components\\STMicroelectronics\\Voltage Regulator\\LD1117.pdf,Регулятор напряжения.,T:\Components\STMicroelectronics\Voltage Regulator\LD1117.pdf,DPAK,Регулятор напряжения.,DA,LD1117DT33TR,Миронова,09.02.2015_14:38,,,09.02.2015_14:38,,,LD1117DT33TR,,Any,,Any,Any,Any,,,,
-LF257M,,,T:\Components\National Semiconductor\OpAmp\LF155.pdf,,,,,,,,,,,,,,,,,,,,,,
-LF356M,T:\\Components\\National Semiconductor\\OpAmp\\LF155.pdf,Операционный усилитель.,T:\Components\National Semiconductor\OpAmp\LF155.pdf,Any_PAD,Операционный усилитель.,DA,LF356M,Миронова,03.12.2014_15:27,,,03.11.2011_14:05,,,LF356M,,Any,,Any,Any,Any,,,,
-LF356N,,,T:\Components\National Semiconductor\OpAmp\LF155.pdf,,,,,,,,,,,,,,,,,,,,,,
-LFE8505T,,,T:\Components\Delta\Magnetic\lfe8505.pdf,,,,,,,,,,,,,,,,,,,,,,
-LL4148,Any_DOC,,,Any_PAT,,VD,LL4148,Хлюнев А.А.,25.11.2016_09:40,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-LM2674,T:\\Components\\TexasInstruments\\DC_DC\\LM2674.pdf,,T:\Components\TexasInstruments\DC_DC\LM2674.pdf,SO_8,,DA,LM2674,Миронова,,07.04.15_14:14,,07.04.15_14:14,,,LM2674MX-5.0/NOPB,,Any,,Any,Any,Any,,,,
-LM2760M5,Any_DOC,,T:\Components\National Semiconductor\Voltage Converters\LM2760.PDF,SOT_23_5,,DA,LM2760M5,Миронова,27.04.2012_12:55,,,27.04.2012_12:55,,,LM2760M5,,Any,,Any,Any,Any,,,,
-LM285M,,,T:\Components\TexasInstruments\Voltage Reference\lm285-adj.pdf,,,,,,,,,,,,,,,,,,,,,,
-LM285M-1.2,T:\\Components\\International Rectifier\\Diode\\10mq040n.pdf,Источник опорного напряжения.,T:\Components\National Semiconductor\Voltage Reference\LM185_LM285_LM385-1.2.pdf,SO_8,Источник опорного напряжения.,DA,LM285M-1.2,Хлюнев А.А.,15.09.2011_11:29,,,10.06.2010_15:27,,,LM285M-1.2,,Any,,Any,Any,Any,,,,
-LM285M-1.2_1,T:\\Components\\National Semiconductor\\Voltage Reference\\LM185_LM285_LM385-1.2.pdf,,T:\Components\National Semiconductor\Voltage Reference\LM185_LM285_LM385-1.2.pdf,SO_8,,VD,LM285M-1.2_1,Миронова,24.05.2012_14:38,,,27.04.2012_11:33,,,Any,,Any,,Any,Any,Any,,,,
-LM321,T:\\Components\\TexasInstruments\\OpAmp\\LM321.pdf,,T:\Components\TexasInstruments\OpAmp\LM321.pdf,SOT_23_5,,DA,LM321,Миронова,24.01.2017_10:55,,,24.01.2017_10:55,,,LM321,,Any,,Any,Any,Any,,,,
-LM385M,T:\\Components\\TexasInstruments\\Voltage Reference\\lm285-adj.pdf,,T:\Components\TexasInstruments\Voltage Reference\lm285-adj.pdf,SO_8,,VD,LM385M,Миронова,12.03.2013_13:22,,,12.03.2013_13:22,,,Any,,Any,,Any,Any,Any,,,,
-LM393M,T:\\Components\\AnalogDevices\\Operational Amplifier\\OP07.pdf,,T:\Components\National Semiconductor\Comparators\LM193_LM293_LM393_LM2903.pdf,Any_PAT,,DA,LM393M,Хлюнев А.А.,02.11.2011_09:15,,,10.06.2010 15:27,,,OP07CS,,Any,,Any,Any,Any,,,,
-LM732,T:\\Components\\National Semiconductor\\OpAmp\\lm7321_2082499.pdf,Операционный усилитель.,T:\Components\National Semiconductor\OpAmp\lm7321_2082499.pdf,SO_8,Операционный усилитель.,DA,LM732,Миронова,06.03.2012_16:14,,,06.03.2012_16:14,,,LM732,,Any,,Any,Any,Any,,,,
-LM7321MA,T:\\Components\\National Semiconductor\\OpAmp\\lm7321_2082499.pdf,Операционный усилитель.,T:\Components\National Semiconductor\OpAmp\lm7321_2082499.pdf,SO_8,Операционный усилитель.,DA,LM7321MA,Миронова,06.07.2012_10:38,,,06.07.2012_10:38,,,LM732,,Any,,Any,Any,Any,,,,
-LM95071,T:\\Components\\TexasInstruments\\TemperatueSensor\\lm95071.pdf,,T:\Components\TexasInstruments\TemperatueSensor\lm95071.pdf,SOT_23_5,,DD,LM95071,Миронова,,23.12.13_15:27,,23.12.13_15:27,,,LM95071,,Any,,Any,Any,Any,,,,
-LMC555CM,,,T:\Components\TexasInstruments\Timers\LMC555.pdf,,,,,,,,,,,,,,,,,,,,,,
-LMC6442AIM,,,T:\Components\TexasInstruments\OpAmp\LMC6442.PDF,,,,,,,,,,,,,,,,,,,,,,
-LMV393M,,,T:\Components\National Semiconductor\Comparators\LMV331_LMV393_LMV339.pdf,,,,,,,,,,,,,,,,,,,,,,
-LP2985AIM5-3.3,,,T:\Components\National Semiconductor\Voltage Converters\LP2985.pdf,,,,,,,,,,,,,,,,,,,,,,
-LP2985AIM5-3.5,Any_DOC,Регулятор напряжения.,T:\Components\National Semiconductor\Voltage Converters\LP2985.pdf,Any_PAT,Регулятор напряжения.,DA,LP2985AIM5-3.5,Хлюнев,01.03.2013_11:21,,,02.09.20110_11:52,,,LP2985AIM5-3.5,,Any,,Any,Any,Any,,,,
-LP3981IMM-3.3,Any_DOC,,T:\Components\TexasInstruments\Voltage Reference\lp3981.pdf,SSOP_8,,DA,LP3981IMM-3.3,Денисов,27.09.2017_11:00,,,27.09.2017_11:00,,,LP3981IMM-3.3,,Any,,Any,Any,Any,,,,
-LPC2134,T:\\Components\\NXP\\CPU\\LPC2131_32_34_36_38_4.pdf,Микроконтроллер,T:\Components\NXP\CPU\LPC2131_32_36_38_4.pdf,PQFP_64,Микроконтроллер,DD,LPC2134,Миронова,13.09.2011_15:26,,,07.09.2011_12:53,,,LPC2134,,Any,,Any,Any,Any,,,,
-LPS3015-222ML,,,T:\Components\Coils\lps3015.pdf,,,,,,,,,,,,,,,,,,,,,,
-LPS4018-103ML,,,T:\Components\Inductors\LPS4018ML.pdf,,,,,,,,,,,,,,,,,,,,,,
-LPS4018-103MR,,,T:\Components\Inductors\LPS4018MR.pdf,,,,,,,,,,,,,,,,,,,,,,
-LQH31CN2R2M03L,,,T:\Components\Murata\LQH31CN2R2M03L.pdf,,,,,,,,,,,,,,,,,,,,,,
-"LT1761ES5-3,3",,,,,,,,,,,,,,,,,,,,,,,,,
-LT1761ES5-3.3,,,T:\Components\Linear Technology\Voltage Converters\LT1761.PDF,,,,,,,,,,,,,,,,,,,,,,
-LT1761ES5-5,,Регулятор напряжения.,T:\Components\Linear Technology\Voltage Converters\LT1761.PDF,,Регулятор напряжения.,,,,,,,,,,,,,,,,,,,,
-LTV-817S,T:\\Components\\LiteOn\\Opto\\LTV817S.pdf,High Density Mounting Type Photocoupler.,T:\Components\LiteOn\Opto\LTV817S.pdf,SO_4,High Density Mounting Type Photocoupler.,V,LTV-817S,Хлюнев А.А.,05.09.2011 08:55,,,10.06.2010 15:27,,,LTV-817S,,Any,,Any,Any,Any,,,,
-M41T00S,T:\\Components\\STMicroelectronics\\Time\\M41T00S.pdf,,T:\Components\STMicroelectronics\Time\M41T00S.pdf,SO_8,,DD,M41T00S,Хлюнев,06.09.2011_13:34,,,20.12.2010_15:03,,,M41T00S,,Any,,Any,Any,Any,,,,
-MAX13487E,T:\\Components\\Maxim\\Interface\\RS-485\\MAX13487E-MAX13488E.pdf,,T:\Components\Maxim\Interface\RS-485\MAX13487E-MAX13488E.pdf,SO_8,,DD,MAX13487E,Лапин Ю.А.,09.10.2017_13:27,,,09.10.2017_13:27,,,MAX13487E,,Any,,Any,Any,Any,,,,
-MAX3243CWI,T:\\Components\\Maxim\\Interface\\RS-232C\\MAX3221-MAX3243.pdf,RS-232C,T:\Components\Maxim\Interface\RS-232C\MAX3221-MAX3243.pdf,SSOP_28,RS-232C,DD,MAX3243CWI,Хлюнев А.А.,15.09.2011_08:38,,,10.06.2010_15:27,,,MAX3243CWI,,Any,,Any,Any,Any,,,,
-MAX4678,T:\\Components\\\\Maxim\\Switch\\MAX4677-MAX4679.pdf,,T:\Components\\Maxim\Switch\MAX4677-MAX4679.pdf,TSOP_16,,DA,MAX4678,Миронова,15.12.2017_13:02,,,15.12.2017_13:02,Any,,MAX4678,,,,Any,Any,Any,,,,
-MAX7219CWG,T:\\Components\\Maxim\\LED_Display_Drivers\\MAX7219-MAX7221.pdf,LED display driver.,T:\Components\Maxim\LED_Display_Drivers\MAX7219-MAX7221.pdf,SOIC_24,LED display driver.,DD,MAX7219CWG,Хлюнев А.А.,28.05.2012_15:04,,,10.06.2010_15:27,,,MAX7219CWG,,Any,,Any,Any,Any,,,,
-MAX7312AAG,T:\\Components\\Maxim\\Port Expander\\MAX7312.pdf,2-Wire-Interfaced 16-Bit I/O Port Expander with Interrupt and Hot-Insertion Protection.,T:\Components\Maxim\Port Expander\MAX7312.pdf,SSOP_24,2-Wire-Interfaced 16-Bit I/O Port Expander with Interrupt and Hot-Insertion Protection.,DD,MAX7312AAG,Хлюнев А.А.,03.12.2014_11:20,,,10.06.2010_15:27,,,MAX7312AAG,,Any,,Any,Any,Any,,,,
-MAX917ESA,Any_DOC,,T:\Components\Maxim\MAX917-MAX920.pdf,SO_8,,DA,MAX917ESA,Денисов,02.10.2013_10:32,,,02.10.2013_10:32,,,MAX917ESA,,Any,,Any,Any,Any,,,,
-MBR0530_PWR,T:\\Components\\International Rectifier\\Diode\\mbr0530.pdf,,,MBR0530,,VD,MBR0530_PWR,Хлюнев А.А.,18.01.2013_11:55,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-MC33199,T:\\Components\\Motorola\\Interface\\MC33199.pdf,,T:\Components\Motorola\Interface\MC33199.pdf,SO_14,,DD,MC33199,Миронова,13.01.2012_11:35,,,13.01.2012_11:35,,,MC33199,,Any,,Any,Any,Any,,,,
-MC74LCX07DG,Any_DOC,6 инверторов.,T:Components\ON Semiconductor\MC74LCX07DG.pdf,SO_14,6 инверторов.,DD,MC74LCX07DG,Миронова Н.Д.,01.04.2019_09:16,,,01.04.2019_09:16,,,MC74LCX07DG,,Any,,Any,Any,Any,,,,
-MCP1252T,T:\\Components\\Microchip\\Charge Pump\\MCP1252.pdf,Charge Pump,T:\Components\Microchip\Charge Pump\MCP1252.pdf,TSSOP_8,Charge Pump,DA,MCP1252T,Хлюнев А.А.,09.11.2012_11:19,,,14.01.2011 10:03,,,Any,,Any,,Any,Any,Any,,,,
-MCP1252T-33X50I/MS,T:\\Components\\Microchip\\Charge Pump\\MCP1252.pdf,Charge Pump,T:\Components\Microchip\Charge Pump\MCP1252.pdf,TSSOP_8,Charge Pump,DA,MCP1252T-33X50I/MS,Хлюнев А.А.,09.11.2012_11:20,,,14.01.2011 10:03,,,Any,,Any,,Any,Any,Any,,,,
-MCP73123-22S/MF,T:\\Components\\Microchip\\Battery Charge Controllers\\MCP73123_22S_MF.pdf,,T:\Components\Microchip\Battery Charge Controllers\MCP73123_22S_MF.pdf,10_LFCSP,,DA,MCP73123-22S/MF,Миронова,25.10.2013_13:21,,,25.10.2013_13:21,,,Any,,Any,,Any,Any,Any,,,,
-MCP73223-C2S/MF,,,T:\Components\Microchip\Battery Charge Controllers\MCP73123_22S_MF.pdf,,,,,,,,,,,,,,,,,,,,,,
-MJ-O-6,Any_DOC,,,Any_PAT,,X,MJ-O-6,Хлюнев А.А.,26.12.2011_09:08,,,10.06.2010 15:27,,,,,Any,Any,Any,Any,Any,,,,
-MJ-O-6_1,Any_DOC,Разъем PLS-2,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-2,X,MJ-O-6_1,Миронова,25.05.2012_10:05,,,25.05.2012_10:05,,,,,Any,Any,Any,Any,Any,,,,
-MM5452V,T:Components\\National Semiconductor\\Display drivers\\Liquid Crystal Display Drivers\\MM5452-MM5453.pdf,Микроконтроллер,T:Components\National Semiconductor\Display drivers\Liquid Crystal Display Drivers\MM5452-MM5453.pdf,PQFP64,Микроконтроллер,DD,MM5452V,мИРОНОВА,13.08.2012_10:23,,,13.08.2012_10:23,,,MM5452V,,Any,,Any,Any,Any,,,,
-MP2481,T:\\Components\\MPS\\mp2481.pdf,Регулятор напряжения,T:\Components\MPS\mp2481.pdf,TSSOP_8,Регулятор напряжения,DA,MP2481,Миронова,,09.11.12_11:23,,05.10.11_09:51,,,MP2481,,Any,,Any,Any,Any,,,,
-MPX2200A,T:\\Components\\Motorola\\Pressure Sensors\\MPX2200.pdf,Датчик давления.,T:\Components\Motorola\Pressure Sensors\MPX2200.pdf,MPX2200A,Датчик давления.,BP,MPX2200A,Хлюнев А.А.,18.09.2012_10:35,,,10.06.2010 15:27,,,MPX2200A,,Any,,Any,Any,Any,,,,
-MPX2200AP,T:\\Components\\Motorola\\Pressure Sensors\\MPX2200.pdf,Датчик давления.,T:\Components\Motorola\Pressure Sensors\MPX2200.pdf,MPX2200AP,Датчик давления.,BP,MPX2200AP,Хлюнев А.А.,05.09.2011 14:35,,,10.06.2010 15:27,,,MPX2200AP,,Any,,Any,Any,Any,,,,
-MSP430F149IPM,T:\\Components\\TexasInstruments\\CPU\\MSP430F149IPM\\msp430f149IPM.pdf,Микроконтроллер,T:\Components\TexasInstruments\CPU\MSP430F149IPM\msp430f149IPM.pdf,PQFP64,Микроконтроллер,DD,MSP430F149IPM,Хлюнев А.А.,30.08.2011 17:14,,,10.06.2010_15:27,,,MSP430F149IPM,,Any,,Any,Any,Any,,,,
-MSP430F169IPM,,,T:\Components\TexasInstruments\CPU\MSP430F169IPM\msp430f169.pdf,,,,,,,,,,,,,,,,,,,,,,
-MSP430F249TPM,,,T:\Components\TexasInstruments\CPU\MSP430F249\MSP430F24x.pdf,,,,,,,,,,,,,,,,,,,,,,
-MSP430F2618TPM,,,T:\Components\TexasInstruments\CPU\MSP430F2618TPM\msp430f2618.pdf,,,,,,,,,,,,,,,,,,,,,,
-MSP430F2618TPN,Any_DOC,Микроконтроллер,T:\Components\TexasInstruments\CPU\MSP430F2618TPM\msp430f2618.pdf,PQFP_80,Микроконтроллер,DD,MSP430F2618TPN,Миронова,12.11.2013_12:55,,,12.11.2013_12:55,,,MSP430F2618TPN,,Any,,Any,Any,Any,,,,
-MSP430F5418AIPN,T:/Components/TexasInstruments/CPU/MSP430F5418AIPN/msp430f5418a.pdf,Микроконтроллер,T:/Components/TexasInstruments/CPU/MSP430F5418AIPN/msp430f5418a.pdf,PQFP_80,Микроконтроллер,DD,MSP430F5418AIPN,Миронова ,,12.12.13_11:30,,12.12.13_11:30,,,Any,,Any,,Any,Any,Any,,,,
-MSP430F5419AIPZ,T:/Components/TexasInstruments/CPU/MSP430F5418AIPN/msp430f5418a.pdf,,T:/Components/TexasInstruments/CPU/MSP430F5418AIPN/msp430f5418a.pdf,TQFP_100,,DD,MSP430F5419AIPZ,Миронова ,,21.01.14_10:00,,21.01.14_10:00,,,Any,,Any,,Any,Any,Any,,,,
-MT48LC16M16A2P,T:\\Components\\Micron\\SDRAM\\MT48LC16M16A2P.pdf,,T:\Components\Micron\SDRAM\MT48LC16M16A2P.pdf,TSOP_54,,DD,MT48LC16M16A2P,Миронова,,01.10.15_10:08,,01.10.15_10:08,,,MT48LC4M32B2,,Any,,Any,Any,Any,,,,
-MT48LC2M32B2,T:\\Components\\Micron\\SDRAM\\MT48LC2M32B2.pdf,,T:\Components\Micron\SDRAM\MT48LC2M32B2.pdf,TSOP_86,,DD,MT48LC2M32B2,Миронова,,03.09.15_10:13,,03.09.15_10:13,,,MT48LC2M32B2,,Any,,Any,Any,Any,,,,
-MT48LC4M32B2,T:\\Components\\Micron\\SDRAM\\MT48LC4M32B2.pdf,,T:\Components\Micron\SDRAM\MT48LC4M32B2.pdf,TSOP_86,,DD,MT48LC4M32B2,Миронова,,25.09.15_09:01,,11.09.15_15:46,,,MT48LC4M32B2,,Any,,Any,Any,Any,,,,
-N25Q128A13ESE40F,T:\\Components\\Micron\\N25Q128A13ESE40F.pdf,,T:\Components\Micron\N25Q128A13ESE40F.pdf,SO_8,,DD,N25Q128A13ESE40F,Миронова,,25.09.15_14:13,,25.09.15_14:13,,,Any,,Any,,Any,Any,Any,,,,
-NC7S32M5X,Any_DOC,,T:\Components\FairChild\Logic\NC7S32.pdf,Any_PAT,,DD,NC7S32M5X,Хлюнев А.А.,06.10.2011_11:02,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-NC7SZ14M5X,Any_DOC,,T:\Components\FairChild\Logic\NC7SZ14.pdf,Any_PAT,,DD,NC7SZ14M5X,Хлюнев А.А.,06.10.2011_11:04,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-NCP1117STAT3,T:\\Components\\ON Semiconductor\\Voltage Regulators\\NCP1117.PDF,,T:\Components\ON Semiconductor\Voltage Regulators\NCP1117.PDF,SOT_223_3,,DA,NCP1117STAT3,Хлюнев А.А.,29.12.2016_09:02,,,01.07.2010_15:16,,,Any,,Any,,Any,Any,Any,,,,
-NE555N,Any_DOC,,T:\Components\\FairChild\Logic\NE555.pdf,Any_PAT,,DA,NE555N,Миронова,18.04.2019_16:03,,,30.06.2014_09:37,,,NE555N,,Any,,Any,Any,Any,,,,
-NTD25P03LT4G,T:\\Components\\ON Semiconductor\\Transisitors\\NTD25P03L.PDF,,T:\Components\ON Semiconductor\Transisitors\NTD25P03L.PDF,TO-253,T:\Components\ON Semiconductor\Transisitors\NTD25P03L/PDF,VT,NTD25P03LT4G,Миронова,23.07.2012_16:09,,,14.05.2012_10:30,,,NTD25P03LT4G,,Any,,Any,Any,Any,,,,
-OCXO-2,T:\\Components\\SJK\\sjk-ocxo.pdf,Pезонатор.,T:\Components\SJK\sjk-ocxo.pdf,OCXO_2,Pезонатор.,ZQ,OCXO-2,Миронова,25.11.2014_09:48,,,25.11.2014_09:48,,,,0 МГц,Any,,Any,Any,Any,,,,
-OP07CP,,,T:\Components\AnalogDevices\Operational Amplifier\OP07.pdf,,,,,,,,,,,,,,,,,,,,,,
-OP07CS,T:\\Components\\AnalogDevices\\Operational Amplifier\\OP07.pdf,,T:\Components\AnalogDevices\Operational Amplifier\OP07.pdf,Any_PAT,,DA,OP07CS,Хлюнев А.А.,02.11.2011_09:15,,,10.06.2010 15:27,,,OP07CS,,Any,,Any,Any,Any,,,,
-OP07CS_1,T:\\Components\\AnalogDevices\\Operational Amplifier\\OP07.pdf,,T:\Components\AnalogDevices\Operational Amplifier\OP07.pdf,Any_PAT,,DA,OP07CS_1,Миронова,02.11.2011_09:22,,,02.11.2011_09:22,,,OP07CS_1,,Any,,Any,Any,Any,,,,
-"P1-12-0,125",,,,,,,,,,,,,,,,,,,,,,,,,
-"P1-12-0,25",,,,,,,,,,,,,,,,,,,,,,,,,
-"P1-12-0,25_PWR",,,,,,,,,,,,,,,,,,,,,,,,,
-PBD-38,T:\\Components\\Conn\\PBD_Connectors.pdf,,,Any_PAT,,X,PBD-38,Миронова,31.01.2018_13:00,,,31.01.2018_13:00,,,,,Any,Any,Any,Any,Any,,,,
-PBD-64,T:\\Components\\Conn\\PLS\\PLS.pdf,,,PBD_64,,X,PBD-64,Миронова,20.04.2015_13:27,,,20.04.2015_13:27,,,,,Any,Any,Any,Any,Any,,,,
-PBS-16,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PBS-16R,T:\\Components\\Ningbo Xinya M&E\\PBS-20R.PDF,,,PBS_16R,,X,PBS-16R,Хлюнев А.А.,24.05.2012_15:30,,,24.05.2012_15:30,,,,,Any,Any,Any,Any,Any,,,,
-PBS-20,Any_DOC,,,Any_PAT,,X,PBS-20,Хлюнев А.А.,30.04.2015_08:23,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-PBS-4,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PESD3V3L4UG,Any_DOC,,,SOT_353,,VD,PESD3V3L4UG,Хлюнев А.А.,06.10.2011_10:57,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-PGND,Any,,,Any,,#PWR,PGND,Хлюнев А.А.,15.10.201_ 12:39,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-PGND1,Any,,,Any,,#PWR,PGND1,Хлюнев А.А.,17.10.2012_ 13:43,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-PLD-10,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-12R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-16,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-4,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-4R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-6,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-6R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-8,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLD-862,T:\\Components\\Conn\\PLS\\PLS.pdf,Разъем PLS-10,T:\Components\Conn\PLS\PLS.pdf,PLD_8,Разъем PLS-10,X,PLD-862,Миронова,04.03.2015_11:27,,,04.03.2015_11:27,,,,,Any,Any,Any,Any,Any,,,,
-PLD-8R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-1,,PLS-1,T:\Components\Conn\PLS\PLS.pdf,,PLS-1,,,,,,,,,,,,,,,,,,,,
-PLS-10,T:\\Components\\Conn\\PLS\\PLS.pdf,Разъем PLS-10,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-10,X,PLS-10,Миронова,20.10.2017_11:58,,,02.11.2011_11:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-10R,,Разъем PLS-10R,T:\Components\Conn\PLS\PLS.pdf,,Разъем PLS-10R,,,,,,,,,,,,,,,,,,,,
-PLS-12,T:\\Components\\Conn\\PLS\\PLS.pdf,,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,,X,PLS-12,Хлюнев А.А.,20.10.2017_14:30,,,24.05.2012_14:15,,,,,Any,Any,Any,Any,Any,,,,
-PLS-14,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-14R,T:\\Components\\Conn\\PLS\\PLS.pdf,,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,,X,PLS-14R,Хлюнев А.А.,20.10.2015_14:30,,,24.05.2012_14:15,,,,,Any,Any,Any,Any,Any,,,,
-PLS-16,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-16R-3,T:\\Components\\Conn\\PLS\\PLS.pdf,,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,,X,PLS-16R-3,Хлюнев А.А.,20.10.2015_14:17,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-PLS-1R,T:\\Components\\Conn\\PLS\\PLS.pdf,,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,,X,PLS-1R,Хлюнев А.А.,15.09.2011_09:16,,,10.06.2010_15:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-1_1,T:\\Components\\Conn\\PLS\\PLS.pdf,PLS-2,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,PLS-2,X,PLS-1_1,Хлюнев А.А.,11.03.2011 10:03,,,10.06.2010 15:27,,,Any,,Any,Any,Any,Any,Any,,,,
-PLS-2,T:\\Components\\Conn\\PLS\\PLS.pdf,Разъем PLS-2,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-2,X,PLS-2,Хлюнев А.А.,31.10.2017_09:18,,,10.06.2010_15:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-20,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-20R,T:\\Components\\Conn\\PLS\\PLS.pdf,,T:\Components\Conn\PLS\PLS.pdf,PLS_20R,,X,PLS-20R,Хлюнев А.А.,15.09.2011_09:55,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-PLS-2R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-2_1,T:\Components\Conn\PLS\PLS.pdf,PLS-2,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,PLS-2,X,PLS-2_1,Хлюнев А.А.,11.03.2011 10:03,,,10.06.2010 15:27,,,Any,,Any,Any,Any,Any,Any,,,,
-PLS-3,T:\Components\Conn\PLS\PLS.pdf,Разъем PLS-3,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-3,X,PLS-3,Хлюнев А.А.,17.02.2011 11:06,,,10.06.2010 15:27,,,Any,,Any,Any,Any,Any,Any,,,,
-PLS-3R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-3_1,T:\\Components\\Conn\\PLS\\PLS.pdf,PLS-3,T:\Components\Conn\PLS\PLS.pdf,PLS_3,PLS-3,X,PLS-3_1,Хлюнев А.А.,05.09.2011 09:09,,,10.06.2010 15:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-4,T:\\Components\\Conn\\PLS\\PLS.pdf,Разъем PLS-4,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-4,X,PLS-4,Хлюнев А.А.,22.04.2015_14:06,,,10.06.2010 15:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-4R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-4_1,T:\\Components\\Conn\\PLS\\PLS.pdf,PLS-3,T:\Components\Conn\PLS\PLS.pdf,PLS_4,PLS-3,X,PLS-4_1,Миронова,03.08.2018 11:39,,,03.08.2018 11:39,,,,,Any,Any,Any,Any,Any,,,,
-PLS-5,T:\\Components\\Conn\\PLS\\PLS.pdf,Разъем PLS-5.,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-5.,X,PLS-5,Хлюнев А.А.,23.10.2013_10:21,,,10.06.2010_15:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-5R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-6,Any_DOC,Разъем PLS-6.,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-6.,X,PLS-6,Хлюнев А.А.,15.05.2013_11:27,,,10.06.2010_15:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-6R,,,T:\Components\Conn\PLS\PLS.pdf,,,,,,,,,,,,,,,,,,,,,,
-PLS-7,T:\\Components\\Conn\\PLS\\PLS.pdf,Разъем PLS-10,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-10,X,PLS-7,Миронова,09.01.2014_12:55,,,02.11.2011_11:27,,,,,Any,Any,Any,Any,Any,,,,
-PLS-8,T:\\Components\\Conn\\PLS\\PLS.pdf,Разъем PLS-10,T:\Components\Conn\PLS\PLS.pdf,Any_PAT,Разъем PLS-10,X,PLS-8,Миронова,10.11.2017_10:22,,,02.11.2011_11:27,,,,,Any,Any,Any,Any,Any,,,,
-PS417,T:\\Components\\Sharp\\OPTO\\PC417.pdf,,T:\Components\Sharp\OPTO\PC417.pdf,SO_5,,V,PS417,Миронова,30.03.2015_09:59,,,30.03.2015_09:59,,,PS417,,Any,,Any,Any,Any,,,,
-PSM101,Any_DOC,,,PSM,,SA,PSM101,Миронова ,27.02.2012_09:44,,,31.01.2012_10:52,,,PSM101,,Any,,Any,Any,Any,,,,
-PSM111,Any_DOC,,,PSM,,SA,PSM111,Хлюнев А.А.,27.02.2012_10:23,,,10.06.2010 15:27,,,PSM111,,Any,,Any,Any,Any,,,,
-PSR-7805LF,Any_DOC,Регулятор напряжения.,T:\Components\PEAK Electronics\DC_DC\PSR-78xxLF.pdf,Any_PAD,Регулятор напряжения.,DA,PSR-7805LF,Хлюнев А.А.,09.02.2015_14:38,,,01.07.2010_15:16,,,Any,,Any,,Any,Any,Any,,,,
-PVT322S,,,T:\Components\International Rectifier\Opto\PVT322P.pdf,,,,,,,,,,,,,,,,,,,,,,
-REF191GS,,"Источник опорного напряжения 2,048 B",T:\Components\AnalogDevices\Voltage References\REF_19x.pdf,,Источник опорного напряжения.,,,,,,,,,,,,,,,,,,,,
-REF192GS,,"Прецизионный источник опорного напряжения 2,50 B",T:\Components\AnalogDevices\Voltage References\REF_19x.pdf,,,,,,,,,,,,,,,,,,,,,,
-REF193GS,,"Прецизионный источник опорного напряжения 3,00 B",T:\Components\AnalogDevices\Voltage References\REF_19x.pdf,,,,,,,,,,,,,,,,,,,,,,
-REF194GS,,"Прецизионный источник опорного напряжения 4,50 B",T:\Components\AnalogDevices\Voltage References\REF_19x.pdf,,,,,,,,,,,,,,,,,,,,,,
-REF195GS,Any_DOC,"Прецизионный источник опорного напряжения 5,00 B",T:\Components\AnalogDevices\Voltage References\REF_19x.pdf,SO_8,Прецизионный источник опорного напряжения.,DA,REF195GS,Хлюнев А.А.,06.10.2011_11:14,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-REF196GS,,"Прецизионный источник опорного напряжения 3,30 B",T:\Components\AnalogDevices\Voltage References\REF_19x.pdf,,,,,,,,,,,,,,,,,,,,,,
-REF198GS,,"Прецизионный источник опорного напряжения 4,096 B",T:\Components\AnalogDevices\Voltage References\REF_19x.pdf,,,,,,,,,,,,,,,,,,,,,,
-REF3025,Any_DOC,"Прецизионный источник опорного напряжения 5,00 B",T:\Components\TexasInstruments\Ref\REF3012_REF3040.pdf,Any_PAT,Прецизионный источник опорного напряжения.,DA,REF3025,Миронова,25.04.2019_15:57,,,24.01.2017_11:13,,,Any,,Any,,Any,Any,Any,,,,
-RK206_SMD,,Кварцевый резонатор RK206.,,,Кварцевый резонатор RK206.,,,,,,,,,,,,,,,,,,,,
-RLB1314-470K,,,T:Components\Bourns\RBL_Series.pdf,,,,,,,,,,,,,,,,,,,,,,
-S10K35,,,T:\Components\Epcos\varistors.pdf,,,,,,,,,,,,,,,,,,,,,,
-S10K35_,,Резистор,T:\Components\Epcos\varistors.pdf,K10-17,Резистор,RU,S10K35_,Миронова,,20.05.2016_11:02,,09.04.2015_08:19,,Any,,,Any,,,,,Any,,,Any
-S29GL128P,T:\\Components\\Cypress\\S29GL128P.pdf,,T:\Components\Cypress\S29GL128P.pdf,TSOP_56,,DD,S29GL128P,Миронова,,25.09.15_08:51,,03.09.15_10:13,,,S29GL128P,,Any,,Any,Any,Any,,,,
-SDCMF-10901W0T0,T:\\Components\\KingFont\\Connectors\\SDCMF-10901W0T0.pdf,,,SDCMF,,X,SDCMF-10901W0T0,Хлюнев А.А.,16.09.2011_14:28,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-SD_uSD_CARD,Any_DOC,,,Any_PAT,,A,SD_uSD_CARD,Хлюнев А.А.,06.10.2011_11:16,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-SG57600,Any_DOC,,,Any_PAT,,X,SG57600,Миронова,14.10.2013_15:12,,,14.10.2013_15:12,,,,,Any,Any,Any,Any,Any,,,,
-SG57648,Any_DOC,,,Any_PAT,,X,SG57648,Миронова,26.12.2011_09:00,,,26.12.2011_09:00,,,,,Any,Any,Any,Any,Any,,,,
-SI8440BB-D-IS,,Цифровой изолятор.,T:\Components\Silicon Labs\Opto\Si844x.pdf,,Цифровой изолятор.,,,,,,,,,,,,,,,,,,,,
-SI8441BB-D-IS,T:\\Components\\Silicon Labs\\Opto\\Si844x.pdf,Цифровой изолятор.,T:\Components\Silicon Labs\Opto\Si844x.pdf,SOIC_16,Цифровой изолятор.,DD,SI8441BB-D-IS,Хлюнев А.А.,05.09.2011 08:50,,,10.06.2010 15:27,,,SI8441BB-D-IS,,Any,,Any,Any,Any,,,,
-SI8640BB-B-IS,,,T:\Components\Silicon Labs\Opto\Si864x.pdf,,,,,,,,,,,,,,,,,,,,,,
-SI8641BB-B-IS,,,T:\Components\Silicon Labs\Opto\Si864x.pdf,,,,,,,,,,,,,,,,,,,,,,
-SIP32431DR3-T1GE3,T:\\Components\\Vishay\\Switch\\SIP3243x.pdf,,T:\Components\Vishay\Switch\SIP3243x.pdf,SC-70_6,,DA,SIP32431DR3-T1GE3,Лапин Ю.А.,,25.04.2019_13:13,,25.04.2019_13:07,,,SIP32431DR3-T1GE3,,Any,,Any,Any,Any,,,,
-SM712,T:\\Components\\Semtech\\sm712.PDF,,,SM712,,VD,SM712,Хлюнев А.А.,02.09.2011 15:57,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-SM712_R,T:\\Components\\Semtech\\sm712.PDF,,,SM712,,VD,SM712_R,Хлюнев А.А.,07.02.2017_10:40,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-SMBJ12CA,,,T:\Components\STMicroelectronics\Diode\ST_SMBJ.PDF,,,,,,,,,,,,,,,,,,,,,,
-SMBJ24CA,,,T:\Components\STMicroelectronics\Diode\ST_SMBJ.PDF,,,,,,,,,,,,,,,,,,,,,,
-SMBJ36CA,,,T:\Components\STMicroelectronics\Diode\ST_SMBJ.PDF,,,,,,,,,,,,,,,,,,,,,,
-SMBJ5.0CA,,T:\Components\STMicroelectronics\Diode\ST_SMBJ.PDF,,SMABJ_CA,,VD,SMBJ5.0CA,Хлюнев А.А.,25.11.2011_09:58,,,10.06.2010_15:27,,,Any,,Any,,Any,Any,Any,,,,
-SN74AHC1G32DBVR,,,T:\Components\TexasInstruments\Logic\SN74AHC1G32DBVR.PDF,,,,,,,,,,,,,,,,,,,,,,
-SN74LVC1G132DBVR,T:\\Components\\TexasInstruments\\Logic\\sn74lvc1g132.pdf,,T:\Components\TexasInstruments\Logic\sn74lvc1g132.pdf,SOT_23_5,,DD,SN74LVC1G132DBVR,Миронова,23.04.2014_10:32,,,23.04.2014_10:32,,,Any,,Any,,Any,Any,Any,,,,
-SN74LVC1G14DBVR,,,T:\Components\TexasInstruments\Logic\SN74LVC1G14DBVR.PDF,,,,,,,,,,,,,,,,,,,,,,
-SPB03A-12,T:\\Components\\AnalogDevices\\Operational Amplifier\\OP07.pdf,,T:\Components\Mean Well\DC_DC\spb03-spec.pdf,Any_PAT,,DA,SPB03A-12,Хлюнев А.А.,02.11.2011_09:15,,,10.06.2010 15:27,,,OP07CS,,Any,,Any,Any,Any,,,,
-SRF1306-600Y,,,,SRF1306,,L,SRF1306-600Y,Миронова,20.03.2017 _14:50,,,20.03.2017 _14:50,,,SRF1306-600Y,,Any,,Any,Any,Any,,,,
-STM32F051C8T6,T:\\Components\\STMicroelectronics\\CPU\\STM32F071.pdf,,T:\Components\STMicroelectronics\CPU\STM32F051.pdf,LQFP_64,,DD,STM32F051C8T6,Лапин,,09.10.17_10:40,,09.10.17_10:40,,,STM32F051C8T6,,Any,,Any,Any,Any,,,,
-STM32F071C8T6,T:\\Components\\STMicroelectronics\\CPU\\STM32F071.pdf,,T:\Components\STMicroelectronics\CPU\STM32F071.pdf,LQFP_64,,DD,STM32F071C8T6,Лапин,,09.10.17_10:40,,09.10.17_10:40,,,STM32F051C8T6,,Any,,Any,Any,Any,,,,
-STM32F071RBT6,T:\\Components\\STMicroelectronics\\CPU\\STM32F071.pdf,,T:\Components\STMicroelectronics\CPU\STM32F071.pdf,LQFP_64,,DD,STM32F071RBT6,Лапин,,09.10.17_10:40,,09.10.17_10:40,,,STM32F071C8T6,,Any,,Any,Any,Any,,,,
-STM32F100RBT6B,T:\\Components\\STMicroelectronics\\CPU\\STM32F100RBT6B.pdf,,T:\Components\STMicroelectronics\CPU\STM32F100RBT6B.pdf,PQFP_64,,DD,STM32F100RBT6B,Хлюнев А.А.,16.02.2015_15:27,,,16.02.2015_15:27,,,STM32F100RBT6B,,Any,,Any,Any,Any,,,,
-STM32F100VB,T:\\Components\\STMicroelectronics\\CPU\\STM32F100VB.pdf,,T:\Components\STMicroelectronics\CPU\STM32F100VB.pdf,TQFP_100,,DD,STM32F100VB,Миронова,,24.12.13_08:45,,24.12.13_08:45,,,STM32F100VB,,Any,,Any,Any,Any,,,,
-STM32F100VE,,,T:\Components\STMicroelectronics\CPU\STM32F100VB.pdf,,,,,,,,,,,,,,,,,,,,,,
-STM32F103C8,T:\\Components\\STMicroelectronics\\CPU\\STM32F100VB.pdf,,T:\Components\STMicroelectronics\CPU\STM32F103C8.pdf,TQFP_100,,DD,STM32F103C8,Миронова,,24.12.13_08:45,,24.12.13_08:45,,,STM32F100VB,,Any,,Any,Any,Any,,,,
-STM32F103C8_1,T:\\Components\\STMicroelectronics\\CPU\\STM32F103C8.pdf,,T:\Components\STMicroelectronics\CPU\STM32F103C8.pdf,LQFP_48,,DD,STM32F103C8_1,Миронова,,10.02.17_12:57,,24.12.13_08:45,,,STM32F103C8_1,,Any,,Any,Any,Any,,,,
-STM32F303VC,T:\\Components\\STMicroelectronics\\CPU\\STM32F303VC.pdf,,T:\Components\STMicroelectronics\CPU\STM32F303VC.pdf,TQFP_100,,DD,STM32F303VC,Клюев С.В.,,28.05.18_14:30,,28.05.18_14:30,,,STM32F303VC,,Any,,Any,Any,Any,,,,
-STM32F429II,T:\\Components\\STMicroelectronics\\CPU\\STM32F429IIT6.pdf,,T:\Components\STMicroelectronics\CPU\STM32F429IIT6.pdf,LQFP_176,,DD,STM32F429II,Миронова,,14.10.15_15:44,,24.08.15_15:12,,,STM32F429IIT6,,Any,,Any,Any,Any,,,,
-STM32F429ZI,T:\\Components\\STMicroelectronics\\CPU\\STM32F429ZI.pdf,,T:\Components\STMicroelectronics\CPU\STM32F429ZI.pdf,LQFP_144,,DD,STM32F429ZI,Миронова,,17.08.15_11:12,,17.08.15_11:12,,,STM32F429ZI,,Any,,Any,Any,Any,,,,
-STM32F767IIT6,T:\\Components\\STMicroelectronics\\CPU\\STM32F767IIT6.pdf,,T:\Components\STMicroelectronics\CPU\STM32F767IIT6.pdf,LQFP_176,,DD,STM32F767IIT6,Миронова,,14.10.15_15:44,,24.08.15_15:12,,,STM32F429IIT6,,Any,,Any,Any,Any,,,,
-STM32L151CCTx,T:\\Components\\STMicroelectronics\\CPU\\STM32L15x.pdf,,T:\Components\STMicroelectronics\CPU\STM32L15x.pdf,LQFP_48,,DD,STM32L151CCTx,Миронова,,18.12.17_14:22,,18.12.17_14:22,,,STM32L151CCTx,,Any,,Any,Any,Any,,,,
-STM32L151VB,,,T:\Components\STMicroelectronics\CPU\STM32L151VB.pdf,,,,,,,,,,,,,,,,,,,,,,
-STM32L152RET6,T:\\Components\\STMicroelectronics\\CPU\\STM32L151_152xE.pdf,,T:\Components\STMicroelectronics\CPU\STM32L151_152xE.pdf,LQFP_64,,DD,STM32L152RET6,Лапин,,09.10.17_10:40,,09.10.17_10:40,,,STM32L152RET6,,Any,,Any,Any,Any,,,,
-STM32L476VC,T:\\Components\\STMicroelectronics\\CPU\\STM32L476VC.pdf,,T:\Components\STMicroelectronics\CPU\STM32L476VC.pdf,TQFP_100,,DD,STM32L476VC,Клюев,,30.05.18_09:45,,30.05.18_09:45,,,STM32L476VC,,Any,,Any,Any,Any,,,,
-SWD1-1,Any_DOC,,,SWD1_1,,SA,SWD1-1,Миронова,18.04.2013_13:42,,,18.04.2013_13:42,,,SA,,Any,,Any,Any,Any,,,,
-SWD1-2,Any_DOC,,,SWD1_2,,SA,SWD1-2,Миронова,01.03.2013_16:10,,,01.03.2013_16:10,,,SA,,Any,,Any,Any,Any,,,,
-TBU-CA065-300-WH,T:\\Components\\Bourns\\bourns-tbu-ca.pdf,,T:\Components\Bourns\bourns-tbu-ca.pdf,TBU-CA,,DA,TBU-CA065-300-WH,Лапин Ю. А.,16.04.2019_10:11,,,16.04.2019_10:11,,,Any,,Any,,Any,Any,Any,,,,
-TECAP-10,Any_DOC,Танталовый чип конденсатор 10 мкФ.,T:\Components\Epcos\Capacity\HighCap_DS_series.pdf,Any_PAT,Танталовый чип конденсатор 10 мкФ.,C,TECAP-10,Хлюнев А.А.,,12.04.2016_10:15,,07.09.2010_13:26,,,,Any,Any,,,,,Any,Any,Any,
-TECAP-100,,Танталовый чип конденсатор 100 мкФ.,T:\Components\Epcos\Capacity\HighCap_DS_series.pdf,,Танталовый чип конденсатор 100 мкФ.,,,,,,,,,,,,,,,,,,,,
-"TECAP-6,8",,,,,,,,,,,,,,,,,,,,,,,,,
-TION,T:\\Components\\ZAO-ZEO\\Tion\\tion-v1.3.pdf,Tion.,T:\Components\ZAO-ZEO\Tion\tion-v1.3.pdf,SO_DIMM200,Tion.,X,TION,Хлюнев,03.12.2012_10:08,,,23.07.2010_15:20,,,,,Any,Any,Any,Any,Any,,,,
-TION-MODULE,T:\\Components\\ZAO-ZEO\\Tion Modul\\tion-module-v1.pdf,,,Tion_Modul,,A,TION-MODULE,Хлюнев,15.09.2011_13:03,,,23.09.2010_10:14,,,,,Any,Any,Any,Any,Any,,,,
-TJ3-8P8C,T:\\Components\\Conn\\Phone\\p68.pdf,,,TJ3-8P8C,,X,TJ3-8P8C,Миронова,10.02.2015_11:21,,,10.02.2015_11:21,,,,,Any,Any,Any,Any,Any,,,,
-TL4051CIDBZ,T:\\Components\\TexasInstruments\\Voltage Reference\\tl4051b.pdf,,T:\Components\TexasInstruments\Voltage Reference\tl4051b.pdf,SOT_23_3,,VD,TL4051CIDBZ,Миронова,23.01.2017_13:06,,,15.04.2013_09:48,,,TL4051CIDBZ,,Any,,Any,Any,Any,,,,
-TLP281-4,,,T:\Components\Toshiba\OptoCouper\tlp281.pdf,,,,,,,,,,,,,,,,,,,,,,
-TLP291-4,,,T:\Components\Toshiba\OptoCouper\TLP291-4.pdf,,,,,,,,,,,,,,,,,,,,,,
-TLP521-1,T:\\Components\\Toshiba\\OptoCouper\\TLP521.pdf,Оптотранзистор.,T:\Components\Toshiba\OptoCouper\TLP521.pdf,DIP_4,Оптотранзистор.,V,TLP521-1,Хлюнев А.А.,29.09.2016_10:41,,,10.06.2010 15:27,,,TLP521-2,,Any,,Any,Any,Any,,,,
-TLP521-2,T:\\Components\\Toshiba\\OptoCouper\\TLP521.pdf,Оптотранзистор.,T:\Components\Toshiba\OptoCouper\TLP521.pdf,DIP_8,Оптотранзистор.,V,TLP521-2,Хлюнев А.А.,05.09.2011 08:52,,,10.06.2010 15:27,,,TLP521-2,,Any,,Any,Any,Any,,,,
-TLP521-4,T:\\Components\\Toshiba\\OptoCouper\\TLP521.pdf,Фототранзистор.,T:\Components\Toshiba\OptoCouper\TLP521.pdf,Any_PAT,Фототранзистор.,V,TLP521-4,Хлюнев А.А.,11.11.2015 09:32,,,10.06.2010 15:27,,,TLP521-4,,Any,,Any,Any,Any,,,,
-TLV61046A,T:\\Components\\TexasInstruments\\DC_DC\\tlv61046a.pdf,,T:\Components\TexasInstruments\DC_DC\tlv61046a.pdf,SOT_26,,DA,TLV61046A,Клюев С. В.,,05.06.18_14:42,,05.06.18_14:42,,,TLV61046ADBVR,,Any,,Any,Any,Any,,,,
-TMP36GT9,T:\\Components\\AnalogDevices\\Analog Temperature Sensors\\TMP35_36_37.pdf,Датчик температуры,T:\Components\AnalogDevices\Analog Temperature Sensors\TMP35_36_37.pdf,TMP36GT9,Датчик температуры,BT,TMP36GT9,Хлюнев А.А.,18.02.2011 10:07,,,10.06.2010 15:27,,,TMP36GT9,,Any,,Any,Any,Any,,,,
-TPS3828-33DBVT,T:\\Components\\TexasInstruments\\SuperVisor\\tps3823-30.pdf,Монитор питания (супервизор).,T:\Components\TexasInstruments\SuperVisor\tps3823-30.pdf,SOT_G5,Монитор питания (супервизор).,DD,TPS3828-33DBVT,Хлюнев А.А.,18.02.2011 10:07,,,10.06.2010 15:27,,,TPS3828-33DBVT,,Any,,Any,Any,Any,,,,
-TPS562200,T:\\Components\\TexasInstruments\\DC_DC\\TPS562200.pdf,,T:\Components\TexasInstruments\DC_DC\TPS562200.pdf,SOT_26,,DA,TPS562200,Клюев С.В.,,01.06.18_12:32,,01.06.18_12:32,,,TPS562200,,TPS562200DDCT,,Any,Any,Any,,,,
-TPS60101PWP,T:\\Components\\TexasInstruments\\Power\\tps60101.pdf,,T:\Components\TexasInstruments\Power\tps60101.pdf,TSSOP_20,,DA,TPS60101PWP,Миронова,27.03.2013_13:16,,,04.05.2012_09:56,,,TPS60101PWR,,Any,,Any,Any,Any,,,,
-TPS61169,T:\\Components\\TexasInstruments\\DC_DC\\tps61169.pdf,,T:\Components\TexasInstruments\DC_DC\tps61169.pdf,SOT_353,,DA,TPS61169,Миронова,,15.03.18_16:28,,15.03.18_16:28,,,LM2674MX-5.0/NOPB,,Any,,Any,Any,Any,,,,
-TPS62046DGQ,T:\\Components\\TexasInstruments\\Power\\tps62046.pdf,,T:\Components\TexasInstruments\Power\tps62046.pdf,Any_PAT,,DA,TPS62046DGQ,Миронова,,03.08.17_08:04,,09.10.15_11:14,,,TPS62046DGQ,,Any,,Any,Any,Any,,,,
-TPS62220DDC,T:\\Components\\TexasInstruments\\DCDCconverter\\tps62220.pdf,,T:\Components\TexasInstruments\DCDCconverter\tps62220.pdf,SOT_G5,,DD,TPS62220DDC,Миронова,,12.12.13_13:04,,12.12.13_13:04,,,TPS62220DDC,,Any,,Any,Any,Any,,,,
-TPS63031,T:\\Components\\TexasInstruments\\Power\\tps63030.pdf,,T:\Components\TexasInstruments\Power\tps63030.pdf,TPS63031,,DA,TPS63031,Миронова,08.04.2013_12:43,,,04.05.2012_09:56,,,TPS63031DSKP,,Any,,Any,Any,Any,,,,
-TRJ-24VDC-SA-CD,T:\\Components\\TTI\\trj-24vdc.pdf,,T:\Components\TTI\trj-24vdc.pdf,TRJ,,K,TRJ-24VDC-SA-CD,Мироова,07.10.2016_13:22,,,07.10.2016_13:22,,,TRJ-24VDC-SA-CD,,Any,,Any,Any,Any,,,,
-TS-130,Any_DOC,,,Any_PAT,,SA,TS-130,Миронова,20.02.2015_10:12,,,07.10.2011_14:42,,,TS-130,,Any,,Any,Any,Any,,,,
-TS-A1PS-130,Any_DOC,,T:Components\Switronic\TSA2PV130.pdf,TS_130,,SA,TS-A1PS-130,Миронова,03.07.2018_16:00,,,15.10.2013_14:42,,,TS-A1PS-130,,Any,,Any,Any,Any,,,,
-TS-A1PV-130,,,T:Components\Switronic\TSA2PV130.pdf,,,,,,,,,,,,,,,,,,,,,,
-TS-A2PV-130,Any_DOC,,T:Components\Switronic\TSA2PV130.pdf,TS_130_R,,SA,TS-A2PV-130,Миронова,20.03.2015_09:42,,,15.10.2013_14:42,,,TS-A2PV-130,,Any,,Any,Any,Any,,,,
-TSC2046IPW,T:\\Components\\TexasInstruments\\BurrBrown\\ADC\\TSC2046.pdf,АЦП.,T:\Components\TexasInstruments\BurrBrown\ADC\TSC2046.pdf,Any_PAT,АЦП.,DA,TSC2046IPW,Хлюнев А.А.,22.09.2015_12:48,,,10.06.2010 15:27,,,TSC2046IPW,,Any,,Any,Any,Any,,,,
-UAMP,Any,,,Any,,#PWR,UAMP,Миронова,09.06.2012 _13:40,,,27.04.2012 _12:19,,,Any,,Any,,Any,Any,Any,,,,
-USB-B,T:\\Components\\Conn\\PLS\\PLS.pdf,,,Any_PAT,,X,USB-B,Хлюнев А.А.,22.04.2015_14:06,,,10.06.2010 15:27,,,,,Any,Any,Any,Any,Any,,,,
-USBM-1J,Any_DOC,,,USBM-1J,,X,USBM-1J,Миронова,03.02.2015_08:52,,,03.02.2015_08:52,,,,,Any,Any,Any,Any,Any,,,,
-U_P,Any,,,Any,,#PWR,U_P,Миронова,27.04.2012 _12:21,,,27.04.2012 _12:21,,,Any,,Any,,Any,Any,Any,,,,
-U_T,Any,,,Any,,#PWR,U_T,Миронова,27.04.2012 _12:20,,,27.04.2012 _12:20,,,Any,,Any,,Any,Any,Any,,,,
-Ubat,Any,,,Any,,#PWR,Ubat,Хлюнев А.А.,09.06.2012_013:30,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-Upol,Any,,,Any,,#PWR,Upol,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-VB1205D-2W,,,"T:\Components\SHENZHEN SUNYUAN TECHNOLOGY CO., LTD\shenzhen-sunyuan-technology-co-ltd-vb0505s-2w_573c44c6d6.pdf",,,,,,,,,,,,,,,,,,,,,,
-VN808-E,,,T:\Components\STMicroelectronics\Smart Driver\vn808-e.pdf,VN808-E,,DD,VN808-E,Лапин Ю. А.,,02.04.2019_16:00,,02.04.2019_16:00,,,VN808-E,,Any,,Any,Any,Any,,,,
-VNH3SP30,T:Components\\STMicroelectronics\\Motor Controller\\VNH3SP30-E.pdf,,T:Components\STMicroelectronics\Motor Controller\VNH3SP30-E.pdf,SO_30,,DD,VNH3SP30,Сафронов,16.10.2012_09:05,,,05.09.2012_14:35,,,VNH3SP30,,Any,,Any,Any,Any,,,,
-VRB2405ZP-6WR2,,,T:\Components\Mourmsun\VRB_ZP-6WR2.pdf,,,,,,,,,,,,,,,,,,,,,,
-WS-DISV-4,Any_DOC,,T:\Components\Wurth Elektronik\WS-DISV\4181212708xx.pdf,SO_4,,SA,WS-DISV-4,Миронова,06.07.2017_12:53,,,06.07.2017_12:53,,,SA,,Any,,Any,Any,Any,,,,
-XF2M-2615-1A,T:\\Components\\Omron\\XF2M-xxxx-xx.pdf,,,XF2M_26,,X,XF2M-2615-1A,Миронова,05.05.2015_10:47,,,05.05.2015_10:47,,,,,Any,Any,Any,Any,Any,,,,
-YC124,Any_DOC,Резистор,T:\Components\YAGEO\YC124.pdf,Any_PAT,Резистор,R,YC124,Хлюнев А.А.,,24.09.2015_16:00,,07.09.2010 12:56,,Any,,Any,Any,,,,,Any,,,Any
-YC164,,,T:\Components\YAGEO\PYu-YC_TC_group.pdf,,,,,,,,,,,,,,,,,,,,,,
-ZTT,Any_DOC,Керамический резонатор.,,Any_PAT,Керамический резонатор.,ZQ,ZTT,Хлюнев А.А.,06.10.2011_11:13,,,10.06.2010 15:27,,,,0 МГц,Any,,Any,Any,Any,,,,
-fdc-24,Any_DOC,,,Any_PAT,,X,fdc-24,Хлюнев А.А.,30.04.2015_08:23,,,23.07.2010_15:07,,,,,Any,Any,Any,Any,Any,,,,
-v39za3p,,,T:\Components\Litttlfuse\v39za3p.pdf,,,,,,,,,,,,,,,,,,,,,,
-~AGND,Any,,,Any,,#PWR,AGND,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-~AGND1,Any,,,Any,,#PWR,AGND1,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-~DGND,Any,,,Any,,#PWR,DGND,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-~F,Any,,,F,,F,F,Миронова,28.09.201_12:55,,,28.09.201_12:55,,,,,Any,Any,Any,Any,Any,,,,
-~GGND,Any,,,Any,,#PWR,GGND,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-~GWG,Any,,,Any,,#PWR,GWG,Хлюнев А.А.,18.02.2011 09:22,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-~KT,Any,,,"P_0,7",,KT,KT,Миронова,29.05.2018_10:47,,,29.05.2018_10:47,,,,,Any,Any,Any,Any,Any,,,,
-~KT_1,Any,,,P,,KT_1,KT_1,Миронова,29.05.2018_10:40,,,29.05.2018_10:40,,,,,Any,Any,Any,Any,Any,,,,
-~POINT,Any,,,P,,P,POINT,Хлюнев А.А.,05.09.2011 09:15,,,10.06.2010 15:27,,,,,Any,Any,Any,Any,Any,,,,
-"~POINT_0,3",,,,,,,,,,,,,,,,,,,,,,,,,
-"~POINT_0,7",,,,,,,,,,,,,,,,,,,,,,,,,
-~POINT_GGND,Any,,,P_GGND,,P,POINT_GGND,Миронова,12.12.2011_10:35,,,12.12.2011_10:35,,,,,Any,Any,Any,Any,Any,,,,
-~POINT_GWG,Any,,,P_GGND,,P,POINT_GWG,Миронова,19.01.2012_10:35,,,19.01.2012_10:35,,,,,Any,Any,Any,Any,Any,,,,
-~POINT_PWR,Any,,,Any_PAT,,P,POINT_PWR,Хлюнев А.А.,17.06.2013_14:25,,,10.06.2010 15:27,,,,,Any,Any,Any,Any,Any,,,,
-~PS,Any,,,Any,,PS,PS,Хлюнев А.А.,19.03.2012_14:20,,,10.06.2010 15:27,,,,,Any,PS,Any,Any,Any,,,,
-~PS_PWR,Any,,,PS,,PS,PS_PWR,Хлюнев А.А.,06.10.2011 09:27,,,10.06.2010 15:27,,,,,Any,PS,Any,Any,Any,,,,
-Анод,Any,,,Any,,#PWR,Анод,Миронова,18.04.2019_15:27,,,18.04.2019_15:27,,,Any,,Any,,Any,Any,Any,,,,
-ВП2Б-1В,Any_DOC,,,Any_PAT,,FU,ВП2Б-1В,Хлюнев А.А.,26.03.2013_09:21,,,10.06.2010 15:27,,,ВП2Б-1B,,Any,,Any,Any,Any,,,,
-ВП4-5,Any_DOC,,,"C2-29B-0,125_G",,FU,ВП4-5,Хлюнев А.А.,26.03.2013_09:18,,,10.06.2010 15:27,,,Any,,Any,,Any,Any,Any,,,,
-ЗП-25,T:\\Components\\Октава\\ЗП-25.pdf,,T:\Components\Октава\ЗП-25.pdf,ЗП_25,,HA,ЗП-25,Миронова,31.10.2017_08:45,,,31.10.2017_08:45,,,HPM14AX,,Any,,Any,Any,Any,,,,
-Катод,Any,,,Any,,#PWR,Катод,Миронова,19.04.2019_15:27,,,18.04.2019_15:27,,,Any,,Any,,Any,Any,Any,,,,
-СП3-19А,Any_DOC,,T:\Components\Resistor-NN\СП3-19.pdf,Any_PAT,,R,СП3-19А,Миронова,,10.12.2014_11:39,,10.12.2014_11:39,,Any,,Any,Any,,,,,Any,,,Any
-СП3-19Б,,,T:\Components\Resistor-NN\СП3-19.pdf,,,,,,,,,,,,,,,,,,,,,,
-СП5-2ВБ,,,T:\Components\Resistor-NN\СП5.pdf,,,,,,,,,,,,,,,,,,,,,,
-"+1,2B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+1,5B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+1,8B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+2,048B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+2,4B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+2,5B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+2,7B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B1",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B2",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_ETHERNET",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_SD_MMC",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_TFT",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,3B_TION",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,5B",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,5B1",,,,,,,,,,,,,,,,,,,,,,,,,
-"+3,5B2",,,,,,,,,,,,,,,,,,,,,,,,,
-"C2-29B-0,125_G",,,,,,,,,,,,,,,,,,,,,,,,,
-"LT1761ES5-3,3",,,,,,,,,,,,,,,,,,,,,,,,,
-"P1-12-0,125",,,,,,,,,,,,,,,,,,,,,,,,,
-"P1-12-0,25",,,,,,,,,,,,,,,,,,,,,,,,,
-"P1-12-0,25_PWR",,,,,,,,,,,,,,,,,,,,,,,,,
-"TECAP-6,8",,,,,,,,,,,,,,,,,,,,,,,,,
-"~POINT_0,3",,,,,,,,,,,,,,,,,,,,,,,,,
-"~POINT_0,7",,,,,,,,,,,,,,,,,,,,,,,,,
+Refs,datasheet,description,docfile,footprint,keywords,prefix,value,Автор,Дата последней коррекции,Дата последней правки,Дата создани,Дата создания,Документация по ГОСТ,Мощность,Наименование,Номинал,Обозначение по ГОСТ,Поле1,Поле3,Поле4,Поле5,Процент,Рабочее напряжение,ТКЕ,ТКС,Примечание,Тип элемента,Заказной номер ,Кол‐во,Производитель,Типоразмер,Ном.,"Откл,%",ТКЕ/ТКС,Напр.,Наименование 1С8 УПП
+"+1,2B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+1,5B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+1,8B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++12B,-,,,-,-,#PWR,+12B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++12B_DAC,-,,,-,-,#PWR,+12B_DAC,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++14B,-,,,-,-,#PWR,+14B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++15B,-,,,-,-,#PWR,+15B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++15B1,-,,,-,-,#PWR,+15B1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++18B,-,,,-,-,#PWR,+18B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,048B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,4B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,5B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,7B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++24B,-,,,-,-,#PWR,+24B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B1",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B2",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_ETHERNET",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_SD_MMC",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_TFT",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_TION",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,5B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,5B1",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,5B2",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++3B,-,,,-,-,#PWR,+3B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B,-,,,-,-,#PWR,+5B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B1,-,,,-,-,#PWR,+5B1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B2,-,,,-,-,#PWR,+5B2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B3,-,,,-,-,#PWR,+5B3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B_ETHERNET,-,,,-,-,#PWR,+5B_ETHERNET,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B_LED_TFT,-,,,-,-,#PWR,+5B_LED_TFT,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B_TION28,-,,,-,-,#PWR,+5B_TION28,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++5B_USB,-,,,-,-,#PWR,+5B_USB,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++6B,-,,,-,-,#PWR,+6B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++6B1,-,,,-,-,#PWR,+6B1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++6B2,-,,,-,-,#PWR,+6B2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++6B3,-,,,-,-,#PWR,+6B3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++6B4,-,,,-,-,#PWR,+6B4,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++9B,-,,,-,-,#PWR,+9B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++U,-,,,-,-,#PWR,+U,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++U1,-,,,-,-,#PWR,+U1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++U2,-,,,-,-,#PWR,+U2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++U3,-,,,-,-,#PWR,+U3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++U4,-,,,-,-,#PWR,+U4,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++U5,-,,,-,-,#PWR,+U5,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++UREF,-,,,-,-,#PWR,+UREF,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++UREF1,-,,,-,-,#PWR,+UREF1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++UREF2,-,,,-,-,#PWR,+UREF2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++UREF3,-,,,-,-,#PWR,+UREF3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
++Ubat,-,,,-,-,#PWR,+Ubat,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-12B,-,,,-,-,#PWR,-12B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-15B,-,,,-,-,#PWR,-15B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-18B,-,,,-,-,#PWR,-18B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-5B,-,,,-,-,#PWR,-5B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-5B1,-,,,-,-,#PWR,-5B1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-5B2,-,,,-,-,#PWR,-5B2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-U,-,,,-,-,#PWR,-U,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-U1,-,,,-,-,#PWR,-U1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-UREF,-,,,-,-,#PWR,-UREF,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+-Ubat,-,,,-,-,#PWR,-Ubat,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+0V,-,,,-,-,#PWR,0V,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+0V1,-,,,-,-,#PWR,0V1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+0V2,-,,,-,-,#PWR,0V2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+0V3,-,,,-,-,#PWR,0V3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+10MQ040N,-,,,10MQ040N,-,VD,10MQ040N,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+10MQ040N_PWR,-,,,10MQ040N,-,VD,10MQ040N_PWR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+16CTQ060,-,,,-,-,VD,16CTQ060,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+1N4729A,-,,,1N4729A,-,VD,1N4729A,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+2200RM,-,,,2200RM,-,L,2200RM,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+30FLZ-RSM1-TB,-,,,30FLZ,-,X,30FLZ-RSM1-TB,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+36-4465,-,,,PSM,-,SA,36-4465,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+4N25,-,,,DIP_6,-,V,4N25,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+52207-1085,-,,,52207_1085,-,X,52207-1085,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+52207-1085_12,-,,,52207_1085_12,-,X,52207-1085_12,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+54132-4062,-,,,-,-,X,54132-4062,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+5P14.3A,-,,,DIP_8,-,V,5P14.3A,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+5P14.3A_V2,-,,,DIP_8,-,V,5P14.3A_V2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD420AR-32,-,,,SOIC_24,-,DD,AD420AR-32,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD5420AREZ,-,,,TSSOP_24,-,DD,AD5420AREZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD597AR,-,,,SO_8,-,DD,AD597AR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD7124-4,-,,,TSSOP_24,-,DA,AD7124-4,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD737JRZ,-,,,SO_8,-,DA,AD737JRZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD7705BRU,-,,,TSSOP_16,-,DA,AD7705BRU,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD7708BR,-,,,-,-,DA,AD7708BR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD7708BRU,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD7718BRU,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD7794BRU,-,,,TSSOP_24,-,DA,AD7794BRU,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD7798BR,-,,,TSSOP_16,-,DA,AD7798BR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8066AR,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8231ACPZ,-,,,LFCSP_16,-,DA,AD8231ACPZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8307AR,-,,,SO_8,-,DD,AD8307AR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8436ARQZ,-,,,QSOP_20,-,DA,AD8436ARQZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8500AKSZ,-,,,-,-,DA,AD8500AKSZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8551AR_2,-,,,SO_8,-,DA,AD8551AR_2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8551AR_3,-,,,SO_8,-,DA,AD8551AR_3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8603AUJ,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8605ART,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8606AR,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8607AR_1,-,,,SO_8,-,DA,AD8607AR_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8638ARZ,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD8638ARZ_2,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD9837,-,,,10_LFCSP,-,DD,AD9837,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD9837ACPZ,-,,,10_LFCSP,-,DD,AD9837ACPZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AD9837BCPZ,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG1334BRSZ,-,,,SSOP_20,-,DA,ADG1334BRSZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG419BR,-,,,SO_8,-,DA,ADG419BR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG619BRT,-,,,SOT_23_8,-,DA,ADG619BRT,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG633,-,,,TSSOP_16,-,DA,ADG633,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG709BRU,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG712BR,-,,,-,-,DA,ADG712BR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG712BR_,-,,,-,-,DA,ADG712BR_,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG721BRM,-,,,TSSOP_8,-,DA,ADG721BRM,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADG819BRM,-,,,TSSOP_8,-,DA,ADG819BRM,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADM1232ARN,-,,,SO_8,-,DD,ADM1232ARN,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADM2587EBRWZ,-,,,SOIC_20,-,DD,ADM2587EBRWZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADM3483ARZ,-,,,SO_8,-,DD,ADM3483ARZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADM660AR,-,,,SO_8,-,DA,ADM660AR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADM8660AR,-,,,SO_8,-,DA,ADM8660AR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADS1241E,-,,,SSOP_28,-,DA,ADS1241E,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADS8325,-,,,TSSOP_8,-,DA,ADS8325,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ADUM1400ARW,-,,,SOIC_16,-,DD,ADUM1400ARW,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1D-2405DZ,-,,,AM1D,-,DA,AM1D-2405DZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0503S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0505S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0507S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0509S,-,,,AM1S,-,DA,AM1S-0509S,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0512S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0515S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0518S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-0524S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1203S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1205S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1207S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1209S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1212S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1215S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1218S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-1224S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2403S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2405S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2407S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2409S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2412S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2415S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2418S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM1S-2424S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM5T-1205D,-,,,AM5T,-,DA,AM5T-1205D,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM5T-1205S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM5T-2403S,-,,,AM5T,-,DA,AM5T-2403S,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AM5T-2405S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AMP1473005-1,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ANR26650M1A,-,,,-,-,GP,ANR26650M1A,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AP5100,-,,,SOT_23,-,DD,AP5100,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AT89C2051-12PC,-,,,-,-,DD,AT89C2051-12PC,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AT89C2051-12PC_,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+AT89S8253-24AI,-,,,TQFP_44,-,DD,AT89S8253-24AI,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+Arrows,-,,,-,-,AR,Arrows,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B0505XT-1WR2,-,,,SMD_8,-,DA,B0505XT-1WR2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B2405XT-1WR2,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B2409XT-1WR2,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B2415XT-1WR2,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B57164K104J,-,,,B57164K104J,-,R,B57164K104J,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B82721K,-,,,B82721K,-,L,B82721K,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B827290C0,-,,,B827290C0,-,L,B827290C0,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+B9-1212S,-,,,SPB03,-,DA,B9-1212S,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BAV99,-,,,SOT_23,-,VD,BAV99,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BC847,-,,,-,-,VT,BC847,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BC857,-,,,-,-,VT,BC857,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BLA2AB,-,,,-,-,L,BLA2AB,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BLM0805,-,,,-,-,L,BLM0805,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BLM18HE,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BLM31PG601SN1,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BLM31PG601SN1_PWR,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BLS-2,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BLS-4,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BNX002-01,-,,,BNX002-01,-,Z,BNX002-01,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BSP_78,-,,,SOT_223,-,DA,BSP_78,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BT-12S,-,,,BT_12S,-,K,BT-12S,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BZV55C5V6,-,,,BZV55,-,VD,BZV55C5V6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+BZX84C4V3,-,,,SOT_23,-,VD,BZX84C4V3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"C2-29B-0,125_G",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+C3917-34BTTI00,-,,,-,-,X,C3917-34BTTI00,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CAT661EVA,-,,,SO_8,-,DA,CAT661EVA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CD4011BM,-,,,SO_14,-,DD,CD4011BM,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CD4049UBD,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CD74HC4049B,-,,,SO_16,-,DD,CD74HC4049B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CDRH104RNP,-,,,CDRH104RNP,-,L,CDRH104RNP,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CDRH127/LDNP,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CDRH2D18/LDNP-100NC,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CDRH5D28N,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CDRH8D43NP,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CDSOD323-T03C,-,,,CDSOD323,-,VD,CDSOD323-T03C,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CH25-2032,-,,,CH25_2032,-,X,CH25-2032,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CON-24,-,,,-,-,X,CON-24,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CON-25,-,,,-,-,X,CON-25,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CPFC54,-,,,CPFC54,-,L,CPFC54,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CR2032,-,,,-,-,GP,CR2032,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+CS8952-CQ,-,,,TQFP_100,-,DD,CS8952-CQ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+D1A050D00,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DB107,-,,,DB107,-,VD,DB107,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DB9,-,,,-,-,X,DB9,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DC08-11GWA,-,,,SO_16,-,HG,DC08-11GWA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DE2E3,-,,,,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-02P,-,,,-,-,X,DG142V-02P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-03P,-,,,-,-,X,DG142V-03P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-04P,-,,,-,-,X,DG142V-04P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-04P_2,-,,,-,-,X,DG142V-04P_2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-05P,-,,,DG142V_05P,-,X,DG142V-05P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-06P,-,,,-,-,X,DG142V-06P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-06P_2,-,,,-,-,X,DG142V-06P_2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-07P,-,,,-,-,X,DG142V-07P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-08P,-,,,-,-,X,DG142V-08P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-08P_3,-,,,-,-,X,DG142V-08P_3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-12P,-,,,DG142V_12P,-,X,DG142V-12P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-14P,-,,,DG142V_14P,-,X,DG142V-14P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-14P_4,-,,,-,-,X,DG142V-14P_4,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG142V-16P,-,,,DG142V_16P,-,X,DG142V-16P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DG409DY,-,,,-_PAD,-,DA,DG409DY,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DHR-44FA,-,,,DHR_44,-,X,DHR-44FA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DIP-20SM,-,,,DIP_20SM,-,X,DIP-20SM,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DM3C-SF,-,,,DM3C-SF,-,X,DM3C-SF,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DRV8816,-,,,HTSSOP_16,-,DD,DRV8816,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DRV8823DCA,-,,,TSOP-48,-,DA,DRV8823DCA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+DRV8825,-,,,HTSSOP_28,-,DD,DRV8825,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+EC24,-,,,-,-,L,EC24,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+EC24_PWR,-,,,EC24,-,L,EC24_PWR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ECAP_NP,-,,,,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+EDR3D1C05,-,,,EDR3D,-,K,EDR3D1C05,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+EDR3H1A05,-,,,EDR3H,-,K,EDR3H1A05,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ER14250-VB,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FCM1608-0603,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FDB7030BL,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FDC1004,-,,,VSSOP_10,-,DA,FDC1004,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FH-101C,-,,,FH_101C,-,X,FH-101C,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FH12-45S-0.5SH,-,,,FH12_45S,-,X,FH12-45S-0.5SH,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FM25L04B-G,-,,,SO_8,-,DD,FM25L04B-G,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FNR-07K560,-,,,K10-17,-,RU,FNR-07K560,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FT8U232BM,-,,,LQFP_32,-,DD,FT8U232BM,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+FX8C-100S-SV,-,,,FX8C_100,-,X,FX8C-100S-SV,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+GND,-,,,-,-,#PWR,GND,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+GND1,-,,,-,-,#PWR,GND1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+GND2,-,,,-,-,#PWR,GND2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+GND3,-,,,-,-,#PWR,GND3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+GRM1206,-,,,-,-,C,GRM1206,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+GRM2220,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+H1102,-,,,-,-,DD,H1102,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HC49,-,,,-,-,ZQ,HC49,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HC49U,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HC49_G,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HEF4049BT,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HI1206N101R-00,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HI1206N101R-00_PWR,-,,,P1-12-1206,-,L,HI1206N101R-00_PWR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HI1206N101R-10,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HK3FF,-,,,HK3FF,-,K,HK3FF,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+HPM14AX,-,,,HPM14AX,-,HA,HPM14AX,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+Hat,-,,,-,-,XX,Hat,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ICL60002,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ICL7660SCBA,-,,,SO_8,-,DA,ICL7660SCBA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ICL7667CBA,-,,,SO_8,-,DA,ICL7667CBA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-06F,-,,,-,-,X,IDC-06F,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-10M,-,,,-,-,X,IDC-10M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-14MS,-,,,IDC_14M,-,X,IDC-14MS,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-16M,-,,,-,-,X,IDC-16M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-24M,-,,,-,-,X,IDC-24M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-30M,-,,,-,-,X,IDC-30M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-30M_2,-,,,IDC_30M,-,X,IDC-30M_2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDC-40M,-,,,IDC_40M,-,X,IDC-40M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDCC-24MR_10,-,,,IDCC_24MR,-,X,IDCC-24MR_10,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDCC-24MR_14,-,,,IDCC_24MR,-,X,IDCC-24MR_14,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IDCC-24MR_8,-,,,IDCC_24MR,-,X,IDCC-24MR_8,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IGC24-4-7F,-,,,SO_16,-,HG,IGC24-4-7F,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IR3220S,-,,,SOIC_20,-,DD,IR3220S,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRF7416,-,,,SOT_23,-,VT,IRF7416,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRF7484Q,-,,,SO_8,-,VT,IRF7484Q,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRFR024N,-,,,-,-,VT,IRFR024N,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRLML0060,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRLML2060,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRLML2402,-,,,SOT_23,-,VT,IRLML2402,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRLML6302,-,,,SOT_23,-,VT,IRLML6302,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRLML6402,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRM-45,-,,,IRM-45,-,A,IRM-45,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+IRM-45-1,-,,,IRM-45,-,A,IRM-45-1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ISO7641FCDW,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+K10-17,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+KAN0611-0431B,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+KP-1608CGCK,-,,,-,-,VD,KP-1608CGCK,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+KX-38_32768_6pF,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+KX-K,-,,,КХ_К,-,ZQ,KX-K,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+KXO-210,-,,,KXO_210,-,ZQ,KXO-210,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+L7805,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+L7805ABV,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+L7805CD2T,-,,,TO-263AB,-,DA,L7805CD2T,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+L7812,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+L78L05CD13TR,-,,,SO_8,-,DA,L78L05CD13TR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+L78L09CZ,-,,,TO_92,-,DA,L78L09CZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LAA110P,-,,,"S0_8_2,54",-,V,LAA110P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LD1117DT33TR,-,,,DPAK,-,DA,LD1117DT33TR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LF257M,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LF356M,-,,,-,-,DA,LF356M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LF356N,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LFE8505T,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LL4148,-,,,-,-,VD,LL4148,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM2674,-,,,SO_8,-,DA,LM2674,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM2760M5,-,,,SOT_23_5,-,DA,LM2760M5,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM285M,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM285M-1.2,-,,,SO_8,-,DA,LM285M-1.2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM285M-1.2_1,-,,,SO_8,-,VD,LM285M-1.2_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM321,-,,,SOT_23_5,-,DA,LM321,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM385M,-,,,SO_8,-,VD,LM385M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM393M,-,,,-,-,DA,LM393M,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM732,-,,,SO_8,-,DA,LM732,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM7321MA,-,,,SO_8,-,DA,LM7321MA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LM95071,-,,,SOT_23_5,-,DD,LM95071,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LMC555CM,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LMC6442AIM,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LMV393M,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LP2985AIM5-3.3,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LP2985AIM5-3.5,-,,,-,-,DA,LP2985AIM5-3.5,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LP3981IMM-3.3,-,,,SSOP_8,-,DA,LP3981IMM-3.3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LPC2134,-,,,PQFP_64,-,DD,LPC2134,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LPS3015-222ML,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LPS4018-103ML,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LPS4018-103MR,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LQH31CN2R2M03L,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"LT1761ES5-3,3",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LT1761ES5-3.3,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LT1761ES5-5,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+LTV-817S,-,,,SO_4,-,V,LTV-817S,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+M41T00S,-,,,SO_8,-,DD,M41T00S,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MAX13487E,-,,,SO_8,-,DD,MAX13487E,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MAX3243CWI,-,,,SSOP_28,-,DD,MAX3243CWI,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MAX4678,-,,,TSOP_16,-,DA,MAX4678,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MAX7219CWG,-,,,SOIC_24,-,DD,MAX7219CWG,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MAX7312AAG,-,,,SSOP_24,-,DD,MAX7312AAG,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MAX917ESA,-,,,SO_8,-,DA,MAX917ESA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MBR0530_PWR,-,,,MBR0530,-,VD,MBR0530_PWR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MC33199,-,,,SO_14,-,DD,MC33199,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MC74LCX07DG,-,,,SO_14,-,DD,MC74LCX07DG,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MCP1252T,-,,,TSSOP_8,-,DA,MCP1252T,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MCP1252T-33X50I/MS,-,,,TSSOP_8,-,DA,MCP1252T-33X50I/MS,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MCP73123-22S/MF,-,,,10_LFCSP,-,DA,MCP73123-22S/MF,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MCP73223-C2S/MF,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MJ-O-6,-,,,-,-,X,MJ-O-6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MJ-O-6_1,-,,,-,-,X,MJ-O-6_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MM5452V,-,,,PQFP64,-,DD,MM5452V,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MP2481,-,,,TSSOP_8,-,DA,MP2481,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MPX2200A,-,,,MPX2200A,-,BP,MPX2200A,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MPX2200AP,-,,,MPX2200AP,-,BP,MPX2200AP,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MSP430F149IPM,-,,,PQFP64,-,DD,MSP430F149IPM,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MSP430F169IPM,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MSP430F249TPM,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MSP430F2618TPM,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MSP430F2618TPN,-,,,PQFP_80,-,DD,MSP430F2618TPN,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MSP430F5418AIPN,-,,,PQFP_80,-,DD,MSP430F5418AIPN,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MSP430F5419AIPZ,-,,,TQFP_100,-,DD,MSP430F5419AIPZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MT48LC16M16A2P,-,,,TSOP_54,-,DD,MT48LC16M16A2P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MT48LC2M32B2,-,,,TSOP_86,-,DD,MT48LC2M32B2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+MT48LC4M32B2,-,,,TSOP_86,-,DD,MT48LC4M32B2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+N25Q128A13ESE40F,-,,,SO_8,-,DD,N25Q128A13ESE40F,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+NC7S32M5X,-,,,-,-,DD,NC7S32M5X,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+NC7SZ14M5X,-,,,-,-,DD,NC7SZ14M5X,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+NCP1117STAT3,-,,,SOT_223_3,-,DA,NCP1117STAT3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+NE555N,-,,,-,-,DA,NE555N,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+NTD25P03LT4G,-,,,TO-253,-,VT,NTD25P03LT4G,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+OCXO-2,-,,,OCXO_2,-,ZQ,OCXO-2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+OP07CP,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+OP07CS,-,,,-,-,DA,OP07CS,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+OP07CS_1,-,,,-,-,DA,OP07CS_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"P1-12-0,125",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"P1-12-0,25",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"P1-12-0,25_PWR",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PBD-38,-,,,-,-,X,PBD-38,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PBD-64,-,,,PBD_64,-,X,PBD-64,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PBS-16,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PBS-16R,-,,,PBS_16R,-,X,PBS-16R,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PBS-20,-,,,-,-,X,PBS-20,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PBS-4,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PESD3V3L4UG,-,,,SOT_353,-,VD,PESD3V3L4UG,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PGND,-,,,-,-,#PWR,PGND,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PGND1,-,,,-,-,#PWR,PGND1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-10,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-12R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-16,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-4,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-4R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-6,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-6R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-8,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-862,-,,,PLD_8,-,X,PLD-862,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLD-8R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-1,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-10,-,,,-,-,X,PLS-10,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-10R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-12,-,,,-,-,X,PLS-12,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-14,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-14R,-,,,-,-,X,PLS-14R,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-16,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-16R-3,-,,,-,-,X,PLS-16R-3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-1R,-,,,-,-,X,PLS-1R,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-1_1,-,,,-,-,X,PLS-1_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-2,-,,,-,-,X,PLS-2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-20,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-20R,-,,,PLS_20R,-,X,PLS-20R,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-2R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-2_1,-,,,-,-,X,PLS-2_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-3,-,,,-,-,X,PLS-3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-3R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-3_1,-,,,PLS_3,-,X,PLS-3_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-4,-,,,-,-,X,PLS-4,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-4R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-4_1,-,,,PLS_4,-,X,PLS-4_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-5,-,,,-,-,X,PLS-5,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-5R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-6,-,,,-,-,X,PLS-6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-6R,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-7,-,,,-,-,X,PLS-7,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PLS-8,-,,,-,-,X,PLS-8,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PS417,-,,,SO_5,-,V,PS417,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PSM101,-,,,PSM,-,SA,PSM101,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PSM111,-,,,PSM,-,SA,PSM111,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PSR-7805LF,-,,,-,-,DA,PSR-7805LF,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+PVT322S,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF191GS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF192GS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF193GS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF194GS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF195GS,-,,,SO_8,-,DA,REF195GS,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF196GS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF198GS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+REF3025,-,,,-,-,DA,REF3025,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+RK206_SMD,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+RLB1314-470K,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+S10K35,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+S10K35_,-,,,K10-17,-,RU,S10K35_,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+S29GL128P,-,,,TSOP_56,-,DD,S29GL128P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SDCMF-10901W0T0,-,,,SDCMF,-,X,SDCMF-10901W0T0,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SD_uSD_CARD,-,,,-,-,A,SD_uSD_CARD,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SG57600,-,,,-,-,X,SG57600,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SG57648,-,,,-,-,X,SG57648,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SI8440BB-D-IS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SI8441BB-D-IS,-,,,SOIC_16,-,DD,SI8441BB-D-IS,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SI8640BB-B-IS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SI8641BB-B-IS,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SIP32431DR3-T1GE3,-,,,SC-70_6,-,DA,SIP32431DR3-T1GE3,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SM712,-,,,SM712,-,VD,SM712,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SM712_R,-,,,SM712,-,VD,SM712_R,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SMBJ12CA,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SMBJ24CA,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SMBJ36CA,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SMBJ5.0CA,-,,,SMABJ_CA,-,VD,SMBJ5.0CA,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SN74AHC1G32DBVR,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SN74LVC1G132DBVR,-,,,SOT_23_5,-,DD,SN74LVC1G132DBVR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SN74LVC1G14DBVR,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SPB03A-12,-,,,-,-,DA,SPB03A-12,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SRF1306-600Y,-,,,SRF1306,-,L,SRF1306-600Y,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F051C8T6,-,,,LQFP_64,-,DD,STM32F051C8T6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F071C8T6,-,,,LQFP_64,-,DD,STM32F071C8T6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F071RBT6,-,,,LQFP_64,-,DD,STM32F071RBT6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F100RBT6B,-,,,PQFP_64,-,DD,STM32F100RBT6B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F100VB,-,,,TQFP_100,-,DD,STM32F100VB,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F100VE,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F103C8,-,,,TQFP_100,-,DD,STM32F103C8,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F103C8_1,-,,,LQFP_48,-,DD,STM32F103C8_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F303VC,-,,,TQFP_100,-,DD,STM32F303VC,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F429II,-,,,LQFP_176,-,DD,STM32F429II,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F429ZI,-,,,LQFP_144,-,DD,STM32F429ZI,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32F767IIT6,-,,,LQFP_176,-,DD,STM32F767IIT6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32L151CCTx,-,,,LQFP_48,-,DD,STM32L151CCTx,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32L151VB,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32L152RET6,-,,,LQFP_64,-,DD,STM32L152RET6,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+STM32L476VC,-,,,TQFP_100,-,DD,STM32L476VC,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SWD1-1,-,,,SWD1_1,-,SA,SWD1-1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+SWD1-2,-,,,SWD1_2,-,SA,SWD1-2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TBU-CA065-300-WH,-,,,TBU-CA,-,DA,TBU-CA065-300-WH,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TECAP-10,-,,,-,-,C,TECAP-10,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TECAP-100,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"TECAP-6,8",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TION,-,,,SO_DIMM200,-,X,TION,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TION-MODULE,-,,,Tion_Modul,-,A,TION-MODULE,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TJ3-8P8C,-,,,TJ3-8P8C,-,X,TJ3-8P8C,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TL4051CIDBZ,-,,,SOT_23_3,-,VD,TL4051CIDBZ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TLP281-4,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TLP291-4,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TLP521-1,-,,,DIP_4,-,V,TLP521-1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TLP521-2,-,,,DIP_8,-,V,TLP521-2,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TLP521-4,-,,,-,-,V,TLP521-4,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TLV61046A,-,,,SOT_26,-,DA,TLV61046A,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TMP36GT9,-,,,TMP36GT9,-,BT,TMP36GT9,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TPS3828-33DBVT,-,,,SOT_G5,-,DD,TPS3828-33DBVT,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TPS562200,-,,,SOT_26,-,DA,TPS562200,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TPS60101PWP,-,,,TSSOP_20,-,DA,TPS60101PWP,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TPS61169,-,,,SOT_353,-,DA,TPS61169,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TPS62046DGQ,-,,,-,-,DA,TPS62046DGQ,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TPS62220DDC,-,,,SOT_G5,-,DD,TPS62220DDC,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TPS63031,-,,,TPS63031,-,DA,TPS63031,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TRJ-24VDC-SA-CD,-,,,TRJ,-,K,TRJ-24VDC-SA-CD,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TS-130,-,,,-,-,SA,TS-130,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TS-A1PS-130,-,,,TS_130,-,SA,TS-A1PS-130,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TS-A1PV-130,-,,,,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TS-A2PV-130,-,,,TS_130_R,-,SA,TS-A2PV-130,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+TSC2046IPW,-,,,-,-,DA,TSC2046IPW,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+UAMP,-,,,-,-,#PWR,UAMP,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+USB-B,-,,,-,-,X,USB-B,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+USBM-1J,-,,,USBM-1J,-,X,USBM-1J,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+U_P,-,,,-,-,#PWR,U_P,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+U_T,-,,,-,-,#PWR,U_T,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+Ubat,-,,,-,-,#PWR,Ubat,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+Upol,-,,,-,-,#PWR,Upol,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+VB1205D-2W,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+VN808-E,-,,,VN808-E,-,DD,VN808-E,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+VNH3SP30,-,,,SO_30,-,DD,VNH3SP30,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+VRB2405ZP-6WR2,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+WS-DISV-4,-,,,SO_4,-,SA,WS-DISV-4,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+XF2M-2615-1A,-,,,XF2M_26,-,X,XF2M-2615-1A,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+YC124,-,,,-,-,R,YC124,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+YC164,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ZTT,-,,,-,-,ZQ,ZTT,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+fdc-24,-,,,-,-,X,fdc-24,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+v39za3p,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~AGND,-,,,-,-,#PWR,AGND,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~AGND1,-,,,-,-,#PWR,AGND1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~DGND,-,,,-,-,#PWR,DGND,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~F,-,,,F,-,F,F,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~GGND,-,,,-,-,#PWR,GGND,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~GWG,-,,,-,-,#PWR,GWG,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~KT,-,,,"P_0,7",-,KT,KT,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~KT_1,-,,,P,-,KT_1,KT_1,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~POINT,-,,,P,-,P,POINT,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"~POINT_0,3",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"~POINT_0,7",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~POINT_GGND,-,,,P_GGND,-,P,POINT_GGND,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~POINT_GWG,-,,,P_GGND,-,P,POINT_GWG,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~POINT_PWR,-,,,-,-,P,POINT_PWR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~PS,-,,,-,-,PS,PS,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+~PS_PWR,-,,,PS,-,PS,PS_PWR,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+Анод,-,,,-,-,#PWR,Анод,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ВП2Б-1В,-,,,-,-,FU,ВП2Б-1В,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ВП4-5,-,,,"C2-29B-0,125_G",-,FU,ВП4-5,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+ЗП-25,-,,,ЗП_25,-,HA,ЗП-25,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+Катод,-,,,-,-,#PWR,Катод,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+СП3-19А,-,,,-,-,R,СП3-19А,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+СП3-19Б,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+СП5-2ВБ,-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+1,2B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+1,5B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+1,8B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,048B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,4B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,5B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+2,7B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B1",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B2",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_ETHERNET",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_SD_MMC",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_TFT",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,3B_TION",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,5B",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,5B1",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"+3,5B2",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"C2-29B-0,125_G",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"LT1761ES5-3,3",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"P1-12-0,125",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"P1-12-0,25",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"P1-12-0,25_PWR",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"TECAP-6,8",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"~POINT_0,3",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
+"~POINT_0,7",-,,,-,-,,,,,,,,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-
