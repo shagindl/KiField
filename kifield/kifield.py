@@ -738,11 +738,10 @@ def insert_part_fields_into_wb(part_fields_dict, wb, recurse=False):
     id_label = 'Refs'
 
     # Get all the unique field labels used in the dictionary of part fields.
-    field_labels = set([])
+    field_labels = []
     for fields_and_values in part_fields_dict.values():
         for field_label in fields_and_values:
-            field_labels.add(field_label)
-    field_labels = sorted(field_labels)
+            field_labels.append(field_label)
     field_labels.insert(0, id_label)
 
     if wb is None:
