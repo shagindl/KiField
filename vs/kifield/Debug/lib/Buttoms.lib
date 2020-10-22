@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3  Date: 20.05.2019 15:35:28
 DEF 36-4465 SA 0 20 Y N 1 F N
 F0 "SA" 25 600 80 H V C CNN
 F1 "36-4465" 0 -600 80 H V C CNN
-F2 "PSM" -225 -375 30 H I C CNN
+F2 "-" -225 -375 30 H I C CNN
 F3 "-" -225 -375 10 H I C CNN
 F4 "-" -125 -375 30 H I C CNN "Примечание"
 F5 "-" -125 -375 30 H I C CNN "Тип элемента"
@@ -65,7 +65,7 @@ ENDDEF
 DEF PSM101 SA 0 20 Y N 1 F N
 F0 "SA" -25 600 80 H V C CNN
 F1 "PSM101" 50 -500 80 H V C CNN
-F2 "PSM" -25 -375 30 H I C CNN
+F2 "-" -25 -375 30 H I C CNN
 F3 "-" -25 -375 10 H I C CNN
 F4 "-" 75 -375 30 H I C CNN "Примечание"
 F5 "-" 75 -375 30 H I C CNN "Тип элемента"
@@ -102,7 +102,7 @@ ENDDEF
 DEF PSM111 SA 0 40 Y N 1 F N
 F0 "SA" -25 475 80 H V C CNN
 F1 "PSM111" 0 -475 80 H V C CNN
-F2 "PSM" 25 -125 30 H I C CNN
+F2 "-" 25 -125 30 H I C CNN
 F3 "-" 25 -125 10 H I C CNN
 F4 "-" 125 -125 30 H I C CNN "Примечание"
 F5 "-" 125 -125 30 H I C CNN "Тип элемента"
@@ -150,7 +150,7 @@ ENDDEF
 DEF SWD1-1 SA 0 20 Y N 1 F N
 F0 "SA" 25 300 80 H V C CNN
 F1 "SWD1-1" 0 -100 80 H V C CNN
-F2 "SWD1_1" -25 175 30 H I C CNN
+F2 "-" -25 175 30 H I C CNN
 F3 "-" -25 175 10 H I C CNN
 F4 "-" 75 175 30 H I C CNN "Примечание"
 F5 "-" 75 175 30 H I C CNN "Тип элемента"
@@ -180,7 +180,7 @@ ENDDEF
 DEF SWD1-2 SA 0 20 Y N 1 F N
 F0 "SA" -25 350 80 H V C CNN
 F1 "SWD1-2" 0 -200 80 H V C CNN
-F2 "SWD1_2" -25 75 30 H I C CNN
+F2 "-" -25 75 30 H I C CNN
 F3 "-" -25 75 10 H I C CNN
 F4 "-" 75 75 30 H I C CNN "Примечание"
 F5 "-" 75 75 30 H I C CNN "Тип элемента"
@@ -250,7 +250,7 @@ ENDDEF
 DEF TS-A1PS-130 SA 0 20 Y N 1 F N
 F0 "SA" 25 350 80 H V C CNN
 F1 "TS-A1PS-130" 0 -300 80 H V C CNN
-F2 "TS_130" -25 25 30 H I C CNN
+F2 "-" -25 25 30 H I C CNN
 F3 "-" -25 25 10 H I C CNN
 F4 "-" 75 25 30 H I C CNN "Примечание"
 F5 "-" 75 25 30 H I C CNN "Тип элемента"
@@ -283,7 +283,7 @@ ENDDEF
 DEF TS-A2PV-130 SA 0 20 Y N 1 F N
 F0 "SA" 25 350 80 H V C CNN
 F1 "TS-A2PV-130" 0 -300 80 H V C CNN
-F2 "TS_130_R" -25 25 30 H I C CNN
+F2 "-" -25 25 30 H I C CNN
 F3 "-" -25 25 10 H I C CNN
 F4 "-" 75 25 30 H I C CNN "Примечание"
 F5 "-" 75 25 30 H I C CNN "Тип элемента"
@@ -317,7 +317,7 @@ ENDDEF
 DEF WS-DISV-4 SA 0 20 Y N 1 F N
 F0 "SA" 25 300 80 H V C CNN
 F1 "WS-DISV-4" 0 -200 80 H V C CNN
-F2 "SO_4" -25 75 30 H I C CNN
+F2 "-" -25 75 30 H I C CNN
 F3 "-" -25 75 10 H I C CNN
 F4 "-" 75 75 30 H I C CNN "Примечание"
 F5 "-" 75 75 30 H I C CNN "Тип элемента"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3  Date: 31.10.2017 9:00:17
 DEF HPM14AX HA 0 40 N N 1 F N
 F0 "HA" 300 150 80 H V C CNN
 F1 "HPM14AX" 400 -300 80 H V C CNN
-F2 "HPM14AX" 0 0 30 H I C CNN
+F2 "-" 0 0 30 H I C CNN
 F3 "-" 150 -200 20 H I C CNN
 F4 "-" 0 0 30 H I C CNN "Примечание"
 F5 "-" 0 0 30 H I C CNN "Тип элемента"
@@ -35,7 +35,7 @@ ENDDEF
 DEF ЗП-25 HA 0 40 N N 1 F N
 F0 "HA" 0 350 80 H V C CNN
 F1 "ЗП-25" 0 -350 80 H V C CNN
-F2 "ЗП_25" 0 0 30 H I C CNN
+F2 "-" 0 0 30 H I C CNN
 F3 "-" 150 -200 20 H I C CNN
 F4 "-" 0 0 30 H I C CNN "Примечание"
 F5 "-" 0 0 30 H I C CNN "Тип элемента"

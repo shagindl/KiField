@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3  Date: 03.08.2018 11:46:54
 DEF ~F F 0 30 N N 1 F N
 F0 "F" 0 100 80 H V C CNN
 F1 "F" 30 -90 80 H I C CNN
-F2 "F" 20 -50 20 H I C CNN
+F2 "-" 20 -50 20 H I C CNN
 F3 "-" 80 -50 20 H I C CNN
 F4 "-" 0 -50 20 H I C CNN "Примечание"
 F5 "-" 0 -50 20 H I C CNN "Тип элемента"
@@ -31,7 +31,7 @@ ENDDEF
 DEF IR3220S DD 0 40 Y Y 1 F N
 F0 "DD" 0 1050 80 H V C CNN
 F1 "IR3220S" 75 -1150 80 H V C CNN
-F2 "SOIC_20" 150 -850 60 V I C CNN
+F2 "-" 150 -850 60 V I C CNN
 F3 "-" -150 -200 30 V I C CNN
 F4 "-" 50 -700 50 V I C CNN "Примечание"
 F5 "-" 50 -700 50 V I C CNN "Тип элемента"
@@ -83,7 +83,7 @@ ENDDEF
 DEF ~KT KT 0 30 N N 1 F N
 F0 "KT" 0 100 80 H V C CNN
 F1 "KT" 30 -90 80 H I C CNN
-F2 "P_0,7" 20 -50 20 H I C CNN
+F2 "-" 20 -50 20 H I C CNN
 F3 "-" 80 -50 20 H I C CNN
 F4 "-" 0 -50 20 H I C CNN "Примечание"
 F5 "-" 0 -50 20 H I C CNN "Тип элемента"
@@ -107,7 +107,7 @@ ENDDEF
 DEF ~KT_1 KT_1 0 100 N N 1 F N
 F0 "KT_1" 0 150 80 H V C CNN
 F1 "KT_1" 0 -300 80 H I C CNN
-F2 "P" -150 -170 30 H I C CNN
+F2 "-" -150 -170 30 H I C CNN
 F3 "-" -110 -180 10 H I C CNN
 F4 "-" -100 -170 30 H I C CNN "Примечание"
 F5 "-" -100 -170 30 H I C CNN "Тип элемента"
@@ -184,7 +184,7 @@ ENDDEF
 DEF PLD-862 X 0 100 N Y 2 L N
 F0 "X" 0 700 80 H V C CNN
 F1 "PLD-862" 100 -700 80 H V C CNN
-F2 "PLD_8" 30 -580 20 H I C CNN
+F2 "-" 30 -580 20 H I C CNN
 F3 "-" 90 -580 10 H I C CNN
 F4 "-" 200 -580 20 H I C CNN "Примечание"
 F5 "-" 200 -580 20 H I C CNN "Тип элемента"
@@ -526,7 +526,7 @@ ENDDEF
 DEF PLS-20R X 0 100 N Y 1 F N
 F0 "X" 100 2100 80 H V C CNN
 F1 "PLS-20R" 150 -2075 80 H V C CNN
-F2 "PLS_20R" 0 -2025 30 H I C CNN
+F2 "-" 0 -2025 30 H I C CNN
 F3 "-" 100 -2025 30 H I C CNN
 F4 "-" 350 -2025 30 H I C CNN "Примечание"
 F5 "-" 350 -2025 30 H I C CNN "Тип элемента"
@@ -663,7 +663,7 @@ ENDDEF
 DEF PLS-3_1 X 0 100 N N 1 F N
 F0 "X" 0 450 80 H V C CNN
 F1 "PLS-3_1" 0 -500 80 H V C CNN
-F2 "PLS_3" 0 -270 30 H I C CNN
+F2 "-" 0 -270 30 H I C CNN
 F3 "-" 40 -280 10 H I C CNN
 F4 "-" 50 -270 30 H I C CNN "Примечание"
 F5 "-" 50 -270 30 H I C CNN "Тип элемента"
@@ -725,7 +725,7 @@ ENDDEF
 DEF PLS-4_1 X 0 100 N N 1 F N
 F0 "X" 0 600 80 H V C CNN
 F1 "PLS-4_1" 0 -650 80 H V C CNN
-F2 "PLS_4" -15 -560 30 H I C CNN
+F2 "-" -15 -560 30 H I C CNN
 F3 "-" 25 -570 10 H I C CNN
 F4 "-" 35 -560 30 H I C CNN "Примечание"
 F5 "-" 35 -560 30 H I C CNN "Тип элемента"
@@ -917,7 +917,7 @@ ENDDEF
 DEF ~POINT P 0 30 N N 1 F N
 F0 "P" 0 100 80 H V C CNN
 F1 "POINT" 30 -90 80 H I C CNN
-F2 "P" 20 -50 20 H I C CNN
+F2 "-" 20 -50 20 H I C CNN
 F3 "-" 80 -50 20 H I C CNN
 F4 "-" 0 -50 20 H I C CNN "Примечание"
 F5 "-" 0 -50 20 H I C CNN "Тип элемента"
@@ -989,7 +989,7 @@ ENDDEF
 DEF ~POINT_GGND P 0 30 N N 1 F N
 F0 "P" 0 100 80 H V C CNN
 F1 "POINT_GGND" 30 -90 80 H I C CNN
-F2 "P_GGND" 20 -50 20 H I C CNN
+F2 "-" 20 -50 20 H I C CNN
 F3 "-" 80 -50 20 H I C CNN
 F4 "-" 0 -50 20 H I C CNN "Примечание"
 F5 "-" 0 -50 20 H I C CNN "Тип элемента"
@@ -1013,7 +1013,7 @@ ENDDEF
 DEF ~POINT_GWG P 0 30 N N 1 F N
 F0 "P" 0 100 80 H V C CNN
 F1 "POINT_GWG" 30 -90 80 H I C CNN
-F2 "P_GGND" 20 -50 20 H I C CNN
+F2 "-" 20 -50 20 H I C CNN
 F3 "-" 80 -50 20 H I C CNN
 F4 "-" 0 -50 20 H I C CNN "Примечание"
 F5 "-" 0 -50 20 H I C CNN "Тип элемента"
@@ -1090,7 +1090,7 @@ ENDDEF
 DEF ~PS_PWR PS 0 30 N N 1 F N
 F0 "PS" 0 100 80 H V C CNN
 F1 "PS_PWR" 0 -150 80 H I C CNN
-F2 "PS" 0 -50 30 H I C CNN
+F2 "-" 0 -50 30 H I C CNN
 F3 "-" 0 -50 30 H I C CNN
 F4 "-" 0 -50 30 H I C CNN "Примечание"
 F5 "-" 0 -50 30 H I C CNN "Тип элемента"

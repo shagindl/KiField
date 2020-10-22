@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 2200RM L 0 0 N N 1 F N
 F0 "L" 0 200 80 H V C CNN
 F1 "2200RM" 25 -125 80 H I C CNN
-F2 "2200RM" -25 -25 20 H I C CNN
+F2 "-" -25 -25 20 H I C CNN
 F3 "-" 25 -25 20 H I C CNN
 F4 "-" -75 -25 20 H I C CNN "Примечание"
 F5 "-" -75 -25 20 H I C CNN "Тип элемента"
@@ -38,7 +38,7 @@ ENDDEF
 DEF B82721K L 0 1 Y N 1 F N
 F0 "L" 0 250 80 H V C CNN
 F1 "B82721K" 25 -225 80 H V C CNN
-F2 "B82721K" -25 -125 20 H I C CNN
+F2 "-" -25 -125 20 H I C CNN
 F3 "-" 25 -125 20 H I C CNN
 F4 "-" -75 -125 20 H I C CNN "Примечание"
 F5 "-" -75 -125 20 H I C CNN "Тип элемента"
@@ -92,7 +92,7 @@ ENDDEF
 DEF B827290C0 L 0 1 Y N 1 F N
 F0 "L" 0 250 80 H V C CNN
 F1 "B827290C0" 25 -225 80 H V C CNN
-F2 "B827290C0" -25 -125 20 H I C CNN
+F2 "-" -25 -125 20 H I C CNN
 F3 "-" 25 -125 20 H I C CNN
 F4 "-" -75 -125 20 H I C CNN "Примечание"
 F5 "-" -75 -125 20 H I C CNN "Тип элемента"
@@ -214,7 +214,7 @@ ENDDEF
 DEF BNX002-01 Z 0 40 Y Y 1 F N
 F0 "Z" 50 375 80 H V C CNN
 F1 "BNX002-01" 15 -375 80 H V C CNN
-F2 "BNX002-01" 35 -45 30 H I C CNN
+F2 "-" 35 -45 30 H I C CNN
 F3 "-" 35 -45 30 H I C CNN
 F4 "-" 35 -45 30 H I C CNN "Примечание"
 F5 "-" 35 -45 30 H I C CNN "Тип элемента"
@@ -243,7 +243,7 @@ ENDDEF
 DEF CDRH104RNP L 0 0 N N 1 F N
 F0 "L" 0 250 80 H V C CNN
 F1 "CDRH104RNP" 25 -125 80 H V C CNN
-F2 "CDRH104RNP" 25 -25 20 H I C CNN
+F2 "-" 25 -25 20 H I C CNN
 F3 "-" 75 -25 20 H I C CNN
 F4 "-" -25 -25 20 H I C CNN "Примечание"
 F5 "-" -25 -25 20 H I C CNN "Тип элемента"
@@ -283,7 +283,7 @@ ENDDEF
 DEF CPFC54 L 0 1 Y N 1 F N
 F0 "L" 0 350 80 H V C CNN
 F1 "CPFC54" 25 -125 80 H V C CNN
-F2 "CPFC54" 25 -25 20 H I C CNN
+F2 "-" 25 -25 20 H I C CNN
 F3 "-" 75 -25 20 H I C CNN
 F4 "-" -25 -25 20 H I C CNN "Примечание"
 F5 "-" -25 -25 20 H I C CNN "Тип элемента"
@@ -360,7 +360,7 @@ ENDDEF
 DEF EC24_PWR L 0 0 N N 1 F N
 F0 "L" 0 150 80 H V C CNN
 F1 "EC24_PWR" 25 -125 80 H V C CNN
-F2 "EC24" 25 -25 20 H I C CNN
+F2 "-" 25 -25 20 H I C CNN
 F3 "-" 75 -25 20 H I C CNN
 F4 "-" -25 -25 20 H I C CNN "Примечание"
 F5 "-" -25 -25 20 H I C CNN "Тип элемента"
@@ -394,7 +394,7 @@ ENDDEF
 DEF HI1206N101R-00_PWR L 0 0 N N 1 F N
 F0 "L" 0 150 80 H V C CNN
 F1 "HI1206N101R-00_PWR" 25 -125 80 H V C CNN
-F2 "P1-12-1206" 25 -25 20 H I C CNN
+F2 "-" 25 -25 20 H I C CNN
 F3 "-" 75 -25 20 H I C CNN
 F4 "-" -25 -25 20 H I C CNN "Примечание"
 F5 "-" -25 -25 20 H I C CNN "Тип элемента"
@@ -429,7 +429,7 @@ ENDDEF
 DEF SRF1306-600Y L 0 1 Y N 1 F N
 F0 "L" 0 250 80 H V C CNN
 F1 "SRF1306-600Y" 75 -225 80 H V C CNN
-F2 "SRF1306" -25 -125 20 H I C CNN
+F2 "-" -25 -125 20 H I C CNN
 F3 "-" 25 -125 20 H I C CNN
 F4 "-" -75 -125 20 H I C CNN "Примечание"
 F5 "-" -75 -125 20 H I C CNN "Тип элемента"

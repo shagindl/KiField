@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3  Date: 29.09.2016 11:20:29
 DEF 4N25 V 0 40 Y Y 1 F N
 F0 "V" 0 350 80 H V C CNN
 F1 "4N25" 25 -400 80 H V C CNN
-F2 "DIP_6" 50 -225 20 H I C CNN
+F2 "-" 50 -225 20 H I C CNN
 F3 "-" 50 -275 10 H I C CNN
 F4 "-" -100 -275 20 H I C CNN "Примечание"
 F5 "-" -100 -275 20 H I C CNN "Тип элемента"
@@ -38,7 +38,7 @@ ENDDEF
 DEF 5P14.3A V 0 40 N N 2 L N
 F0 "V" 0 200 80 H V C CNN
 F1 "5P14.3A" 575 -125 80 H V C CNN
-F2 "DIP_8" 180 -75 20 H I C CNN
+F2 "-" 180 -75 20 H I C CNN
 F3 "-" -80 -85 10 H I C CNN
 F4 "-" -110 -80 20 H I C CNN "Примечание"
 F5 "-" -110 -80 20 H I C CNN "Тип элемента"
@@ -89,7 +89,7 @@ ENDDEF
 DEF 5P14.3A_V2 V 0 40 N N 1 F N
 F0 "V" 0 450 80 H V C CNN
 F1 "5P14.3A_V2" 25 -500 80 H V C CNN
-F2 "DIP_8" 110 -355 20 H I C CNN
+F2 "-" 110 -355 20 H I C CNN
 F3 "-" 30 -355 10 H I C CNN
 F4 "-" -100 -350 20 H I C CNN "Примечание"
 F5 "-" -100 -350 20 H I C CNN "Тип элемента"
@@ -217,7 +217,7 @@ ENDDEF
 DEF ADUM1400ARW DD 0 60 Y Y 1 F N
 F0 "DD" -125 975 80 H V L CNN
 F1 "ADUM1400ARW" -500 -1000 80 H V L CNN
-F2 "SOIC_16" 75 -775 20 V I C CNN
+F2 "-" 75 -775 20 V I C CNN
 F3 "-" 150 -225 20 V I C CNN
 F4 "-" -100 -775 20 V I C CNN "Примечание"
 F5 "-" -100 -775 20 V I C CNN "Тип элемента"
@@ -280,7 +280,7 @@ ENDDEF
 DEF LAA110P V 0 40 N N 2 L N
 F0 "V" 0 300 80 H V C CNN
 F1 "LAA110P" 575 -125 80 H V C CNN
-F2 "S0_8_2,54" 180 -75 20 H I C CNN
+F2 "-" 180 -75 20 H I C CNN
 F3 "-" -80 -85 10 H I C CNN
 F4 "-" -110 -80 20 H I C CNN "Примечание"
 F5 "-" -110 -80 20 H I C CNN "Тип элемента"
@@ -333,7 +333,7 @@ ENDDEF
 DEF LTV-817S V 0 40 N N 1 F N
 F0 "V" 50 250 90 H V C CNN
 F1 "LTV-817S" 700 -150 90 H V C CNN
-F2 "SO_4" 100 -100 20 H I C CNN
+F2 "-" 100 -100 20 H I C CNN
 F3 "-" -50 -125 10 H I C CNN
 F4 "-" -150 -100 20 H I C CNN "Примечание"
 F5 "-" -150 -100 20 H I C CNN "Тип элемента"
@@ -379,7 +379,7 @@ ENDDEF
 DEF PS417 V 0 40 N N 1 F N
 F0 "V" 25 600 90 H V C CNN
 F1 "PS417" 50 -475 90 H V C CNN
-F2 "SO_5" -175 -275 20 H I C CNN
+F2 "-" -175 -275 20 H I C CNN
 F3 "-" -25 -275 10 H I C CNN
 F4 "-" -25 -275 20 H I C CNN "Примечание"
 F5 "-" -25 -275 20 H I C CNN "Тип элемента"
@@ -429,7 +429,7 @@ ENDDEF
 DEF SI8441BB-D-IS DD 0 60 Y Y 1 F N
 F0 "DD" 0 1000 80 H V C CNN
 F1 "SI8441BB-D-IS" 0 -1000 80 H V C CNN
-F2 "SOIC_16" -100 -775 30 V I C CNN
+F2 "-" -100 -775 30 V I C CNN
 F3 "-" -150 -525 20 V I C CNN
 F4 "-" -50 -200 30 V I C CNN "Примечание"
 F5 "-" -50 -200 30 V I C CNN "Тип элемента"
@@ -492,7 +492,7 @@ ENDDEF
 DEF TLP521-1 V 0 40 N N 1 F N
 F0 "V" 50 250 90 H V C CNN
 F1 "TLP521-1" 50 -350 90 H V C CNN
-F2 "DIP_4" -150 -125 20 H I C CNN
+F2 "-" -150 -125 20 H I C CNN
 F3 "-" -50 -125 10 H I C CNN
 F4 "-" -50 -125 20 H I C CNN "Примечание"
 F5 "-" -50 -125 20 H I C CNN "Тип элемента"
@@ -538,7 +538,7 @@ ENDDEF
 DEF TLP521-2 V 0 40 N N 2 L N
 F0 "V" 50 250 90 H V C CNN
 F1 "TLP521-2" 700 -150 90 H V C CNN
-F2 "DIP_8" -150 -125 20 H I C CNN
+F2 "-" -150 -125 20 H I C CNN
 F3 "-" -50 -125 10 H I C CNN
 F4 "-" -50 -125 20 H I C CNN "Примечание"
 F5 "-" -50 -125 20 H I C CNN "Тип элемента"

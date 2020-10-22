@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3  Date: 18.04.2019 16:12:39
 DEF M41T00S DD 0 60 Y Y 1 F N
 F0 "DD" -100 600 80 H V L CNN
 F1 "M41T00S" -275 -600 80 H V L CNN
-F2 "SO_8" -150 -400 30 V I C CNN
+F2 "-" -150 -400 30 V I C CNN
 F3 "-" 150 -100 20 V I C CNN
 F4 "-" 0 -250 30 V I C CNN "Примечание"
 F5 "-" 0 -250 30 V I C CNN "Тип элемента"
