@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF RT R 0 0 N N 1 F N
 F0 "R" 0 150 80 H V C CNN
 F1 "RT" 0 -250 80 H I C CNN
-F2 "RT" 0 -50 30 H I C CNN
+F2 "-" 0 -50 30 H I C CNN
 F3 "-" 0 -50 30 H I C CNN
 F4 "-" 0 -50 30 H I C CNN "Примечание"
 F5 "-" 0 -50 30 H I C CNN "Тип элемента"
@@ -58,7 +58,7 @@ ENDDEF
 DEF RU RU 0 0 N N 1 F N
 F0 "RU" 0 150 80 H V C CNN
 F1 "RU" 0 -250 80 H I C CNN
-F2 "K10-17" 0 -50 30 H I C CNN
+F2 "-" 0 -50 30 H I C CNN
 F3 "-" 0 -50 30 H I C CNN
 F4 "-" 0 -50 30 H I C CNN "Примечание"
 F5 "-" 0 -50 30 H I C CNN "Тип элемента"
