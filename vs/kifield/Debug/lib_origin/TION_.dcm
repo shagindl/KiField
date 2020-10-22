@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: 20.11.2013 11:18:53
+#
+$CMP AMP1473005-1
+F T:\Components\ZAO-ZEO\Tion\tion-v1.3.pdf
+$ENDCMP
+#
+$CMP TION
+D Tion.
+K Tion.
+F T:\Components\ZAO-ZEO\Tion\tion-v1.3.pdf
+$ENDCMP
+#
+#End Doc Library

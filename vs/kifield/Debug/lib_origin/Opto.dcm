@@ -1,0 +1,95 @@
+EESchema-DOCLIB  Version 2.0  Date: 29.09.2016 11:20:29
+#
+$CMP 4N25
+F T:\Components\Vishay\Opto\4n25.pdf
+$ENDCMP
+#
+$CMP 5P14.3A
+D Оптореле.
+K Оптореле.
+F T:\Components\Proton\OPTRON1.PDF
+$ENDCMP
+#
+$CMP 5P14.3A_V2
+D Оптореле.
+K Оптореле.
+F T:\Components\Proton\OPTRON1.PDF
+$ENDCMP
+#
+$CMP ADUM1400ARW
+D Цифровой изолятор.
+K Цифровой изолятор.
+F T:\Components\AnalogDevices\OptoIsolators\ADuM1400_ADuM1401_ADuM1402.pdf
+$ENDCMP
+#
+$CMP ISO7641FCDW
+F T:\Components\TexasInstruments\Opto\iso7641fc.pdf
+$ENDCMP
+#
+$CMP LAA110P
+D Оптореле.
+K Оптореле.
+F T:\Components\CLARE\datasheet_LAA110.pdf
+$ENDCMP
+#
+$CMP LTV-817S
+D High Density Mounting Type Photocoupler.
+K High Density Mounting Type Photocoupler.
+F T:\Components\LiteOn\Opto\LTV817S.pdf
+$ENDCMP
+#
+$CMP PS417
+F T:\Components\Sharp\OPTO\PC417.pdf
+$ENDCMP
+#
+$CMP PVT322S
+F T:\Components\International Rectifier\Opto\PVT322P.pdf
+$ENDCMP
+#
+$CMP SI8440BB-D-IS
+D Цифровой изолятор.
+K Цифровой изолятор.
+F T:\Components\Silicon Labs\Opto\Si844x.pdf
+$ENDCMP
+#
+$CMP SI8441BB-D-IS
+D Цифровой изолятор.
+K Цифровой изолятор.
+F T:\Components\Silicon Labs\Opto\Si844x.pdf
+$ENDCMP
+#
+$CMP SI8640BB-B-IS
+F T:\Components\Silicon Labs\Opto\Si864x.pdf
+$ENDCMP
+#
+$CMP SI8641BB-B-IS
+F T:\Components\Silicon Labs\Opto\Si864x.pdf
+$ENDCMP
+#
+$CMP TLP281-4
+F T:\Components\Toshiba\OptoCouper\tlp281.pdf
+$ENDCMP
+#
+$CMP TLP291-4
+F T:\Components\Toshiba\OptoCouper\TLP291-4.pdf
+$ENDCMP
+#
+$CMP TLP521-1
+D Оптотранзистор.
+K Оптотранзистор.
+F T:\Components\Toshiba\OptoCouper\TLP521.pdf
+$ENDCMP
+#
+$CMP TLP521-2
+D Оптотранзистор.
+K Оптотранзистор.
+F T:\Components\Toshiba\OptoCouper\TLP521.pdf
+$ENDCMP
+#
+$CMP TLP521-4
+D Фототранзистор.
+K Фототранзистор.
+F T:\Components\Toshiba\OptoCouper\TLP521.pdf
+$ENDCMP
+#
+#End Doc Library

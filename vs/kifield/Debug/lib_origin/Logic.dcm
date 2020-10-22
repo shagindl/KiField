@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0  Date: 01.04.2019 9:25:49
+#
+$CMP CD4011BM
+F T:\Components\TexasInstruments\Logic\CD4011B.pdf
+$ENDCMP
+#
+$CMP CD4049UBD
+F T:\Components\TexasInstruments\Logic\CD4049.pdf
+$ENDCMP
+#
+$CMP CD74HC4049B
+D 6 инверторов.
+K 6 инверторов.
+$ENDCMP
+#
+$CMP HEF4049BT
+F T:\Components\NXP\Logic\HEF4049B.pdf
+$ENDCMP
+#
+$CMP MC74LCX07DG
+D 6 инверторов.
+K 6 инверторов.
+F T:Components\ON Semiconductor\MC74LCX07DG.pdf
+$ENDCMP
+#
+$CMP NC7S32M5X
+F T:\Components\FairChild\Logic\NC7S32.pdf
+$ENDCMP
+#
+$CMP NC7SZ14M5X
+F T:\Components\FairChild\Logic\NC7SZ14.pdf
+$ENDCMP
+#
+$CMP SN74AHC1G32DBVR
+F T:\Components\TexasInstruments\Logic\SN74AHC1G32DBVR.PDF
+$ENDCMP
+#
+$CMP SN74LVC1G132DBVR
+F T:\Components\TexasInstruments\Logic\sn74lvc1g132.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G14DBVR
+F T:\Components\TexasInstruments\Logic\SN74LVC1G14DBVR.PDF
+$ENDCMP
+#
+#End Doc Library

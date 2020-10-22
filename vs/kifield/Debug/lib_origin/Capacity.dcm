@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0  Date: 13.02.2018 16:26:44
+#
+$CMP DE2E3
+F T:\Components\Murata\Capacitors\DE2E3.pdf
+$ENDCMP
+#
+$CMP ECAP_NP
+F T:\Components\Capacity\ECAP NP.pdf
+$ENDCMP
+#
+$CMP GRM1206
+D Чип емкость 1206
+K Чип емкость 1206
+$ENDCMP
+#
+$CMP GRM2220
+F T:\Components\Murata\Capacitors\grm2220.pdf
+$ENDCMP
+#
+$CMP K10-17
+D Емкость
+K Емкость
+$ENDCMP
+#
+$CMP TECAP-10
+D Танталовый чип конденсатор 10 мкФ.
+K Танталовый чип конденсатор 10 мкФ.
+F T:\Components\Epcos\Capacity\HighCap_DS_series.pdf
+$ENDCMP
+#
+$CMP TECAP-100
+D Танталовый чип конденсатор 100 мкФ.
+K Танталовый чип конденсатор 100 мкФ.
+F T:\Components\Epcos\Capacity\HighCap_DS_series.pdf
+$ENDCMP
+#
+$CMP TECAP-6,8
+F T:\Components\Epcos\Capacity\HighCap_DS_series.pdf
+$ENDCMP
+#
+#End Doc Library

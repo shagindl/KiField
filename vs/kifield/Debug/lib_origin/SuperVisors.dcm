@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: 07.09.2012 14:20:20
+#
+$CMP ADM1232ARN
+F T:\Components\AnalogDevices\SuperVisors\ADM1232.pdf
+$ENDCMP
+#
+$CMP TPS3828-33DBVT
+D Монитор питания (супервизор).
+K Монитор питания (супервизор).
+F T:\Components\TexasInstruments\SuperVisor\tps3823-30.pdf
+$ENDCMP
+#
+#End Doc Library

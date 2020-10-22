@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: 16.04.2019 10:18:35
+#
+$CMP FH-101C
+D Fuse holder.
+K Fuse holder.
+F T:\Components\Dragon City Industries\Fuse Holders\FH-101C.pdf
+$ENDCMP
+#
+$CMP TBU-CA065-300-WH
+F T:\Components\Bourns\bourns-tbu-ca.pdf
+$ENDCMP
+#
+#End Doc Library

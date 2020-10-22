@@ -1,0 +1,119 @@
+EESchema-DOCLIB  Version 2.0  Date: 12.02.2019 12:01:10
+#
+$CMP AT89C2051-12PC
+F T:\Components\Atmel\CPU\AT89C2051\AT89C2051.pdf
+$ENDCMP
+#
+$CMP AT89C2051-12PC_
+F T:\Components\Atmel\CPU\AT89C2051\AT89C2051.pdf
+$ENDCMP
+#
+$CMP AT89S8253-24AI
+F T:Components\Atmel\CPU\AT89S8253\AT89S8253.pdf
+$ENDCMP
+#
+$CMP LPC2134
+D Микроконтроллер
+K Микроконтроллер
+F T:\Components\NXP\CPU\LPC2131_32_36_38_4.pdf
+$ENDCMP
+#
+$CMP MSP430F149IPM
+D Микроконтроллер
+K Микроконтроллер
+F T:\Components\TexasInstruments\CPU\MSP430F149IPM\msp430f149IPM.pdf
+$ENDCMP
+#
+$CMP MSP430F169IPM
+F T:\Components\TexasInstruments\CPU\MSP430F169IPM\msp430f169.pdf
+$ENDCMP
+#
+$CMP MSP430F249TPM
+F T:\Components\TexasInstruments\CPU\MSP430F249\MSP430F24x.pdf
+$ENDCMP
+#
+$CMP MSP430F2618TPM
+F T:\Components\TexasInstruments\CPU\MSP430F2618TPM\msp430f2618.pdf
+$ENDCMP
+#
+$CMP MSP430F2618TPN
+D Микроконтроллер
+K Микроконтроллер
+F T:\Components\TexasInstruments\CPU\MSP430F2618TPM\msp430f2618.pdf
+$ENDCMP
+#
+$CMP MSP430F5418AIPN
+D Микроконтроллер
+K Микроконтроллер
+F T:/Components/TexasInstruments/CPU/MSP430F5418AIPN/msp430f5418a.pdf
+$ENDCMP
+#
+$CMP MSP430F5419AIPZ
+F T:/Components/TexasInstruments/CPU/MSP430F5418AIPN/msp430f5418a.pdf
+$ENDCMP
+#
+$CMP STM32F051C8T6
+F T:\Components\STMicroelectronics\CPU\STM32F051.pdf
+$ENDCMP
+#
+$CMP STM32F071C8T6
+F T:\Components\STMicroelectronics\CPU\STM32F071.pdf
+$ENDCMP
+#
+$CMP STM32F071RBT6
+F T:\Components\STMicroelectronics\CPU\STM32F071.pdf
+$ENDCMP
+#
+$CMP STM32F100RBT6B
+F T:\Components\STMicroelectronics\CPU\STM32F100RBT6B.pdf
+$ENDCMP
+#
+$CMP STM32F100VB
+F T:\Components\STMicroelectronics\CPU\STM32F100VB.pdf
+$ENDCMP
+#
+$CMP STM32F100VE
+F T:\Components\STMicroelectronics\CPU\STM32F100VB.pdf
+$ENDCMP
+#
+$CMP STM32F103C8
+F T:\Components\STMicroelectronics\CPU\STM32F103C8.pdf
+$ENDCMP
+#
+$CMP STM32F103C8_1
+F T:\Components\STMicroelectronics\CPU\STM32F103C8.pdf
+$ENDCMP
+#
+$CMP STM32F303VC
+F T:\Components\STMicroelectronics\CPU\STM32F303VC.pdf
+$ENDCMP
+#
+$CMP STM32F429II
+F T:\Components\STMicroelectronics\CPU\STM32F429IIT6.pdf
+$ENDCMP
+#
+$CMP STM32F429ZI
+F T:\Components\STMicroelectronics\CPU\STM32F429ZI.pdf
+$ENDCMP
+#
+$CMP STM32F767IIT6
+F T:\Components\STMicroelectronics\CPU\STM32F767IIT6.pdf
+$ENDCMP
+#
+$CMP STM32L151CCTx
+F T:\Components\STMicroelectronics\CPU\STM32L15x.pdf
+$ENDCMP
+#
+$CMP STM32L151VB
+F T:\Components\STMicroelectronics\CPU\STM32L151VB.pdf
+$ENDCMP
+#
+$CMP STM32L152RET6
+F T:\Components\STMicroelectronics\CPU\STM32L151_152xE.pdf
+$ENDCMP
+#
+$CMP STM32L476VC
+F T:\Components\STMicroelectronics\CPU\STM32L476VC.pdf
+$ENDCMP
+#
+#End Doc Library

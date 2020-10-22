@@ -1,0 +1,209 @@
+EESchema-DOCLIB  Version 2.0  Date: 03.08.2018 11:46:54
+#
+$CMP BLS-2
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP BLS-4
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP IR3220S
+D Signal and Power Isolated RS-485 Transceiver with ±15 kV ESD Protection.
+K RS-485
+F T:\Components\International Rectifier\Motor Controller\ir3220s.pdf
+$ENDCMP
+#
+$CMP MJ-O-6_1
+D Разъем PLS-2
+K Разъем PLS-2
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PBS-16
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PBS-4
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-10
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-12R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-16
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-4
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-4R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-6
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-6R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-8
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-862
+D Разъем PLS-10
+K Разъем PLS-10
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLD-8R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-1
+D PLS-1
+K PLS-1
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-10
+D Разъем PLS-10
+K Разъем PLS-10
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-10R
+D Разъем PLS-10R
+K Разъем PLS-10R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-12
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-14
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-14R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-16
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-16R-3
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-1_1
+D PLS-2
+K PLS-2
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-1R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-2
+D Разъем PLS-2
+K Разъем PLS-2
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-20
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-20R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-2_1
+D PLS-2
+K PLS-2
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-2R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-3
+D Разъем PLS-3
+K Разъем PLS-3
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-3_1
+D PLS-3
+K PLS-3
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-3R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-4
+D Разъем PLS-4
+K Разъем PLS-4
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-4_1
+D PLS-3
+K PLS-3
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-4R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-5
+D Разъем PLS-5.
+K Разъем PLS-5.
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-5R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-6
+D Разъем PLS-6.
+K Разъем PLS-6.
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-6R
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-7
+D Разъем PLS-10
+K Разъем PLS-10
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+$CMP PLS-8
+D Разъем PLS-10
+K Разъем PLS-10
+F T:\Components\Conn\PLS\PLS.pdf
+$ENDCMP
+#
+#End Doc Library

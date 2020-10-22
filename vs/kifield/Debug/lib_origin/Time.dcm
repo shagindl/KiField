@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 18.04.2019 16:12:39
+#
+$CMP LMC555CM
+F T:\Components\TexasInstruments\Timers\LMC555.pdf
+$ENDCMP
+#
+$CMP M41T00S
+F T:\Components\STMicroelectronics\Time\M41T00S.pdf
+$ENDCMP
+#
+$CMP NE555N
+F T:\Components\\FairChild\Logic\NE555.pdf
+$ENDCMP
+#
+#End Doc Library

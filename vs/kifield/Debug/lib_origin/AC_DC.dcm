@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRM-45
+F T:/Components/Mean Well/AC_DC/IRM45.pdf
+$ENDCMP
+#
+$CMP IRM-45-1
+F T:/Components/Mean Well/AC_DC/IRM45.pdf
+$ENDCMP
+#
+#End Doc Library

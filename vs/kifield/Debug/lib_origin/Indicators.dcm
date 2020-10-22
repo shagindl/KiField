@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 13.08.2012 13:31:58
+#
+$CMP DC08-11GWA
+D LED indicator.
+K LED indicator.
+F T:\Components\KingBright\Display\DC08-11GWA(Ver1189474697.8).pdf
+$ENDCMP
+#
+$CMP IGC24-4-7F
+D LED indicator.
+K LED indicator.
+F T:\Components\Indicator\IGC-2.pdf
+$ENDCMP
+#
+#End Doc Library

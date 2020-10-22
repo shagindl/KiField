@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 06.09.2011 13:53:00
+#
+$CMP H1102
+D Однопортовый трансформаторный модуль для 10/100 BASE-T фирмы Pulse.
+K Однопортовый трансформаторный модуль для 10/100 BASE-T фирмы Pulse.
+F T:\Components\Pulse\Magnetic\H325.pdf
+$ENDCMP
+#
+#End Doc Library

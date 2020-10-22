@@ -1,0 +1,73 @@
+EESchema-DOCLIB  Version 2.0  Date: 03.05.2018 8:21:15
+#
+$CMP B57164K104J
+D Резистор
+K Резистор
+F T:\Components\Epcos\NTC thermistor\B57164.pdf
+$ENDCMP
+#
+$CMP C2-29B-0,125_G
+D Резистор
+K Резистор
+F T:\Components\Resistor-NN\c229b0125.pdf
+$ENDCMP
+#
+$CMP FNR-07K560
+D Резистор
+K Резистор
+F T:\Components\FENGHUA\FNR.pdf
+$ENDCMP
+#
+$CMP P1-12-0,125
+F T:\Components\Resistor-NN\r112025.pdf
+$ENDCMP
+#
+$CMP P1-12-0,25
+D Постоянные непроволочные чип-резисторы для поверхностного P1-12.
+K Постоянные непроволочные чип-резисторы для поверхностного P1-12.
+F T:\Components\Resistor-NN\r112025.pdf
+$ENDCMP
+#
+$CMP P1-12-0,25_PWR
+D Постоянные непроволочные чип-резисторы для поверхностного P1-12.
+K Постоянные непроволочные чип-резисторы для поверхностного P1-12.
+F T:\Components\Resistor-NN\r112025.pdf
+$ENDCMP
+#
+$CMP S10K35
+F T:\Components\Epcos\varistors.pdf
+$ENDCMP
+#
+$CMP S10K35_
+D Резистор
+K Резистор
+F T:\Components\Epcos\varistors.pdf
+$ENDCMP
+#
+$CMP v39za3p
+F T:\Components\Litttlfuse\v39za3p.pdf
+$ENDCMP
+#
+$CMP YC124
+D Резистор
+K Резистор
+F T:\Components\YAGEO\YC124.pdf
+$ENDCMP
+#
+$CMP YC164
+F T:\Components\YAGEO\PYu-YC_TC_group.pdf
+$ENDCMP
+#
+$CMP СП3-19А
+F T:\Components\Resistor-NN\СП3-19.pdf
+$ENDCMP
+#
+$CMP СП3-19Б
+F T:\Components\Resistor-NN\СП3-19.pdf
+$ENDCMP
+#
+$CMP СП5-2ВБ
+F T:\Components\Resistor-NN\СП5.pdf
+$ENDCMP
+#
+#End Doc Library

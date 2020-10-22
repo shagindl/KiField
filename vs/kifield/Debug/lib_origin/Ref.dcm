@@ -1,0 +1,72 @@
+EESchema-DOCLIB  Version 2.0  Date: 25.04.2019 14:34:34
+#
+$CMP ICL60002
+F T:\Components\Renesas\REF\isl60002.pdf
+$ENDCMP
+#
+$CMP LM285M
+F T:\Components\TexasInstruments\Voltage Reference\lm285-adj.pdf
+$ENDCMP
+#
+$CMP LM285M-1.2
+D Источник опорного напряжения.
+K Источник опорного напряжения.
+F T:\Components\National Semiconductor\Voltage Reference\LM185_LM285_LM385-1.2.pdf
+$ENDCMP
+#
+$CMP LM285M-1.2_1
+F T:\Components\National Semiconductor\Voltage Reference\LM185_LM285_LM385-1.2.pdf
+$ENDCMP
+#
+$CMP LM385M
+F T:\Components\TexasInstruments\Voltage Reference\lm285-adj.pdf
+$ENDCMP
+#
+$CMP REF191GS
+D Источник опорного напряжения 2,048 B
+K Источник опорного напряжения.
+F T:\Components\AnalogDevices\Voltage References\REF_19x.pdf
+$ENDCMP
+#
+$CMP REF192GS
+D Прецизионный источник опорного напряжения 2,50 B
+F T:\Components\AnalogDevices\Voltage References\REF_19x.pdf
+$ENDCMP
+#
+$CMP REF193GS
+D Прецизионный источник опорного напряжения 3,00 B
+F T:\Components\AnalogDevices\Voltage References\REF_19x.pdf
+$ENDCMP
+#
+$CMP REF194GS
+D Прецизионный источник опорного напряжения 4,50 B
+F T:\Components\AnalogDevices\Voltage References\REF_19x.pdf
+$ENDCMP
+#
+$CMP REF195GS
+D Прецизионный источник опорного напряжения 5,00 B
+K Прецизионный источник опорного напряжения.
+F T:\Components\AnalogDevices\Voltage References\REF_19x.pdf
+$ENDCMP
+#
+$CMP REF196GS
+D Прецизионный источник опорного напряжения 3,30 B
+F T:\Components\AnalogDevices\Voltage References\REF_19x.pdf
+$ENDCMP
+#
+$CMP REF198GS
+D Прецизионный источник опорного напряжения 4,096 B
+F T:\Components\AnalogDevices\Voltage References\REF_19x.pdf
+$ENDCMP
+#
+$CMP REF3025
+D Прецизионный источник опорного напряжения 5,00 B
+K Прецизионный источник опорного напряжения.
+F T:\Components\TexasInstruments\Ref\REF3012_REF3040.pdf
+$ENDCMP
+#
+$CMP TL4051CIDBZ
+F T:\Components\TexasInstruments\Voltage Reference\tl4051b.pdf
+$ENDCMP
+#
+#End Doc Library

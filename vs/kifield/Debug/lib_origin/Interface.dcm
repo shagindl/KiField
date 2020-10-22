@@ -1,0 +1,79 @@
+EESchema-DOCLIB  Version 2.0  Date: 09.10.2017 13:31:22
+#
+$CMP ADM2587EBRWZ
+D Signal and Power Isolated RS-485 Transceiver with ±15 kV ESD Protection.
+K RS-485
+F T:\Components\AnalogDevices\Interface\RS-485\ADM2582E_2587E.pdf
+$ENDCMP
+#
+$CMP ADM3483ARZ
+D RS-485
+K RS-485
+F T:\Components\AnalogDevices\Interface\RS-485\ADM3483_3485_3488_3490_3491.pdf
+$ENDCMP
+#
+$CMP FT8U232BM
+D FT232BM USB UART ( USB - Serial) I.C.
+K FT232BM USB UART ( USB - Serial) I.C.
+F T:\Components\FTDI\DS_FT232BM.pdf
+$ENDCMP
+#
+$CMP H1102
+D 10/100BASE-T SINGLE PORT SURFACE MOUNT MAGNETICS.
+K 10/100BASE-T SINGLE PORT SURFACE MOUNT MAGNETICS.
+F T:\Components\Pulse\Magnetic\H325.pdf
+$ENDCMP
+#
+$CMP ICL7667CBA
+D MOSFET драйвер.
+K MOSFET драйвер.
+F T:\Components\Intersil\MOSFET Driver\ICL7667.pdf
+$ENDCMP
+#
+$CMP IR3220S
+D Signal and Power Isolated RS-485 Transceiver with ±15 kV ESD Protection.
+K RS-485
+F T:\Components\International Rectifier\Motor Controller\ir3220s.pdf
+$ENDCMP
+#
+$CMP LFE8505T
+F T:\Components\Delta\Magnetic\lfe8505.pdf
+$ENDCMP
+#
+$CMP MAX13487E
+F T:\Components\Maxim\Interface\RS-485\MAX13487E-MAX13488E.pdf
+$ENDCMP
+#
+$CMP MAX3243CWI
+D RS-232C
+K RS-232C
+F T:\Components\Maxim\Interface\RS-232C\MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX7219CWG
+D LED display driver.
+K LED display driver.
+F T:\Components\Maxim\LED_Display_Drivers\MAX7219-MAX7221.pdf
+$ENDCMP
+#
+$CMP MAX7312AAG
+D 2-Wire-Interfaced 16-Bit I/O Port Expander with Interrupt and Hot-Insertion Protection.
+K 2-Wire-Interfaced 16-Bit I/O Port Expander with Interrupt and Hot-Insertion Protection.
+F T:\Components\Maxim\Port Expander\MAX7312.pdf
+$ENDCMP
+#
+$CMP MC33199
+F T:\Components\Motorola\Interface\MC33199.pdf
+$ENDCMP
+#
+$CMP MM5452V
+D Микроконтроллер
+K Микроконтроллер
+F T:Components\National Semiconductor\Display drivers\Liquid Crystal Display Drivers\MM5452-MM5453.pdf
+$ENDCMP
+#
+$CMP VNH3SP30
+F T:Components\STMicroelectronics\Motor Controller\VNH3SP30-E.pdf
+$ENDCMP
+#
+#End Doc Library

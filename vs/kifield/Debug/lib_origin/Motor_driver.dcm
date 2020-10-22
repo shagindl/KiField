@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 21.05.2018 9:40:32
+#
+$CMP DRV8816
+F T:/Components/TexasInstruments/MotorControl/drv8816.pdf
+$ENDCMP
+#
+$CMP DRV8823DCA
+F T:\Components\TexasInstruments\MotorControl\drv8823.pdf
+$ENDCMP
+#
+$CMP DRV8825
+F T:/Components/TexasInstruments/MotorControl/drv8825.pdf
+$ENDCMP
+#
+#End Doc Library

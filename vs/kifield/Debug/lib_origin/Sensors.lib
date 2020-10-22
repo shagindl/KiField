@@ -1,0 +1,126 @@
+EESchema-LIBRARY Version 2.3  Date: 23.12.2013 15:48:31
+#encoding utf-8
+#
+# LM95071
+#
+DEF LM95071 DD 0 40 Y Y 1 F N
+F0 "DD" 0 350 80 H V C CNN
+F1 "LM95071" 0 -400 80 H V C CNN
+F2 "SOT_23_5" 0 -250 50 H I C CNN
+F3 "T:\\Components\\TexasInstruments\\TemperatueSensor\\lm95071.pdf" 0 -250 20 H I C CNN
+F4 "LM95071" 0 -250 50 H I C CNN "Наименование"
+F5 "Any" 0 -250 50 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -250 50 H I C CNN "Поле3"
+F7 "Any" 0 -250 50 H I C CNN "Поле4"
+F8 "Any" 0 -250 50 H I C CNN "Поле5"
+F9 "23.12.13_15:27" 0 -250 50 H I C CNN "Дата создания"
+F10 "23.12.13_15:27" -50 -250 50 H I C CNN "Дата последней правки"
+F11 "Миронова" 0 -250 50 H I C CNN "Автор"
+DRAW
+T 0 100 -200 80 0 0 0 D  Normal 0 C C
+T 0 -100 200 80 0 0 0 tº  Normal 0 C C
+P 2 0 0 0  200 300  -200 -300 N
+S 600 -300 -600 300 0 1 0 N
+P 2 0 1 0  -200 -300  -200 300 N
+P 2 0 1 0  200 -300  200 300 N
+X ~CS 1 800 200 200 L 80 80 1 1 I
+X GND 2 -800 -200 200 R 80 80 1 1 W
+X SI/O 3 800 -200 200 L 80 80 1 1 B
+X CLK 4 800 0 200 L 80 80 1 1 I
+X Vdd 5 -800 200 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MPX2200A
+#
+DEF MPX2200A BP 0 40 Y Y 1 F N
+F0 "BP" -25 275 80 H V C CNN
+F1 "MPX2200A" -325 -325 80 H V L CNN
+F2 "MPX2200A" -380 -170 20 H I C CNN
+F3 "T:\\Components\\Motorola\\Pressure Sensors\\MPX2200.pdf" -215 -170 10 H I C CNN
+F4 "MPX2200A" -350 -180 20 H I C CNN "Наименование"
+F5 "Any" -380 -180 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -300 -170 20 H I C CNN "Поле3"
+F7 "Any" -400 -170 20 H I C CNN "Поле4"
+F8 "Any" -300 -150 20 H I C CNN "Поле5"
+F9 "10.06.2010 15:27" -300 -180 20 H I C CNN "Дата создания"
+F10 "18.09.2012_10:35" -310 -180 20 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." -350 -180 20 H I C CNN "Автор"
+DRAW
+C -70 -200 20 0 0 0 F
+T 0 -57 75 80 0 0 0 Pa  Normal 0 C C
+T 0 65 -90 80 0 0 0 U  Normal 0 C C
+P 3 0 0 0  -150 -200  -150 200  -150 200 N
+P 3 0 0 0  150 200  150 -200  150 0 N
+P 5 0 0 0  90 -200  30 -180  30 -220  90 -200  80 -200 F
+S -450 200 450 -200 0 1 8 N
+P 3 0 1 0  -150 -200  150 200  150 200 N
+X -V 1 -650 -100 200 R 80 80 1 1 P
+X +Vo 2 650 100 200 L 80 80 1 1 P
+X +V 3 -650 100 200 R 80 80 1 1 P
+X -Vo 4 650 -100 200 L 80 80 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MPX2200AP
+#
+DEF MPX2200AP BP 0 40 Y Y 1 F N
+F0 "BP" -25 275 80 H V C CNN
+F1 "MPX2200AP" -325 -325 80 H V L CNN
+F2 "MPX2200AP" -380 -170 20 H I C CNN
+F3 "T:\\Components\\Motorola\\Pressure Sensors\\MPX2200.pdf" -215 -170 10 H I C CNN
+F4 "MPX2200AP" -350 -180 20 H I C CNN "Наименование"
+F5 "Any" -380 -180 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -300 -170 20 H I C CNN "Поле3"
+F7 "Any" -400 -170 20 H I C CNN "Поле4"
+F8 "Any" -250 -200 20 H I C CNN "Поле5"
+F9 "10.06.2010 15:27" -300 -180 20 H I C CNN "Дата создания"
+F10 "05.09.2011 14:35" -310 -180 20 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." -350 -180 20 H I C CNN "Автор"
+DRAW
+C -70 -200 20 0 0 0 F
+T 0 -57 75 80 0 0 0 Pa  Normal 0 C C
+T 0 65 -90 80 0 0 0 U  Normal 0 C C
+P 3 0 0 0  -150 -200  -150 200  -150 200 N
+P 3 0 0 0  150 200  150 -200  150 0 N
+P 5 0 0 0  90 -200  30 -180  30 -220  90 -200  80 -200 F
+S -450 200 450 -200 0 1 8 N
+P 3 0 1 0  -150 -200  150 200  150 200 N
+X -V 1 -650 -100 200 R 80 80 1 1 P
+X +Vo 2 650 100 200 L 80 80 1 1 P
+X +V 3 -650 100 200 R 80 80 1 1 P
+X -Vo 4 650 -100 200 L 80 80 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TMP36GT9
+#
+DEF TMP36GT9 BT 0 40 Y Y 1 F N
+F0 "BT" -25 275 80 H V C CNN
+F1 "TMP36GT9" -325 -325 80 H V L CNN
+F2 "TMP36GT9" -370 -180 20 H I C CNN
+F3 "T:\\Components\\AnalogDevices\\Analog Temperature Sensors\\TMP35_36_37.pdf" -145 -180 10 H I C CNN
+F4 "TMP36GT9" -360 -180 20 H I C CNN "Наименование"
+F5 "Any" -250 -180 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -280 -170 20 H I C CNN "Поле3"
+F7 "Any" -240 -180 20 H I C CNN "Поле4"
+F8 "Any" -260 -170 20 H I C CNN "Поле5"
+F9 "10.06.2010 15:27" -310 -180 20 H I C CNN "Дата создания"
+F10 "18.02.2011 10:07" -310 -180 20 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." -320 -180 20 H I C CNN "Автор"
+DRAW
+C -70 -200 20 0 0 0 F
+T 0 -35 75 80 0 0 0 t°  Normal 0 C C
+T 0 65 -90 80 0 0 0 U  Normal 0 C C
+P 3 0 0 0  -150 -200  -150 200  -150 200 N
+P 3 0 0 0  150 200  150 -200  150 0 N
+P 5 0 0 0  90 -200  30 -180  30 -220  90 -200  80 -200 F
+S -450 200 450 -200 0 1 8 N
+P 3 0 1 0  -150 -200  150 200  150 200 N
+X +V 1 -650 100 200 R 80 80 1 1 P
+X Vout 2 650 0 200 L 80 80 1 1 P
+X -V 3 -650 -100 200 R 80 80 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

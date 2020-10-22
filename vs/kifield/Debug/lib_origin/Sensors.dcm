@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0  Date: 23.12.2013 15:48:31
+#
+$CMP LM95071
+F T:\Components\TexasInstruments\TemperatueSensor\lm95071.pdf
+$ENDCMP
+#
+$CMP MPX2200A
+D Датчик давления.
+K Датчик давления.
+F T:\Components\Motorola\Pressure Sensors\MPX2200.pdf
+$ENDCMP
+#
+$CMP MPX2200AP
+D Датчик давления.
+K Датчик давления.
+F T:\Components\Motorola\Pressure Sensors\MPX2200.pdf
+$ENDCMP
+#
+$CMP TMP36GT9
+D Датчик температуры
+K Датчик температуры
+F T:\Components\AnalogDevices\Analog Temperature Sensors\TMP35_36_37.pdf
+$ENDCMP
+#
+#End Doc Library

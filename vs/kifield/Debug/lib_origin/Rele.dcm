@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0  Date: 01.04.2019 11:16:54
+#
+$CMP BT-12S
+F T:\Components\Bestar\Relay\BT.pdf
+$ENDCMP
+#
+$CMP D1A050D00
+F T:Components\TexasInstruments\D1A050D00.pdf
+$ENDCMP
+#
+$CMP EDR3D1C05
+D Реле.
+K Реле.
+F T:\Components\ECE\ECE_e_fram.pdf
+$ENDCMP
+#
+$CMP EDR3H1A05
+D Реле.
+K Реле.
+F T:\Components\ECE\EDR3H1A05.pdf
+$ENDCMP
+#
+$CMP HK3FF
+F T:\Components\Bestar\Relay\HR703F.pdf
+$ENDCMP
+#
+$CMP TRJ-24VDC-SA-CD
+F T:\Components\TTI\trj-24vdc.pdf
+$ENDCMP
+#
+#End Doc Library
