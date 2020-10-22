@@ -45,3 +45,6 @@ output/*/index.html
 /vs/kifield/.vs/kifield/v16/*.suo
 /vs/kifield/Debug/*.csv#
 /kifield/*.spec
+/vs/kifield/Debug/lib.ред.*
+*.sch-bak
+/vs/kifield/Debug/~$KiCAD_Fields.xlsx

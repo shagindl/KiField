@@ -359,7 +359,7 @@ def cull_list(fields, inc_fields=None, exc_fields=None):
         pass
 
 
-def extract_part_fields_from_wb(wb, inc_field_names=None, exc_field_names=None, recurse=False):
+def extract_part_fields_from_wb(wb, inc_field_names=None, exc_field_names=None, fNeedExplode=True):
     '''Return a dictionary of part fields extracted from an XLSX workbook.'''
 
     part_fields = {}  # Start with an empty part dictionary.
@@ -403,8 +403,11 @@ def extract_part_fields_from_wb(wb, inc_field_names=None, exc_field_names=None, 
 
             # Explode the part reference into its individual references and
             # assign the field values to each part.
-            for single_ref in explode(ref):
-                part_fields[single_ref] = field_values
+            if fNeedExplode :
+                for single_ref in explode(ref):
+                    part_fields[single_ref] = field_values
+            else:
+                part_fields[ref] = field_values
 
     except FindLabelError:
         logger.warn('No references column found.')
@@ -442,7 +445,7 @@ def extract_part_fields_from_csv(filename, inc_field_names=None, exc_field_names
     try:
         # Convert the CSV file into an XLSX workbook object and extract fields from that.
         wb,_ = csvfile_to_wb(filename)
-        return extract_part_fields_from_wb(wb, inc_field_names, exc_field_names)
+        return extract_part_fields_from_wb(wb, inc_field_names, exc_field_names, False)
     except FieldExtractionError:
         logger.warn('Field extraction failed on {}.'.format(filename))
     return {}

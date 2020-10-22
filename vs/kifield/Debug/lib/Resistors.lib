@@ -31,18 +31,21 @@ ENDDEF
 # R
 #
 DEF R R 0 0 N N 1 F N
-F0 "R" 0 150 80 H V C CNN
-F1 "R" 0 -150 80 H V C CNN
-F2 "Any_PAT" 0 -50 30 H I C CNN
-F3 "Any_DOC" 0 -50 30 H I C CNN
-F4 "Any" 0 0 80 H V C CNN "Номинал"
-F5 "Any" 0 -50 30 H I C CNN "Обозначение по ГОСТ"
-F6 "Any" 0 -50 30 H I C CNN "Мощность"
-F7 "Any" 0 -50 30 H I C CNN "ТКС"
-F8 "Any" 0 -50 30 H I C CNN "Процент"
-F9 "07.09.2010 12:56" 0 -50 30 H I C CNN "Дата создания"
-F10 "03.05.2018_08:21" 0 -50 30 H I C CNN "Дата последней правки"
-F11 "Хлюнев А.А." 0 -50 30 H I C CNN "Автор"
+F0 "" 0 150 80 H V C CNN
+F1 "" 0 -150 80 H V C CNN
+F2 "-" 0 -50 30 H I C CNN
+F3 "-" 0 -50 30 H I C CNN
+F4 "-" 0 -50 30 H I C CNN "Примечание"
+F5 "-" 0 -50 30 H I C CNN "Тип элемента"
+F6 "-" 0 -50 30 H I C CNN "Заказной номер "
+F7 "-" 0 -50 30 H I C CNN "Кол‐во"
+F8 "-" 0 -50 30 H I C CNN "Производитель"
+F9 "-" 0 -50 30 H I C CNN "Типоразмер"
+F10 "-" 0 -50 30 H I C CNN "Ном."
+F11 "-" 0 -50 30 H I C CNN "Откл,%"
+F12 "-" 0 -50 30 H I C CNN "ТКЕ/ТКС"
+F13 "-" 0 -50 30 H I C CNN "Напр."
+F14 "-" 0 -50 30 H I C CNN "Наименование 1С8 УПП"
 DRAW
 S -200 -75 200 75 0 1 0 N
 X 1 1 -250 0 50 R 60 60 1 1 P
@@ -80,7 +83,7 @@ ENDDEF
 # R4
 #
 DEF R4 R 0 0 N Y 1 F N
-F0 "R" 0 325 80 H V C CNN
+F0 "R4" 0 325 80 H V C CNN
 F1 "R4" 0 -550 80 H I C CNN
 F2 "-" 0 -400 30 H I C CNN
 F3 "-" 0 -400 30 H I C CNN
