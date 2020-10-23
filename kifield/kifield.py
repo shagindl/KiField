@@ -47,9 +47,9 @@ from copy import deepcopy
 from pprint import pprint
 from difflib import get_close_matches
 import openpyxl as pyxl
-from .sch import Schematic
-from .schlib import SchLib
-from .dcm import Dcm, Component
+from sch import Schematic
+from schlib import SchLib
+from dcm import Dcm, Component
 import pdb
 
 logger = logging.getLogger('kifield')
@@ -1130,9 +1130,6 @@ def insert_part_fields_into_lib(part_fields_dict, filename, recurse, group_compo
                 if unquote(f.get('reference', None)) != None or
                    unquote(f.get('fieldname', None)) == '' or
                    unquote(f.get('fieldname', None)) not in (None, '') and unquote(f.get('name', None)) not in (None, '')
-        
-            #if (unquote(f.get('fieldname', None)) in (None, '', '~') or unquote(f.get('name', None)) not in (None, '')) and
-            #   ( unquote(f.get('fieldname', None)) != None  and  unquote(f.get('name', None)) != None )
         ]
 
     # Save the updated library.
@@ -1153,7 +1150,6 @@ def insert_part_fields_into_dcm(part_fields_dict, filename, recurse, group_compo
     dcm_part_fields_dict = extract_part_fields_from_dcm(filename)
 
     # Add the part fields from the part field dictionary.
-    # dcm_part_fields_dict = combine_part_field_dicts(part_fields_dict, dcm_part_fields_dict)
     dcm_part_fields_dict = combine_part_field_dicts(part_fields_dict, dcm_part_fields_dict, False)
 
     # Create a new Dcm object from the combined part fields.
