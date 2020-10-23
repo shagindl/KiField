@@ -1,0 +1,27 @@
+Refs	value	footprint	datasheet	Наименование	Обозначение по ГОСТ	Поле3	Поле4	Поле5	Дата создания	Дата последней коррекции	Автор	Номинал	Рабочее напряжение	ТКЕ	Процент	Дата последней правки	Поле1	Мощность	ТКС
+#PWR01	+24B	Any	Any																
+#PWR02	GND	Any	Any																
+#PWR03	+24B	Any	Any																
+#PWR04	GND	Any	Any																
+C1	Конденсатор SC1812KKX7RWBB102	FOOTPRINT:CC1812	T:\\Components\\Murata\\Capacitors\\GRM.pdf																
+C2	Конденсатор SC1812KKX7RWBB102	FOOTPRINT:CC1812	T:\\Components\\Murata\\Capacitors\\GRM.pdf																
+FU1	Вставка плавкая ВП4-4 АУБК.646170.001ТУ	FOOTPRINT:ВП-4	-																
+L1	Дроссель SRF1306-600Y	FOOTPRINT:SRF1306	-																
+P1	PAD	FOOTPRINT:PW_0,35	Any																
+P2	PAD	FOOTPRINT:PW_0,35	Any																
+P3	PAD	FOOTPRINT:P	Any																
+P4	PAD	FOOTPRINT:P	Any																
+P5	PAD	FOOTPRINT:P	Any																
+P6	PAD	FOOTPRINT:P	Any																
+PS1	PS_0,2	FOOTPRINT:PS_0,2	Any																
+PS2	PS_0,2	FOOTPRINT:PS_0,2	Any																
+RU1	Варистор B72210S0350K101	FOOTPRINT:SIOV-S10K35	-																
+VD1	Диод SMBJ36CA	FOOTPRINT:SMABJ_CA	T:\\Components\\STMicroelectronics\\Diode\\ST_SMBJ.PDF																
+X1	Клеммник DG250-3.5-02P	FOOTPRINT:DG250-3,5_02P	T:\\Components\\degson\\dg250-3.5.pdf																
+X2	Клеммник DG250-3.5-02P	FOOTPRINT:DG250-3,5_02P	T:\\Components\\degson\\dg250-3.5.pdf																
+X3	Клеммник DG250-3.5-02P	FOOTPRINT:DG250-3,5_02P	T:\\Components\\degson\\dg250-3.5.pdf																
+X4	Клеммник DG142V-02P	FOOTPRINT:DG142V_02P	T:\\Components\\degson\\dg250-3.5.pdf																
+X5	Клеммник DG142V-02P	FOOTPRINT:DG142V_02P	T:\\Components\\degson\\dg250-3.5.pdf																
+X6	Вилка на плату WF-2	Any_PAT																	
+X7	Клемма ножевая SG57648	Any_PAT	Any_DOC																
+X8	Клемма ножевая SG57648	Any_PAT	Any_DOC																

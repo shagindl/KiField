@@ -47,9 +47,9 @@ from copy import deepcopy
 from pprint import pprint
 from difflib import get_close_matches
 import openpyxl as pyxl
-from sch import Schematic
-from schlib import SchLib
-from dcm import Dcm, Component
+from .sch import Schematic
+from .schlib import SchLib
+from .dcm import Dcm, Component
 import pdb
 
 logger = logging.getLogger('kifield')
@@ -514,7 +514,7 @@ def extract_part_fields_from_sch(filename, inc_field_names=None, exc_field_names
 
         # Create a dictionary entry for each ref and assign the part fields to it.
         for ref in get_component_refs(component):
-            if ref[0] == '#' or ref[-1] == '?':
+            if ref[-1] == '?':
                 continue  # Skip pseudo-parts (e.g. power nets) and unallocated parts.
 
             # Some components (like resistor arrays) contain multiple units.

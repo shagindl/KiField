@@ -1,0 +1,541 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 8268 11693 portrait
+encoding utf-8
+Sheet 1 1
+Title "Плата основная"
+Date "3 jul 2019"
+Rev ""
+Comp "ООО \"ВЗОР\""
+Comment1 "ВР79.01.710Э3"
+Comment2 "Лапин"
+Comment3 "Сахаров"
+Comment4 "Родионов"
+$EndDescr
+$Comp
+L !PROJECT:GND #PWR02
+U 1 1 5C6421BB
+P 3950 5950
+F 0 "#PWR02" H 4050 5925 20 0001 C CNN
+F 1 "GND" H 3750 5950 80 0000 C CNN
+F 2 "Any" H 3900 5925 20 0001 C CNN
+F 3 "Any" H 3975 5925 20 0001 C CNN
+	1    3950 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L !PROJECT:+24B #PWR01
+U 1 1 5C6421B5
+P 3950 4800
+F 0 "#PWR01" H 4050 4775 20 0001 C CNN
+F 1 "+24B" H 3700 4800 80 0000 C CNN
+F 2 "Any" H 3900 4775 20 0001 C CNN
+F 3 "Any" H 3975 4775 20 0001 C CNN
+	1    3950 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L !PROJECT:GND #PWR04
+U 1 1 5C6420FE
+P 6400 8500
+F 0 "#PWR04" H 6500 8475 20 0001 C CNN
+F 1 "GND" V 6250 8500 80 0000 C CNN
+F 2 "Any" H 6350 8475 20 0001 C CNN
+F 3 "Any" H 6425 8475 20 0001 C CNN
+	1    6400 8500
+	0    1    -1   0   
+$EndComp
+$Comp
+L !PROJECT:+24B #PWR03
+U 1 1 5C64210B
+P 6400 7300
+F 0 "#PWR03" H 6500 7275 20 0001 C CNN
+F 1 "+24B" V 6250 7300 80 0000 C CNN
+F 2 "Any" H 6350 7275 20 0001 C CNN
+F 3 "Any" H 6425 7275 20 0001 C CNN
+	1    6400 7300
+	0    -1   1    0   
+$EndComp
+$Comp
+L Capacity:GRM1812 C1
+U 1 1 5D7925AE
+P 4250 7900
+F 0 "C1" H 4375 8025 80 0000 C CNN
+F 1 "Конденсатор SC1812KKX7RWBB102" H 4250 7650 80 0001 C CNN
+F 2 "FOOTPRINT:CC1812" H 4250 7885 40 0001 C CNN
+F 3 "T:\\Components\\Murata\\Capacitors\\GRM.pdf" H 4250 7885 40 0001 C CNN
+	1    4250 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L !PROJECT:X.2H X3
+U 1 1 5D5F0B07
+P 4850 3650
+F 0 "X3" H 4650 4150 80 0000 C CNN
+F 1 "Клеммник DG250-3.5-02P" H 5000 3275 80 0001 C CNN
+F 2 "FOOTPRINT:DG250-3,5_02P" H 4850 3325 30 0001 C CNN
+F 3 "T:\\Components\\degson\\dg250-3.5.pdf" H 4850 3325 30 0001 C CNN
+	1    4850 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Coils:SRF1306-600Y L1
+U 1 1 5D6FF9A8
+P 5100 7900
+F 0 "L1" H 5100 8100 80 0000 C CNN
+F 1 "Дроссель SRF1306-600Y" H 5075 8112 80 0001 C CNN
+F 2 "FOOTPRINT:SRF1306" H 5075 7775 20 0001 C CNN
+F 3 "-" H 5125 7775 20 0001 C CNN
+	1    5100 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Capacity:GRM1812 C2
+U 1 1 5D70FDEE
+P 5900 7900
+F 0 "C2" H 6025 8025 80 0000 C CNN
+F 1 "Конденсатор SC1812KKX7RWBB102" H 5900 7650 80 0001 C CNN
+F 2 "FOOTPRINT:CC1812" H 5900 7885 40 0001 C CNN
+F 3 "T:\\Components\\Murata\\Capacitors\\GRM.pdf" H 5900 7885 40 0001 C CNN
+	1    5900 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:POINT_0,7 P5
+U 1 1 5D6CE849
+P 3200 6900
+F 0 "P5" H 3200 7000 80 0000 C CNN
+F 1 "PAD" H 3230 6810 80 0001 C CNN
+F 2 "FOOTPRINT:P" H 3220 6850 20 0001 C CNN
+F 3 "Any" H 3280 6850 20 0001 C CNN
+	1    3200 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:POINT_0,7 P6
+U 1 1 5D6CC4AD
+P 3200 7150
+F 0 "P6" H 3200 7250 80 0000 C CNN
+F 1 "PAD" H 3230 7060 80 0001 C CNN
+F 2 "FOOTPRINT:P" H 3220 7100 20 0001 C CNN
+F 3 "Any" H 3280 7100 20 0001 C CNN
+	1    3200 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L !PROJECT:X.2H X2
+U 1 1 5D5EFF9B
+P 4850 2750
+F 0 "X2" H 4650 3250 80 0000 C CNN
+F 1 "Клеммник DG250-3.5-02P" H 5000 2375 80 0001 C CNN
+F 2 "FOOTPRINT:DG250-3,5_02P" H 4850 2425 30 0001 C CNN
+F 3 "T:\\Components\\degson\\dg250-3.5.pdf" H 4850 2425 30 0001 C CNN
+	1    4850 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L !PROJECT:X.2H X1
+U 1 1 5D730EF0
+P 4850 1850
+F 0 "X1" H 4700 2350 80 0000 C CNN
+F 1 "Клеммник DG250-3.5-02P" H 5000 1475 80 0001 C CNN
+F 2 "FOOTPRINT:DG250-3,5_02P" H 4850 1525 30 0001 C CNN
+F 3 "T:\\Components\\degson\\dg250-3.5.pdf" H 4850 1525 30 0001 C CNN
+	1    4850 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:SMBJ36CA VD1
+U 1 1 5D650E2E
+P 3850 8000
+F 0 "VD1" V 4150 7850 80 0000 C CNN
+F 1 "Диод SMBJ36CA" V 3350 8000 80 0001 C CNN
+F 2 "FOOTPRINT:SMABJ_CA" H 3825 7900 40 0001 C CNN
+F 3 "T:\\Components\\STMicroelectronics\\Diode\\ST_SMBJ.PDF" H 3825 7900 40 0001 C CNN
+	1    3850 8000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L !PROJECT:X.2H X4
+U 1 1 5C6167D3
+P 4850 4900
+F 0 "X4" H 4650 5400 80 0000 C CNN
+F 1 "Клеммник DG142V-02P" H 5000 4625 80 0001 C CNN
+F 2 "FOOTPRINT:DG142V_02P" H 5000 4675 30 0001 C CNN
+F 3 "T:\\Components\\degson\\dg250-3.5.pdf" H 5000 4675 30 0001 C CNN
+	1    4850 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L !PROJECT:X.2H X5
+U 1 1 5C6167DE
+P 4850 5850
+F 0 "X5" H 4650 6350 80 0000 C CNN
+F 1 "Клеммник DG142V-02P" H 5000 5575 80 0001 C CNN
+F 2 "FOOTPRINT:DG142V_02P" H 5000 5625 30 0001 C CNN
+F 3 "T:\\Components\\degson\\dg250-3.5.pdf" H 5000 5625 30 0001 C CNN
+	1    4850 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:PS_0,2 PS1
+U 1 1 5C617A2D
+P 5100 7500
+F 0 "PS1" H 5100 7600 80 0000 C CNN
+F 1 "PS_0,2" H 5100 7400 80 0001 C CNN
+F 2 "FOOTPRINT:PS_0,2" H 5100 7460 20 0001 C CNN
+F 3 "Any" H 5110 7460 20 0001 C CNN
+	1    5100 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:PS_0,2 PS2
+U 1 1 5C617A52
+P 5100 8300
+F 0 "PS2" H 5100 8400 80 0000 C CNN
+F 1 "PS_0,2" H 5100 8200 80 0001 C CNN
+F 2 "FOOTPRINT:PS_0,2" H 5100 8260 20 0001 C CNN
+F 3 "Any" H 5110 8260 20 0001 C CNN
+	1    5100 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Resistors:S10K35_ RU1
+U 1 1 5C640F6D
+P 3300 7900
+F 0 "RU1" H 3550 7900 80 0000 C CNN
+F 1 "Варистор B72210S0350K101" H 3300 7550 80 0001 C CNN
+F 2 "FOOTPRINT:SIOV-S10K35" H 3300 7850 30 0001 C CNN
+F 3 "-" H 3300 7850 30 0001 C CNN
+	1    3300 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:POINT_0,7 P2
+U 1 1 5C640DCB
+P 2050 8300
+F 0 "P2" H 2050 8400 80 0000 C CNN
+F 1 "PAD" H 2080 8210 80 0001 C CNN
+F 2 "FOOTPRINT:PW_0,35" H 2070 8250 20 0001 C CNN
+F 3 "Any" H 2130 8250 20 0001 C CNN
+	1    2050 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:POINT_0,7 P1
+U 1 1 5C640DBA
+P 2050 7500
+F 0 "P1" H 2050 7600 80 0000 C CNN
+F 1 "PAD" H 2080 7410 80 0001 C CNN
+F 2 "FOOTPRINT:PW_0,35" H 2070 7450 20 0001 C CNN
+F 3 "Any" H 2130 7450 20 0001 C CNN
+	1    2050 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Fuse:ВП4-4(2А) FU1
+U 1 1 5D5B342A
+P 2750 7500
+F 0 "FU1" H 2750 7700 80 0000 C CNN
+F 1 "Вставка плавкая ВП4-4 АУБК.646170.001ТУ" H 2750 7677 80 0001 C CNN
+F 2 "FOOTPRINT:ВП-4" H 2750 7500 30 0001 C CNN
+F 3 "-" H 2750 7500 30 0001 C CNN
+	1    2750 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:POINT_0,7 P4
+U 1 1 5D6CCF88
+P 2300 7150
+F 0 "P4" H 2300 7250 80 0000 C CNN
+F 1 "PAD" H 2330 7060 80 0001 C CNN
+F 2 "FOOTPRINT:P" H 2320 7100 20 0001 C CNN
+F 3 "Any" H 2380 7100 20 0001 C CNN
+	1    2300 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PLS:POINT_0,7 P3
+U 1 1 5D6CE2A9
+P 2300 6900
+F 0 "P3" H 2300 7000 80 0000 C CNN
+F 1 "PAD" H 2330 6810 80 0001 C CNN
+F 2 "FOOTPRINT:P" H 2320 6850 20 0001 C CNN
+F 3 "Any" H 2380 6850 20 0001 C CNN
+	1    2300 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connectors:SG57648 X7
+U 1 1 5EC3DA04
+P 1700 7500
+F 0 "X7" H 1625 7675 80 0000 L CNN
+F 1 "Клемма ножевая SG57648" H 1830 7430 80 0001 L CNN
+F 2 "Any_PAT" H 1560 7380 30 0001 C CNN
+F 3 "Any_DOC" H 1600 7370 10 0001 C CNN
+	1    1700 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connectors:SG57648 X8
+U 1 1 5EC3F2AD
+P 1700 8300
+F 0 "X8" H 1625 8475 80 0000 L CNN
+F 1 "Клемма ножевая SG57648" H 1830 8230 80 0001 L CNN
+F 2 "Any_PAT" H 1560 8180 30 0001 C CNN
+F 3 "Any_DOC" H 1600 8170 10 0001 C CNN
+	1    1700 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connectors:WF-2 X6
+U 1 1 5ECA25D5
+P 6900 7900
+F 0 "X6" H 7000 8400 80 0000 L CNN
+F 1 "Вилка на плату WF-2" H 7531 7829 80 0001 L CNN
+F 2 "Any_PAT" H 7050 7675 30 0001 C CNN
+F 3 "" H 7050 7675 30 0001 C CNN
+	1    6900 7900
+	1    0    0    -1  
+$EndComp
+Text Notes 5450 5400 2    80   ~ 0
+"PWR2"
+Text Notes 5500 5800 0    80   ~ 0
+"+"
+Text Notes 5500 5050 0    80   ~ 0
+"-"
+Text Notes 5500 4850 0    80   ~ 0
+"+"
+Text Notes 5450 4450 2    80   ~ 0
+"PWR1"
+Text Notes 5100 3200 0    80   ~ 0
+"INT3"
+Text Notes 5500 3600 0    80   ~ 0
+"A"
+Text Notes 5500 3800 0    80   ~ 0
+"B"
+Text Notes 5500 2900 0    80   ~ 0
+"B"
+Text Notes 5500 2700 0    80   ~ 0
+"A"
+Text Notes 5100 2300 0    80   ~ 0
+"INT2"
+Text Notes 5500 1800 0    80   ~ 0
+"A"
+Text Notes 5500 2000 0    80   ~ 0
+"B"
+Text Notes 7250 8050 2    80   ~ 0
+GND
+Text Notes 5200 6000 2    80   ~ 0
+GND
+Text Notes 7350 7850 2    80   ~ 0
++24 B
+Text Notes 5300 5800 2    80   ~ 0
++24 B
+Text Notes 5200 5050 2    80   ~ 0
+GND
+Text Notes 5050 3800 0    80   ~ 0
+B
+Text Notes 5050 3600 0    80   ~ 0
+A
+Text Notes 5050 2700 0    80   ~ 0
+A
+Text Notes 5050 2900 0    80   ~ 0
+B
+Text Notes 5050 2000 0    80   ~ 0
+B
+Text Notes 5050 1800 0    80   ~ 0
+A
+Text Notes 6500 10450 2    60   Italic 0
+ 
+Text Notes 5300 4850 2    80   ~ 0
++24 B
+Text Notes 5050 1400 0    80   ~ 0
+"INT1"
+Text Notes 5500 6000 0    80   ~ 0
+"-"
+Text Notes 1500 11250 0    98   Italic 0
+Яковлева
+Text Notes 1475 10875 0    98   Italic 0
+Крюков
+Text Notes 750  2100 1    138  Italic 0
+ВР79.01.710
+Text Notes 3100 6950 2    80   ~ 0
+"- 2 A -"
+Text Notes 1925 7675 0    80   ~ 0
+"+"
+Text Notes 1925 8125 0    80   ~ 0
+"-"
+Text Notes 2250 7900 2    80   ~ 0
+"24 B"
+Text Notes 3100 7200 2    80   ~ 0
+"- 2 A -"
+Text Notes 7050 7650 0    79   ~ 0
+Цепь
+Wire Wire Line
+	4550 5950 4350 5950
+Wire Wire Line
+	4550 5750 4150 5750
+Wire Wire Line
+	5000 7500 4650 7500
+Wire Wire Line
+	3300 8150 3300 8300
+Wire Wire Line
+	6400 7800 6400 7500
+Wire Wire Line
+	4650 7500 4650 7800
+Wire Wire Line
+	4650 8300 4650 8000
+Wire Wire Line
+	3300 7650 3300 7500
+Wire Wire Line
+	4000 5950 4350 5950
+Wire Wire Line
+	6400 8300 6400 8000
+Wire Wire Line
+	4650 7500 4250 7500
+Wire Wire Line
+	3850 7500 3300 7500
+Wire Wire Line
+	4650 8300 5000 8300
+Wire Wire Line
+	4250 7750 4250 7500
+Wire Wire Line
+	4250 7500 3850 7500
+Wire Wire Line
+	4550 1750 4350 1750
+Wire Wire Line
+	4550 1950 4150 1950
+Wire Wire Line
+	4350 3550 4550 3550
+Wire Wire Line
+	4150 3750 4550 3750
+Wire Wire Line
+	4550 2650 4350 2650
+Wire Wire Line
+	6400 8300 6400 8450
+Wire Wire Line
+	4150 2850 4550 2850
+Wire Wire Line
+	4350 1750 4350 2650
+Wire Wire Line
+	4350 2650 4350 3550
+Wire Wire Line
+	4150 1950 4150 2850
+Wire Wire Line
+	4150 2850 4150 3750
+Wire Wire Line
+	4000 4800 4150 4800
+Wire Wire Line
+	4350 5000 4550 5000
+Wire Wire Line
+	4350 5000 4350 5950
+Wire Wire Line
+	4150 4800 4150 5750
+Wire Wire Line
+	4150 4800 4550 4800
+Wire Wire Line
+	3300 6900 3200 6900
+Wire Wire Line
+	3300 7150 3200 7150
+Wire Wire Line
+	3300 7150 3300 6900
+Wire Wire Line
+	3300 7150 3300 7500
+Wire Wire Line
+	3850 8150 3850 8300
+Wire Wire Line
+	3300 8300 3850 8300
+Wire Wire Line
+	4250 8050 4250 8300
+Wire Wire Line
+	4250 8300 4650 8300
+Wire Wire Line
+	5200 7500 5500 7500
+Wire Wire Line
+	5200 8300 5500 8300
+Wire Wire Line
+	5500 8000 5500 8300
+Wire Wire Line
+	5500 8300 5900 8300
+Wire Wire Line
+	5500 7800 5500 7500
+Wire Wire Line
+	5500 7500 5900 7500
+Wire Wire Line
+	5900 7750 5900 7500
+Wire Wire Line
+	5900 7500 6400 7500
+Wire Wire Line
+	5900 8050 5900 8300
+Wire Wire Line
+	5900 8300 6400 8300
+Wire Wire Line
+	6400 7500 6400 7350
+Wire Wire Line
+	3300 7500 3000 7500
+Wire Wire Line
+	2200 7150 2200 6900
+Wire Wire Line
+	2300 7150 2200 7150
+Wire Wire Line
+	2200 7500 2050 7500
+Wire Wire Line
+	2200 6900 2300 6900
+Wire Wire Line
+	2200 7500 2200 7150
+Wire Wire Line
+	2500 7500 2200 7500
+Wire Wire Line
+	2050 8300 3300 8300
+Wire Wire Line
+	1800 7500 2050 7500
+Wire Wire Line
+	1800 8300 2050 8300
+Wire Wire Line
+	6600 7800 6400 7800
+Wire Wire Line
+	6600 8000 6400 8000
+Wire Wire Line
+	3850 7700 3850 7500
+Wire Wire Line
+	3850 8300 4250 8300
+Wire Notes Line style solid
+	6600 7700 6600 7500
+Wire Notes Line style solid
+	6600 7500 7500 7500
+Wire Notes Line style solid
+	7500 7500 7500 7700
+Wire Notes Line style solid
+	6900 7500 6900 7700
+Wire Notes Line style solid
+	6675 7600 6825 7600
+Wire Notes Line style solid
+	6825 7600 6775 7650
+Wire Notes Line style solid
+	6825 7600 6775 7550
+Connection ~ 4350 5950
+Connection ~ 6400 8300
+Connection ~ 4650 7500
+Connection ~ 3850 7500
+Connection ~ 3300 7500
+Connection ~ 3300 8300
+Connection ~ 4650 8300
+Connection ~ 4250 7500
+Connection ~ 4350 2650
+Connection ~ 4150 2850
+Connection ~ 4150 4800
+Connection ~ 3300 7150
+Connection ~ 4250 8300
+Connection ~ 5500 8300
+Connection ~ 5500 7500
+Connection ~ 5900 7500
+Connection ~ 5900 8300
+Connection ~ 6400 7500
+Connection ~ 2200 7150
+Connection ~ 2200 7500
+Connection ~ 2050 7500
+Connection ~ 2050 8300
+Connection ~ 3850 8300
+$EndSCHEMATC
