@@ -12,7 +12,7 @@
     <RootNamespace>kifield</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
-    <CommandLineArguments>-x tb_kifield.sch -i Sch.tsv -w</CommandLineArguments>
+    <CommandLineArguments>-x Sch.tsv -i tb_kifield.sch -w</CommandLineArguments>
     <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
