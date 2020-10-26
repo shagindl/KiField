@@ -50,6 +50,7 @@ import openpyxl as pyxl
 from .sch import Schematic
 from .schlib import SchLib
 from .dcm import Dcm, Component
+import kicad_netlist_reader
 import pdb
 
 logger = logging.getLogger('kifield')
@@ -652,6 +653,47 @@ def extract_part_fields_from_dcm(filename, inc_field_names=None, exc_field_names
 
     return part_fields_dict
 
+def extract_part_fields_from_xml(filename, inc_field_names=None, exc_field_names=None, recurse=False):
+    '''Return a dictionary of part fields extracted from a part description file.'''
+
+    logger.log(DEBUG_OVERVIEW,
+               'Extracting fields {}, -{} from xml netfile {}.'.format(inc_field_names, exc_field_names,
+                                                                   filename))
+
+    part_fields_dict = {}  # Start with an empty part dictionary.
+
+    try:
+        net = kicad_netlist_reader.netlist(filename)
+    except IOError:
+        return part_fields_dict  # Return empty part fields dict if no XML file found.
+
+    # Start with DCM field names and keep the desired ones.
+    field_names = deepcopy(dcm_field_names)
+    cull_list(field_names, inc_field_names, exc_field_names)
+
+    # Go through each component, extracting its fields.
+    #for component in dcm.components:
+    #    component_name = component.name
+
+    #    # Get the fields and their values from the component.
+    #    part_fields = {}
+    #    for name in field_names:
+    #        value = getattr(component, name, None)
+    #        if value is not None:
+    #            logger.log(DEBUG_OBSESSIVE,
+    #               'Extracted part description: {} {} {}.'.format(
+    #                   component_name, name, value))
+    #            part_fields[name] = value
+
+    #    # Create a dictionary entry for this library component.
+    #    part_fields_dict[component_name] = part_fields
+
+    if logger.isEnabledFor(DEBUG_DETAILED):
+        print('Extracted Part Fields:')
+        pprint(part_fields_dict)
+
+    return part_fields_dict
+
 
 def combine_part_field_dicts(from_dict, to_dict, do_union=True):
     '''Combine two part field dictionaries.'''
@@ -691,6 +733,7 @@ def extract_part_fields(filenames, inc_field_names=None, exc_field_names=None, r
         '.tsv': extract_part_fields_from_csv,
         '.csv': extract_part_fields_from_csv,
         '.sch': extract_part_fields_from_sch,
+        '.xml': extract_part_fields_from_xml,
         '.lib': extract_part_fields_from_lib,
         '.dcm': extract_part_fields_from_dcm,
     }
