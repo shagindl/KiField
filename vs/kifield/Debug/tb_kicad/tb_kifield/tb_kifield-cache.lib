@@ -1,61 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# !PROJECT_Tube
+# !PROJECT_Capacity_PCAP
 #
-DEF !PROJECT_Tube MAT 0 40 Y Y 1 F N
-F0 "MAT" 200 -100 79 H V C CNN
-F1 "!PROJECT_Tube" 200 -400 79 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-S -100 -200 500 -300 0 1 20 N
-ENDDRAW
-ENDDEF
-#
-# !PROJECT_Wire
-#
-DEF !PROJECT_Wire MAT 0 40 Y Y 1 F N
-F0 "MAT" 400 0 79 H V C CNN
-F1 "!PROJECT_Wire" 400 -300 79 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-P 2 0 1 59 200 -150 600 -150 N
-ENDDRAW
-ENDDEF
-#
-# Capacity_CAP
-#
-DEF Capacity_CAP C 0 0 N N 1 F N
+DEF !PROJECT_Capacity_PCAP C 0 0 N N 1 F N
 F0 "C" 100 100 80 H V C CNN
-F1 "Capacity_CAP" 0 -225 80 H V C CNN
-F2 "-" 0 -15 80 H I C CNN
-F3 "-" 0 -15 80 H I C CNN
-F4 "-" 0 -15 80 H I C CNN "Примечание"
-F5 "-" 0 -15 80 H I C CNN "Тип элемента"
-F6 "-" 0 -15 80 H I C CNN "Заказной номер "
-F7 "-" 0 -15 80 H I C CNN "Кол‐во"
-F8 "-" 0 -15 80 H I C CNN "Производитель"
-F9 "-" 0 -15 80 H I C CNN "Типоразмер"
-F10 "-" 0 -15 80 H I C CNN "Ном."
-F11 "-" 0 -15 80 H I C CNN "Откл,%"
-F12 "-" 0 -15 80 H I C CNN "ТКЕ/ТКС"
-F13 "-" 0 -15 80 H I C CNN "Напр."
-F14 "-" 0 -15 80 H I C CNN "Наименование 1С8 УПП"
-DRAW
-P 2 0 1 10 -150 -40 150 -40 N
-P 2 0 1 10 -150 40 150 40 N
-X 1 1 0 150 110 D 40 40 1 1 P
-X 2 2 0 -150 110 U 40 40 1 1 P
-ENDDRAW
-ENDDEF
-#
-# Capacity_PCAP
-#
-DEF Capacity_PCAP C 0 0 N N 1 F N
-F0 "C" 100 100 80 H V C CNN
-F1 "Capacity_PCAP" 0 -225 80 H V C CNN
+F1 "!PROJECT_Capacity_PCAP" 0 -225 80 H V C CNN
 F2 "-" 0 -15 80 H I C CNN
 F3 "-" 0 -15 80 H I C CNN
 F4 "-" 70 -15 80 H I C CNN "Примечание"
@@ -79,36 +29,11 @@ X 2 2 0 -150 110 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Resistors_R
+# !PROJECT_Resistors_R4
 #
-DEF Resistors_R ~ 0 0 N N 1 F N
-F0 "" 0 150 80 H V C CNN
-F1 "Resistors_R" 0 -150 80 H V C CNN
-F2 "-" 0 -50 80 H I C CNN
-F3 "-" 0 -50 80 H I C CNN
-F4 "-" 0 -50 80 H I C CNN "Примечание"
-F5 "-" 0 -50 80 H I C CNN "Тип элемента"
-F6 "-" 0 -50 80 H I C CNN "Заказной номер "
-F7 "-" 0 -50 80 H I C CNN "Кол‐во"
-F8 "-" 0 -50 80 H I C CNN "Производитель"
-F9 "-" 0 -50 80 H I C CNN "Типоразмер"
-F10 "-" 0 -50 80 H I C CNN "Ном."
-F11 "-" 0 -50 80 H I C CNN "Откл,%"
-F12 "-" 0 -50 80 H I C CNN "ТКЕ/ТКС"
-F13 "-" 0 -50 80 H I C CNN "Напр."
-F14 "-" 0 -50 80 H I C CNN "Наименование 1С8 УПП"
-DRAW
-S -200 -75 200 75 0 1 0 N
-X 1 1 -250 0 50 R 60 60 1 1 P
-X 2 2 250 0 50 L 60 60 1 1 P
-ENDDRAW
-ENDDEF
-#
-# Resistors_R4
-#
-DEF Resistors_R4 R4 0 0 N Y 1 F N
+DEF !PROJECT_Resistors_R4 R4 0 0 N Y 1 F N
 F0 "R4" 0 325 80 H V C CNN
-F1 "Resistors_R4" 0 -550 80 H I C CNN
+F1 "!PROJECT_Resistors_R4" 0 -550 80 H I C CNN
 F2 "-" 0 -400 80 H I C CNN
 F3 "-" 0 -400 80 H I C CNN
 F4 "-" 0 -400 80 H I C CNN "Примечание"
@@ -133,89 +58,6 @@ X 5 5 300 -400 100 L 60 79 1 1 P
 X 6 6 300 -200 100 L 60 79 1 1 P
 X 7 7 300 0 100 L 60 79 1 1 P
 X 8 8 300 200 100 L 60 79 1 1 P
-ENDDRAW
-ENDDEF
-#
-# Resistors_RT
-#
-DEF Resistors_RT R 0 0 N N 1 F N
-F0 "R" 0 150 80 H V C CNN
-F1 "Resistors_RT" 0 -250 80 H I C CNN
-F2 "-" 0 -50 80 H I C CNN
-F3 "-" 0 -50 80 H I C CNN
-F4 "-" 0 -50 80 H I C CNN "Примечание"
-F5 "-" 0 -50 80 H I C CNN "Тип элемента"
-F6 "-" 0 -50 80 H I C CNN "Заказной номер "
-F7 "-" 0 -50 80 H I C CNN "Кол‐во"
-F8 "-" 0 -50 80 H I C CNN "Производитель"
-F9 "-" 0 -50 80 H I C CNN "Типоразмер"
-F10 "-" 0 -50 80 H I C CNN "Ном."
-F11 "-" 0 -50 80 H I C CNN "Откл,%"
-F12 "-" 0 -50 80 H I C CNN "ТКЕ/ТКС"
-F13 "-" 0 -50 80 H I C CNN "Напр."
-F14 "-" 0 -50 80 H I C CNN "Наименование 1С8 УПП"
-DRAW
-T 0 0 -150 80 0 0 0 -t° Normal 0 C C
-S -200 -75 200 75 0 1 0 N
-P 3 0 1 0 150 150 -100 -150 -250 -150 N
-X 1 1 -250 0 50 R 60 60 1 1 P
-X 2 2 250 0 50 L 60 60 1 1 P
-ENDDRAW
-ENDDEF
-#
-# Resistors_RU
-#
-DEF Resistors_RU RU 0 0 N N 1 F N
-F0 "RU" 0 150 80 H V C CNN
-F1 "Resistors_RU" 0 -250 80 H I C CNN
-F2 "-" 0 -50 80 H I C CNN
-F3 "-" 0 -50 80 H I C CNN
-F4 "-" 0 -50 80 H I C CNN "Примечание"
-F5 "-" 0 -50 80 H I C CNN "Тип элемента"
-F6 "-" 0 -50 80 H I C CNN "Заказной номер "
-F7 "-" 0 -50 80 H I C CNN "Кол‐во"
-F8 "-" 0 -50 80 H I C CNN "Производитель"
-F9 "-" 0 -50 80 H I C CNN "Типоразмер"
-F10 "-" 0 -50 80 H I C CNN "Ном."
-F11 "-" 0 -50 80 H I C CNN "Откл,%"
-F12 "-" 0 -50 80 H I C CNN "ТКЕ/ТКС"
-F13 "-" 0 -50 80 H I C CNN "Напр."
-F14 "-" 0 -50 80 H I C CNN "Наименование 1С8 УПП"
-DRAW
-T 0 0 -150 80 0 0 0 U Normal 0 C C
-S -200 -75 200 75 0 1 0 N
-P 3 0 1 0 150 150 -100 -150 -250 -150 N
-X 1 1 -250 0 50 R 60 60 1 1 P
-X 2 2 250 0 50 L 60 60 1 1 P
-ENDDRAW
-ENDDEF
-#
-# Resistors_RVAR
-#
-DEF Resistors_RVAR R 0 40 N N 1 F N
-F0 "R" -100 150 80 H V C CNN
-F1 "Resistors_RVAR" 0 -150 80 H V C CNN
-F2 "-" 0 -50 80 H I C CNN
-F3 "-" 0 -50 80 H I C CNN
-F4 "-" 0 -50 80 H I C CNN "Примечание"
-F5 "-" 0 -50 80 H I C CNN "Тип элемента"
-F6 "-" 0 -50 80 H I C CNN "Заказной номер "
-F7 "-" 0 -50 80 H I C CNN "Кол‐во"
-F8 "-" 0 -50 80 H I C CNN "Производитель"
-F9 "-" 0 -50 80 H I C CNN "Типоразмер"
-F10 "-" 0 -50 80 H I C CNN "Ном."
-F11 "-" 0 -50 80 H I C CNN "Откл,%"
-F12 "-" 0 -50 80 H I C CNN "ТКЕ/ТКС"
-F13 "-" 0 -50 80 H I C CNN "Напр."
-F14 "-" 0 -50 80 H I C CNN "Наименование 1С8 УПП"
-DRAW
-S -200 75 200 -75 0 1 0 N
-P 2 0 1 0 0 200 0 75 N
-P 2 0 1 0 200 200 0 200 N
-P 3 0 1 0 -25 150 0 75 25 150 N
-X 1 1 -400 0 200 R 50 50 1 1 P
-X 2 2 400 0 200 L 50 50 1 1 P
-X 3 3 400 200 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

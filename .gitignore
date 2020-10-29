@@ -49,3 +49,4 @@ output/*/index.html
 *.sch-bak
 /vs/kifield/Debug/~$KiCAD_Fields.xlsx
 *.csv#
+**/.svn

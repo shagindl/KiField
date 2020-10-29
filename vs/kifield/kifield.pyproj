@@ -12,7 +12,7 @@
     <RootNamespace>kifield</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
-    <CommandLineArguments>-x Sch.tsv -i ВР79.01.710.sch -w</CommandLineArguments>
+    <CommandLineArguments>-x Dcm.Lib.tsv -i !PROJECT.lib -w -nb -d 100</CommandLineArguments>
     <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">

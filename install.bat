@@ -1,3 +1,3 @@
-pip install ./kifield-0.1.23.tar.gz
+pip install ./kifield-0.1.24.tar.gz
 kifield -v
 pause

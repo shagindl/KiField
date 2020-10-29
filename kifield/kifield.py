@@ -50,7 +50,6 @@ import openpyxl as pyxl
 from .sch import Schematic
 from .schlib import SchLib
 from .dcm import Dcm, Component
-import kicad_netlist_reader
 import pdb
 
 logger = logging.getLogger('kifield')
@@ -1159,6 +1158,7 @@ def insert_part_fields_into_lib(part_fields_dict, filename, recurse, group_compo
                     # Copy an existing field from the component and then
                     # update its name and value to create a new field.
                     new_field = deepcopy(component.fields[-1])
+                    new_field['text_size'] = '80'
                     new_field['fieldname'] = quote(field_name)
                     new_field['name'] = quote(field_value)
                     component.fields.append(new_field)

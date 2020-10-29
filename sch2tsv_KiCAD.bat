@@ -14,6 +14,8 @@ bash -c "kifield -x *.sch -i Sch.tsv -nb -w"
 set LANG=ru_RU.UTF-8
 bash -c "sed -i -f \"%KICAD_SYMBOL_DIR%/../SCRIPT/sch2tsv.sed\" Sch.tsv"
 
+bash -c "recode -f utf8/crlf..cp1251 <Sch.tsv | sponge Sch.tsv"
+
 Sch.tsv
 
 goto :eof
