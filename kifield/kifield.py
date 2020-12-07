@@ -1070,7 +1070,7 @@ def insert_part_fields_into_sch(part_fields_dict, filename, recurse, group_compo
 
                 # Canonically order the fields to make schematic comparisons
                 # easier during acceptance testing.
-                component.fields = reorder_sch_fields(component.fields)
+                # component.fields = reorder_sch_fields(component.fields)
 
     # Save the updated schematic.
     sch.save(filename)
