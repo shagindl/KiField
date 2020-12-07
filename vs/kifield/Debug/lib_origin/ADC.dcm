@@ -1,0 +1,59 @@
+EESchema-DOCLIB  Version 2.0  Date: 07.08.2018 13:04:26
+#
+$CMP AD7124-4
+D АЦП.
+K АЦП.
+F T:\Components\AnalogDevices\ADC\AD7124-4.pdf
+$ENDCMP
+#
+$CMP AD7705BRU
+D АЦП.
+K АЦП.
+F T:\Components\AnalogDevices\ADC\AD7705_7706\AD7705_AD7706.pdf
+$ENDCMP
+#
+$CMP AD7708BR
+D АЦП.
+K АЦП.
+F T:\Components\AnalogDevices\ADC\AD7708_7718\AD7708_7718.pdf
+$ENDCMP
+#
+$CMP AD7708BRU
+F T:\Components\AnalogDevices\ADC\AD7708_7718\AD7708_7718.pdf
+$ENDCMP
+#
+$CMP AD7718BRU
+F T:\Components\AnalogDevices\ADC\AD7708_7718\AD7708_7718.pdf
+$ENDCMP
+#
+$CMP AD7794BRU
+F T:\Components\AnalogDevices\ADC\AD7794_7795\AD7794_AD7795.pdf
+$ENDCMP
+#
+$CMP AD7798BR
+F T:\Components\AnalogDevices\ADC\AD7798-7799\AD7798_7799.pdf
+$ENDCMP
+#
+$CMP ADS1241E
+D АЦП
+K АЦП
+F T:\Components\TexasInstruments\BurrBrown\ADC\ADS1240_ADS1241\ADS1240_ADS1241.pdf
+$ENDCMP
+#
+$CMP ADS8325
+D АЦП.
+K АЦП.
+F T:\Components\TexasInstruments\BurrBrown\ADC\ADS8325\ads8325.pdf
+$ENDCMP
+#
+$CMP FDC1004
+F T:\Components\TexasInstruments\CapSence\FDC1004.pdf
+$ENDCMP
+#
+$CMP TSC2046IPW
+D АЦП.
+K АЦП.
+F T:\Components\TexasInstruments\BurrBrown\ADC\TSC2046.pdf
+$ENDCMP
+#
+#End Doc Library

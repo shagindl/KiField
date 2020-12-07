@@ -1,0 +1,53 @@
+EESchema-LIBRARY Version 2.3  Date: 31.10.2017 9:00:17
+#encoding utf-8
+#
+# HPM14AX
+#
+DEF HPM14AX HA 0 40 N N 1 F N
+F0 "HA" 300 150 80 H V C CNN
+F1 "HPM14AX" 400 -300 80 H V C CNN
+F2 "HPM14AX" 0 0 30 H I C CNN
+F3 "T:\\Components\\SoniCrest\\HPM14AX_vnxr.pdf" 150 -200 20 H I C CNN
+F4 "HPM14AX" 0 0 30 H I C CNN "Наименование"
+F5 "Any" 0 0 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 0 30 H I C CNN "Поле3"
+F7 "Any" 0 0 30 H I C CNN "Поле4"
+F8 "Any" 0 0 30 H I C CNN "Поле5"
+F9 "08.09.2010_14:22" 0 0 30 H I C CNN "Дата создания"
+F10 "17.02.2012_11:06" 0 0 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев" 0 0 30 H I C CNN "Автор"
+DRAW
+A 100 0 200 901 -901 0 1 15 N 100 200 100 -200
+P 2 0 1 16  100 200  100 -200 N
+P 3 0 1 10  -50 -75  50 -75  50 -75 N
+P 3 0 1 10  -50 75  50 75  50 75 N
+P 3 0 1 10  0 125  0 25  0 25 N
+X 1 1 0 250 75 D 80 80 1 1 P
+X 2 2 0 -250 75 U 80 80 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ЗП-25
+#
+DEF ЗП-25 HA 0 40 N N 1 F N
+F0 "HA" 0 350 80 H V C CNN
+F1 "ЗП-25" 0 -350 80 H V C CNN
+F2 "ЗП_25" 0 0 30 H I C CNN
+F3 "T:\\Components\\Октава\\ЗП-25.pdf" 150 -200 20 H I C CNN
+F4 "HPM14AX" 0 0 30 H I C CNN "Наименование"
+F5 "Any" 0 0 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 0 30 H I C CNN "Поле3"
+F7 "Any" 0 0 30 H I C CNN "Поле4"
+F8 "Any" 0 0 30 H I C CNN "Поле5"
+F9 "31.10.2017_08:45" 0 0 30 H I C CNN "Дата создания"
+F10 "31.10.2017_08:45" 0 0 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 0 0 30 H I C CNN "Автор"
+DRAW
+A 100 0 200 901 -901 0 1 15 N 100 200 100 -200
+P 2 0 1 16  100 200  100 -200 N
+X 1 1 -200 100 120 R 80 80 1 1 P
+X 2 2 -200 -100 120 R 80 80 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0  Date: 20.05.2019 15:35:28
+#
+$CMP KAN0611-0431B
+F T:\Components\Buttoms\KAN0611-0431B 6x6x4.3 mm.pdf
+$ENDCMP
+#
+$CMP TS-A1PS-130
+F T:Components\Switronic\TSA2PV130.pdf
+$ENDCMP
+#
+$CMP TS-A1PV-130
+F T:Components\Switronic\TSA2PV130.pdf
+$ENDCMP
+#
+$CMP TS-A2PV-130
+F T:Components\Switronic\TSA2PV130.pdf
+$ENDCMP
+#
+$CMP WS-DISV-4
+F T:\Components\Wurth Elektronik\WS-DISV\4181212708xx.pdf
+$ENDCMP
+#
+#End Doc Library

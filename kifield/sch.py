@@ -144,7 +144,7 @@ class Schematic(object):
     A class to parse Schematic Files Format of the KiCad
     """
     def __init__(self, filename):
-        f = open(filename)
+        f = open(filename, encoding='utf-8')
         self.filename = filename
         self.header = f.readline()
         self.libs = []
@@ -322,5 +322,5 @@ class Schematic(object):
         # This prevents errors caused by an internal CR, LF breaking a line.
         to_write = [re.sub(r'[\n\r]', '', l) + '\n' for l in to_write]
 
-        f = open(filename, 'w')
+        f = open(filename, 'w', encoding='utf-8')
         f.writelines(to_write)

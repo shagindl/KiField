@@ -1,0 +1,157 @@
+EESchema-DOCLIB  Version 2.0  Date: 26.01.2018 9:27:00
+#
+$CMP AD8500AKSZ
+F T:\Components\AnalogDevices\Operational Amplifier\OP07.pdf
+$ENDCMP
+#
+$CMP AD9837
+F T:\Components\AnalogDevices\DDS\AD9837.pdf
+$ENDCMP
+#
+$CMP ADM660AR
+D Преобразователь напряжения.
+K Преобразователь напряжения.
+F T:\Components\AnalogDevices\VoltageConverters\ADM660_8660.pdf
+$ENDCMP
+#
+$CMP ADM8660AR
+D Преобразователь напряжения.
+K Преобразователь напряжения.
+F T:\Components\AnalogDevices\VoltageConverters\ADM660_8660.pdf
+$ENDCMP
+#
+$CMP AP5100
+F T:\Components\Diodes Inc\AP5100.pdf
+$ENDCMP
+#
+$CMP B9-1212S
+F T:\Components\BOTHHAND\B9-1212S.pdf
+$ENDCMP
+#
+$CMP CAT661EVA
+F T:\Components\ON Semiconductor\Voltage Regulators\cat661.pdf
+$ENDCMP
+#
+$CMP ICL7660SCBA
+D Преобразователь напряжения.
+K Преобразователь напряжения.
+F T:\Components\Intersil\Voltage Converters\ICL7660S.pdf
+$ENDCMP
+#
+$CMP L7805
+F T:Components\STMicroelectronics\Voltage Regulator\L78xx.pdf
+$ENDCMP
+#
+$CMP L7805ABV
+F T:Components\STMicroelectronics\Voltage Regulator\L7805abv.pdf
+$ENDCMP
+#
+$CMP L7805CD2T
+D Регулятор напряжения.
+K Регулятор напряжения.
+F T:Components\STMicroelectronics\Voltage Regulator\L78xx.pdf
+$ENDCMP
+#
+$CMP L7812
+F T:Components\STMicroelectronics\Voltage Regulator\L78xx.pdf
+$ENDCMP
+#
+$CMP L78L05CD13TR
+D Регулятор напряжения.
+K Регулятор напряжения.
+F T:\Components\STMicroelectronics\Voltage Regulator\L78Lxx.pdf
+$ENDCMP
+#
+$CMP L78L09CZ
+D Регулятор напряжения.
+K Регулятор напряжения.
+F T:\Components\STMicroelectronics\Voltage Regulator\L78Lxx.pdf
+$ENDCMP
+#
+$CMP LD1117DT33TR
+D Регулятор напряжения.
+K Регулятор напряжения.
+F T:\Components\STMicroelectronics\Voltage Regulator\LD1117.pdf
+$ENDCMP
+#
+$CMP LM2760M5
+F T:\Components\National Semiconductor\Voltage Converters\LM2760.PDF
+$ENDCMP
+#
+$CMP LP2985AIM5-3.3
+F T:\Components\National Semiconductor\Voltage Converters\LP2985.pdf
+$ENDCMP
+#
+$CMP LP2985AIM5-3.5
+D Регулятор напряжения.
+K Регулятор напряжения.
+F T:\Components\National Semiconductor\Voltage Converters\LP2985.pdf
+$ENDCMP
+#
+$CMP LP3981IMM-3.3
+F T:\Components\TexasInstruments\Voltage Reference\lp3981.pdf
+$ENDCMP
+#
+$CMP LT1761ES5-3.3
+F T:\Components\Linear Technology\Voltage Converters\LT1761.PDF
+$ENDCMP
+#
+$CMP LT1761ES5-5
+D Регулятор напряжения.
+K Регулятор напряжения.
+F T:\Components\Linear Technology\Voltage Converters\LT1761.PDF
+$ENDCMP
+#
+$CMP MCP1252T
+D Charge Pump
+K Charge Pump
+F T:\Components\Microchip\Charge Pump\MCP1252.pdf
+$ENDCMP
+#
+$CMP MCP1252T-33X50I/MS
+D Charge Pump
+K Charge Pump
+F T:\Components\Microchip\Charge Pump\MCP1252.pdf
+$ENDCMP
+#
+$CMP MCP73123-22S/MF
+F T:\Components\Microchip\Battery Charge Controllers\MCP73123_22S_MF.pdf
+$ENDCMP
+#
+$CMP MCP73223-C2S/MF
+F T:\Components\Microchip\Battery Charge Controllers\MCP73123_22S_MF.pdf
+$ENDCMP
+#
+$CMP MP2481
+D Регулятор напряжения
+K Регулятор напряжения
+F T:\Components\MPS\mp2481.pdf
+$ENDCMP
+#
+$CMP NCP1117STAT3
+F T:\Components\ON Semiconductor\Voltage Regulators\NCP1117.PDF
+$ENDCMP
+#
+$CMP PSR-7805LF
+D Регулятор напряжения.
+K Регулятор напряжения.
+F T:\Components\PEAK Electronics\DC_DC\PSR-78xxLF.pdf
+$ENDCMP
+#
+$CMP SPB03A-12
+F T:\Components\Mean Well\DC_DC\spb03-spec.pdf
+$ENDCMP
+#
+$CMP TPS60101PWP
+F T:\Components\TexasInstruments\Power\tps60101.pdf
+$ENDCMP
+#
+$CMP TPS62220DDC
+F T:\Components\TexasInstruments\DCDCconverter\tps62220.pdf
+$ENDCMP
+#
+$CMP TPS63031
+F T:\Components\TexasInstruments\Power\tps63030.pdf
+$ENDCMP
+#
+#End Doc Library

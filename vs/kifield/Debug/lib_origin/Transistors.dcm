@@ -1,0 +1,58 @@
+EESchema-DOCLIB  Version 2.0  Date: 23.04.2014 11:27:29
+#
+$CMP BC847
+D Транзистор.
+K Транзистор.
+F T:\Components\Motorola\Transistors\BC846_847_848_849_850.pdf
+$ENDCMP
+#
+$CMP BC857
+F T:\Components\Motorola\Transistors\BC856_857_858.pdf
+$ENDCMP
+#
+$CMP FDB7030BL
+F T:\Components\FairChild\MOSFET\FDB7030BL.pdf
+$ENDCMP
+#
+$CMP IRF7416
+F T:\Components\International Rectifier\HEXFET\IRF7416.PDF
+$ENDCMP
+#
+$CMP IRF7484Q
+F T:\Components\International Rectifier\HEXFET\irf7484q.pdf
+$ENDCMP
+#
+$CMP IRFR024N
+F T:\Components\International Rectifier\HEXFET\irfr024n.pdf
+$ENDCMP
+#
+$CMP IRLML0060
+F T:\Components\International Rectifier\HEXFET\IRLML0060.pdf
+$ENDCMP
+#
+$CMP IRLML2060
+F T:\Components\International Rectifier\HEXFET\IRLML2060.pdf
+$ENDCMP
+#
+$CMP IRLML2402
+D HEXFET Power MOSFET.
+K HEXFET Power MOSFET.
+F T:\Components\International Rectifier\HEXFET\irlml2402.pdf
+$ENDCMP
+#
+$CMP IRLML6302
+D HEXFET Power MOSFET.
+K HEXFET Power MOSFET.
+F T:\Components\International Rectifier\HEXFET\irlml6302.pdf
+$ENDCMP
+#
+$CMP IRLML6402
+F T:\Components\International Rectifier\HEXFET\irlml6402.pdf
+$ENDCMP
+#
+$CMP NTD25P03LT4G
+K T:\Components\ON Semiconductor\Transisitors\NTD25P03L/PDF
+F T:\Components\ON Semiconductor\Transisitors\NTD25P03L.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,65 @@
+EESchema-LIBRARY Version 2.3  Date: 07.09.2012 14:20:20
+#encoding utf-8
+#
+# ADM1232ARN
+#
+DEF ADM1232ARN DD 0 60 Y Y 1 F N
+F0 "DD" 0 500 80 H V C CNN
+F1 "ADM1232ARN" 0 -500 80 H V C CNN
+F2 "SO_8" -150 -270 20 H I C CNN
+F3 "T:\\Components\\AnalogDevices\\SuperVisors\\ADM1232.pdf" 50 -270 10 H I C CNN
+F4 "TPS3828-33DBVT" -50 -270 20 H I C CNN "Наименование"
+F5 "Any" 0 -270 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -100 -270 20 H I C CNN "Поле3"
+F7 "Any" 50 -270 20 H I C CNN "Поле4"
+F8 "Any" 0 -270 20 H I C CNN "Поле5"
+F9 "07.09.2012_13:56" 0 -270 20 H I C CNN "Дата создания"
+F10 "07.09.2012_13:56" 100 -270 20 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 50 -270 20 H I C CNN "Автор"
+DRAW
+T 0 0 200 80 0 0 0 F  Normal 0 C C
+P 2 0 0 0  0 250  0 250 N
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -200  -200 -400 N
+P 3 0 1 0  200 400  200 -200  200 -400 N
+X ~PB 1 -800 300 200 R 80 80 1 1 I
+X TD 2 -800 100 200 R 80 80 1 1 W
+X T 3 -800 -100 200 R 80 80 1 1 I
+X DGND 4 -800 -300 200 R 80 80 1 1 I
+X RES 5 800 -300 200 L 80 80 1 1 I
+X ~RES 6 800 -100 200 L 80 80 1 1 O I
+X STR 7 800 100 200 L 80 80 1 1 I I
+X VCC 8 800 300 200 L 80 80 1 1 I
+ENDDRAW
+ENDDEF
+#
+# TPS3828-33DBVT
+#
+DEF TPS3828-33DBVT DD 0 60 Y Y 1 F N
+F0 "DD" 0 400 80 H V C CNN
+F1 "TPS3828-33DBVT" -50 -400 80 H V C CNN
+F2 "SOT_G5" -150 -270 20 H I C CNN
+F3 "T:\\Components\\TexasInstruments\\SuperVisor\\tps3823-30.pdf" 50 -270 10 H I C CNN
+F4 "TPS3828-33DBVT" -50 -270 20 H I C CNN "Наименование"
+F5 "Any" 0 -270 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -100 -270 20 H I C CNN "Поле3"
+F7 "Any" 50 -270 20 H I C CNN "Поле4"
+F8 "Any" 0 -270 20 H I C CNN "Поле5"
+F9 "10.06.2010 15:27" 0 -270 20 H I C CNN "Дата создания"
+F10 "18.02.2011 10:07" 100 -270 20 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." 50 -270 20 H I C CNN "Автор"
+DRAW
+T 0 0 200 80 0 0 0 F  Normal 0 C C
+P 2 0 0 0  0 250  0 250 N
+S -600 300 600 -300 0 1 0 N
+P 3 0 1 0  -200 300  -200 -200  -200 -300 N
+P 3 0 1 0  200 300  200 -200  200 -300 N
+X ~RES 1 800 200 200 L 80 80 1 1 O I
+X DGND 2 -800 -200 200 R 80 80 1 1 I
+X ~MR 3 800 -200 200 L 80 80 1 1 I I
+X WDI 4 800 0 200 L 80 80 1 1 I
+X VDD 5 -800 200 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

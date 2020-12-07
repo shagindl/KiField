@@ -85,7 +85,7 @@ class Dcm(object):
         if filename is None:
             return
 
-        with open(filename) as file:
+        with open(filename, encoding='utf-8') as file:
             self.header = file.readline()
 
             if not self.header.startswith('EESchema-DOCLIB'):
@@ -113,5 +113,5 @@ class Dcm(object):
         for c in self.components:
             to_write.extend(c.str())
 
-        with open(filename, 'w') as file:
+        with open(filename, 'w', encoding='utf-8') as file:
             file.writelines(to_write)

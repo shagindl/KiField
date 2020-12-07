@@ -15,7 +15,6 @@ var
 sdist
 develop-eggs
 .installed.cfg
-lib
 lib64
 
 # Installer logs
@@ -41,3 +40,13 @@ output/*/index.html
 
 # Sphinx
 #docs/_build
+
+*.bak
+/vs/kifield/.vs/kifield/v16/*.suo
+/vs/kifield/Debug/*.csv#
+/kifield/*.spec
+/vs/kifield/Debug/lib.ред.*
+*.sch-bak
+/vs/kifield/Debug/~$KiCAD_Fields.xlsx
+*.csv#
+**/.svn

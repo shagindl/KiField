@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 02.10.2013 11:00:36
+#
+$CMP LM393M
+F T:\Components\National Semiconductor\Comparators\LM193_LM293_LM393_LM2903.pdf
+$ENDCMP
+#
+$CMP LMV393M
+F T:\Components\National Semiconductor\Comparators\LMV331_LMV393_LMV339.pdf
+$ENDCMP
+#
+$CMP MAX917ESA
+F T:\Components\Maxim\MAX917-MAX920.pdf
+$ENDCMP
+#
+#End Doc Library

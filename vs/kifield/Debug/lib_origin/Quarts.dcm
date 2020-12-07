@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0  Date: 01.06.2018 11:42:10
+#
+$CMP HC49
+D Кварцевый резонатор HC49.
+K Кварцевый резонатор HC49.
+F T:\Components\Golledge\hc49.pdf
+$ENDCMP
+#
+$CMP HC49_G
+F T:\Components\Golledge\hc49.pdf
+$ENDCMP
+#
+$CMP HC49U
+D Кварцевый резонатор HC49U.
+K Кварцевый резонатор HC49U.
+$ENDCMP
+#
+$CMP KX-38_32768_6pF
+F T:\Components\Geyer\GEYER-KX-38_02.pdf
+$ENDCMP
+#
+$CMP KX-K
+D Кварцевый резонатор KX-K 8.0 MHz
+K Кварцевый резонатор KX-K 8.0 MHz
+F T:\Components\Geyer\KX-K-12-87823.pdf
+$ENDCMP
+#
+$CMP KXO-210
+D Pезонатор.
+K Pезонатор.
+F T:\Components\Geyer\KXO-210.pdf
+$ENDCMP
+#
+$CMP OCXO-2
+D Pезонатор.
+K Pезонатор.
+F T:\Components\SJK\sjk-ocxo.pdf
+$ENDCMP
+#
+$CMP RK206_SMD
+D Кварцевый резонатор RK206.
+K Кварцевый резонатор RK206.
+$ENDCMP
+#
+$CMP ZTT
+D Керамический резонатор.
+K Керамический резонатор.
+$ENDCMP
+#
+#End Doc Library

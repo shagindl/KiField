@@ -1,0 +1,9 @@
+Capacity:PCAP
+Capacity:CAP
+Resistors:R
+Resistors:R4
+Resistors:RVAR
+Resistors:RT
+Resistors:RU
+Wire
+Tube

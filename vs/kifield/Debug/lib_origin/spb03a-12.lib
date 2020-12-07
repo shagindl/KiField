@@ -1,0 +1,42 @@
+EESchema-LIBRARY Version 2.3  Date: 12.12.2011 9:46:24
+#encoding utf-8
+#
+# SPB03A-12
+#
+DEF SPB03A-12 DA 0 80 Y Y 1 F N
+F0 "DA" 50 600 80 H V C CNN
+F1 "SPB03A-12" -25 -700 80 H V C CNN
+F2 "Any_PAT" 550 -575 20 H I C CNN
+F3 "T:\\Components\\AnalogDevices\\Operational Amplifier\\OP07.pdf" 0 -575 10 H I C CNN
+F4 "OP07CS" 450 -575 20 H I C CNN "Наименование"
+F5 "Any" 350 -575 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -400 -575 20 H I C CNN "Поле3"
+F7 "Any" 500 -575 20 H I C CNN "Поле4"
+F8 "Any" 0 -575 20 H I C CNN "Поле5"
+F9 "10.06.2010 15:27" 175 -575 20 H I C CNN "Дата создания"
+F10 "02.11.2011_09:15" -400 -575 20 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." -150 -575 20 H I C CNN "Автор"
+DRAW
+T 0 0 350 80 0 0 0 *STU  Normal 0 C C
+S -598 500 600 -502 0 1 0 N
+P 2 0 1 0  -600 -100  -200 -100 N
+P 2 0 1 0  -200 100  -200 -500 N
+P 2 0 1 0  -200 100  -200 500 N
+P 2 0 1 0  200 100  200 -500 N
+P 2 0 1 0  200 100  200 500 N
+P 3 0 1 0  200 -100  558 -100  598 -100 N
+X UIN+ 1 -800 400 200 R 80 80 1 1 O
+X UIN- 2 -800 0 200 R 80 80 1 1 I I
+X UIN- 2 -800 0 200 R 80 80 1 1 I I
+X RC 3 -800 -300 200 R 80 80 1 1 P
+X RC 3 -800 -300 200 R 80 80 1 1 P
+X RC 3 -800 -300 200 R 80 80 1 1 P
+X RC 3 -800 -300 200 R 80 80 1 1 P
+X NC 5 700 -200 100 L 80 80 1 1 O
+X UO+ 6 800 400 200 L 80 80 1 1 O
+X UO- 7 800 0 200 L 80 80 1 1 O
+X NC 8 700 -400 100 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

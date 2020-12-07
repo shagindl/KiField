@@ -1,0 +1,180 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# B57164K104J
+#
+DEF B57164K104J R 0 0 N N 1 F N
+F0 "R" 0 150 80 H V C CNN
+F1 "B57164K104J" 0 -250 80 H I C CNN
+F2 "B57164K104J" 0 -50 30 H I C CNN
+F3 "T:\\Components\\Epcos\\NTC thermistor\\B57164.pdf" 0 -50 30 H I C CNN
+F4 "Any" 0 0 80 H V C CNN "Номинал"
+F5 "Any" 0 -50 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -50 30 H I C CNN "Мощность"
+F7 "Any" 0 -50 30 H I C CNN "ТКС"
+F8 "Any" 0 -50 30 H I C CNN "Процент"
+F9 "20.02.2018_14:30" 0 -50 30 H I C CNN "Дата создания"
+F10 "20.02.2018_14:30" 0 -50 30 H I C CNN "Дата последней правки"
+F11 "Миронова" 0 -50 30 H I C CNN "Автор"
+DRAW
+T 0 0 -150 80 0 0 0 -t° Normal 0 C C
+S -200 -75 200 75 0 1 0 N
+P 3 0 1 0 150 150 -100 -150 -250 -150 N
+X 1 1 -250 0 50 R 60 60 1 1 P
+X 2 2 250 0 50 L 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C2-29B-0,125_G
+#
+DEF C2-29B-0,125_G R 0 0 N N 1 F N
+F0 "R" 0 150 80 H V C CNN
+F1 "C2-29B-0,125_G" 0 -150 80 H V C CNN
+F2 "Any_PAT" 0 -50 30 H I C CNN
+F3 "Any_DOC" 0 -50 30 H I C CNN
+F4 "Any" 0 0 80 H V C CNN "Номинал"
+F5 "Any" 0 -50 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -50 30 H I C CNN "Мощность"
+F7 "Any" 0 -50 30 H I C CNN "ТКС"
+F8 "Any" 0 -50 30 H I C CNN "Процент"
+F9 "07.09.2010 12:56" 0 -50 30 H I C CNN "Дата создания"
+F10 "03.05.2018_08:21" 0 -50 30 H I C CNN "Дата последней правки"
+F11 "Хлюнев А.А." 0 -50 30 H I C CNN "Автор"
+ALIAS C2-29B-0,125_V C2-29B-0,25_G C2-29B-0,25_V P1-12-0,25 P1-32-0,125 P1-12-0,125 C2-33H-1 C2-33H-2 C2-33H-0,25 R2512
+DRAW
+S -200 -75 200 75 0 1 0 N
+X 1 1 -250 0 50 R 60 60 1 1 P
+X 2 2 250 0 50 L 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FNR-07K560
+#
+DEF FNR-07K560 RU 0 0 N N 1 F N
+F0 "RU" 0 150 80 H V C CNN
+F1 "FNR-07K560" 0 -250 80 H I C CNN
+F2 "K10-17" 0 -50 30 H I C CNN
+F3 "Any_DOC" 0 -50 30 H I C CNN
+F4 "Any" 0 0 80 H V C CNN "Номинал"
+F5 "Any" 0 -50 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -50 30 H I C CNN "Мощность"
+F7 "Any" 0 -50 30 H I C CNN "ТКС"
+F8 "Any" 0 -50 30 H I C CNN "Процент"
+F9 "09.04.2015_08:19" 0 -50 30 H I C CNN "Дата создания"
+F10 "17.08.2015_15:02" 0 -50 30 H I C CNN "Дата последней правки"
+F11 "Миронова" 0 -50 30 H I C CNN "Автор"
+ALIAS S10K35
+DRAW
+T 0 0 -150 80 0 0 0 U Normal 0 C C
+S -200 -75 200 75 0 1 0 N
+P 3 0 1 0 150 150 -100 -150 -250 -150 N
+X 1 1 -250 0 50 R 60 60 1 1 P
+X 2 2 250 0 50 L 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# P1-12-0,25_PWR
+#
+DEF P1-12-0,25_PWR R 0 0 N N 1 F N
+F0 "R" 0 150 80 H V C CNN
+F1 "P1-12-0,25_PWR" 0 -150 80 H V C CNN
+F2 "Any_PAT" 0 -50 30 H I C CNN
+F3 "Any_DOC" 0 -50 30 H I C CNN
+F4 "Any" 0 0 80 H V C CNN "Номинал"
+F5 "Any" 0 -50 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -50 30 H I C CNN "Мощность"
+F7 "Any" 0 -50 30 H I C CNN "ТКС"
+F8 "Any" 0 -50 30 H I C CNN "Процент"
+F9 "07.09.2010 12:56" 0 -50 30 H I C CNN "Дата создания"
+F10 "17.10.2012_09:31" 0 -50 30 H I C CNN "Дата последней правки"
+F11 "Хлюнев А.А." 0 -50 30 H I C CNN "Автор"
+ALIAS C2-33H-0,25_PWR
+DRAW
+S -200 -75 200 75 0 1 0 N
+X 1 1 -250 0 50 R 60 60 1 1 W
+X 2 2 250 0 50 L 60 60 1 1 w
+ENDDRAW
+ENDDEF
+#
+# S10K35_
+#
+DEF S10K35_ RU 0 0 N N 1 F N
+F0 "RU" 25 325 80 H V C CNN
+F1 "S10K35_" 0 -350 80 H I C CNN
+F2 "K10-17" 0 -50 30 H I C CNN
+F3 "" 0 -50 30 H I C CNN
+F4 "Any" 0 -50 30 H I C CNN "Обозначение по ГОСТ"
+F5 "Any" 0 -50 30 H I C CNN "Мощность"
+F6 "Any" 0 -50 30 H I C CNN "ТКС"
+F7 "Any" 0 -50 30 H I C CNN "Процент"
+F8 "09.04.2015_08:19" 0 -50 30 H I C CNN "Дата создания"
+F9 "20.05.2016_11:02" 0 -50 30 H I C CNN "Дата последней правки"
+F10 "Миронова" 0 -50 30 H I C CNN "Автор"
+ALIAS v39za3p
+DRAW
+T 0 -175 -200 80 0 0 0 U Normal 0 C C
+S 75 -200 -75 200 0 1 0 N
+P 3 0 1 0 125 125 -125 -125 -250 -125 N
+X 1 1 0 -250 50 U 60 60 1 1 P
+X 2 2 0 250 50 D 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# YC124
+#
+DEF YC124 R 0 0 N Y 1 F N
+F0 "R" 0 325 80 H V C CNN
+F1 "YC124" 0 -550 80 H I C CNN
+F2 "Any_PAT" 0 -400 30 H I C CNN
+F3 "Any_DOC" 0 -400 30 H I C CNN
+F4 "Any" 0 -350 80 H I C CNN "Номинал"
+F5 "Any" 0 -400 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -400 30 H I C CNN "Мощность"
+F7 "Any" 0 -400 30 H I C CNN "ТКС"
+F8 "Any" 0 -400 30 H I C CNN "Процент"
+F9 "07.09.2010 12:56" 0 -400 30 H I C CNN "Дата создания"
+F10 "24.09.2015_16:00" 0 -400 30 H I C CNN "Дата последней правки"
+F11 "Хлюнев А.А." 0 -400 30 H I C CNN "Автор"
+ALIAS YC164
+DRAW
+T 0 0 150 79 0 0 0 *R Normal 0 C C
+S -200 250 200 -450 0 1 0 N
+X 1 1 -300 200 100 R 60 79 1 1 P
+X 2 2 -300 0 100 R 60 79 1 1 P
+X 3 3 -300 -200 100 R 60 79 1 1 P
+X 4 4 -300 -400 100 R 60 79 1 1 P
+X 5 5 300 -400 100 L 60 79 1 1 P
+X 6 6 300 -200 100 L 60 79 1 1 P
+X 7 7 300 0 100 L 60 79 1 1 P
+X 8 8 300 200 100 L 60 79 1 1 P
+ENDDRAW
+ENDDEF
+#
+# СП3-19А
+#
+DEF СП3-19А R 0 40 N N 1 F N
+F0 "R" -100 150 80 H V C CNN
+F1 "СП3-19А" 0 -150 80 H V C CNN
+F2 "Any_PAT" 0 -50 30 H I C CNN
+F3 "Any_DOC" 0 -50 30 H I C CNN
+F4 "Any" 0 0 80 H V C CNN "Номинал"
+F5 "Any" 0 -50 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -50 30 H I C CNN "Мощность"
+F7 "Any" 0 -50 30 H I C CNN "ТКС"
+F8 "Any" 0 -50 30 H I C CNN "Процент"
+F9 "10.12.2014_11:39" 0 -50 30 H I C CNN "Дата создания"
+F10 "10.12.2014_11:39" 0 -50 30 H I C CNN "Дата последней правки"
+F11 "Миронова" 0 -50 30 H I C CNN "Автор"
+ALIAS СП3-19Б СП5-2ВБ
+DRAW
+S -200 75 200 -75 0 1 0 N
+P 2 0 1 0 0 200 0 75 N
+P 2 0 1 0 200 200 0 200 N
+P 3 0 1 0 -25 150 0 75 25 150 N
+X 1 1 -400 0 200 R 50 50 1 1 P
+X 2 2 400 0 200 L 50 50 1 1 P
+X 3 3 400 200 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

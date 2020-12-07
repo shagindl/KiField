@@ -1,0 +1,783 @@
+EESchema-LIBRARY Version 2.3  Date: 26.01.2018 9:27:00
+#encoding utf-8
+#
+# AD8500AKSZ
+#
+DEF AD8500AKSZ DA 0 80 Y Y 1 F N
+F0 "DA" 50 600 80 H V C CNN
+F1 "AD8500AKSZ" -25 -600 80 H V C CNN
+F2 "Any_PAT" 550 -475 20 H I C CNN
+F3 "T:\\Components\\AnalogDevices\\Operational Amplifier\\OP07.pdf" 0 -475 10 H I C CNN
+F4 "AD8500AKSZ" 450 -475 20 H I C CNN "Наименование"
+F5 "Any" 350 -475 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -400 -475 20 H I C CNN "Поле3"
+F7 "Any" 500 -475 20 H I C CNN "Поле4"
+F8 "Any" 0 -475 20 H I C CNN "Поле5"
+F9 "10.10.2013_08:49" 175 -475 20 H I C CNN "Дата создания"
+F10 "10.10.2013_08:49" -400 -475 20 H I C CNN "Дата последней коррекции"
+F11 "Миронова" -150 -475 20 H I C CNN "Автор"
+DRAW
+S -598 500 600 -502 0 1 0 N
+P 3 0 1 0  -596 100  -200 100  -200 100 N
+P 3 0 1 0  -200 500  -200 -500  -200 -500 N
+P 3 0 1 0  200 100  558 100  598 100 N
+P 3 0 1 0  200 500  200 -500  200 -500 N
+P 5 0 1 0  -100 400  -100 200  100 300  -100 400  -100 400 N
+X OUT 1 800 300 200 L 80 80 1 1 O
+X -V 2 800 -400 200 L 80 80 1 1 W
+X IN+ 3 -800 200 200 R 80 80 1 1 I
+X IN- 4 -800 400 200 R 80 80 1 1 I I
+X +V 5 800 0 200 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AD9837
+#
+DEF AD9837 DD 0 60 Y Y 1 F N
+F0 "DD" -50 800 80 H V C CNN
+F1 "AD9837" 0 -825 80 H V C CNN
+F2 "10_LFCSP" 50 -350 40 V I C CNN
+F3 "T:\\Components\\AnalogDevices\\DDS\\AD9837.pdf" 150 50 40 V I C CNN
+F4 "AD9837" 50 -400 40 V I C CNN "Наименование"
+F5 "Any" 50 -400 40 V I C CNN "Обозначение по ГОСТ"
+F6 "Any" 50 -400 40 V I C CNN "Поле3"
+F7 "Any" 50 -400 40 V I C CNN "Поле4"
+F8 "Any" 50 -400 40 V I C CNN "Поле5"
+F9 "10.10.2013_16:04" -50 -400 40 V I C CNN "Дата создания"
+F10 "10.10.2013_16:04" -50 200 40 V I C CNN "Дата последней коррекции"
+F11 "Mиронова" 50 50 40 V I C CNN "Автор"
+DRAW
+T 0 0 500 80 0 0 0 DDS  Normal 0 C C
+S -600 700 600 -700 0 1 0 N
+P 2 0 1 0  200 700  200 -700 N
+P 3 0 1 0  -600 300  -200 300  -200 300 N
+P 3 0 1 0  -200 700  -200 400  -200 -700 N
+P 3 0 1 0  200 -100  600 -100  600 -100 N
+X COMP 1 800 400 200 L 80 80 1 1 I
+X VDD 2 -800 200 200 R 80 80 1 1 W
+X CAP 3 -800 0 200 R 80 80 1 1 O
+X DGND 4 -800 -600 200 R 80 80 1 1 W
+X MCLK 5 -800 600 200 R 80 80 1 1 I
+X SDI 6 800 -600 200 L 80 80 1 1 I
+X SCLK 7 800 -400 200 L 80 80 1 1 I
+X SYNC 8 800 -200 200 L 80 80 1 1 I
+X AGND 9 800 0 200 L 80 80 1 1 W
+X VOUT 10 800 600 200 L 80 80 1 1 O
+X EP 11 -800 -400 200 R 80 80 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ADM660AR
+#
+DEF ADM660AR DA 0 40 Y Y 1 F N
+F0 "DA" -100 500 80 H V L CNN
+F1 "ADM660AR" -300 -500 80 H V L CNN
+F2 "SO_8" 0 -250 30 H I C CNN
+F3 "T:\\Components\\AnalogDevices\\VoltageConverters\\ADM660_8660.pdf" 50 -350 20 H I C CNN
+F4 "Any" 50 -275 30 H I C CNN "Наименование"
+F5 "Any" -25 -275 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -275 30 H I C CNN "Поле3"
+F7 "Any" 75 -275 33 H I C CNN "Поле4"
+F8 "Any" 25 -275 30 H I C CNN "Поле5"
+F9 "11.06.2010_13:31" 0 -100 30 H I C CNN "Дата создания"
+F10 "26.01.2012_ 14:17" 0 -150 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." 0 -200 30 H I C CNN "Автор"
+DRAW
+T 0 0 300 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -400  -200 -200 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X FC 1 800 -300 200 L 80 80 1 1 I
+X CAP+ 2 -800 -100 200 R 80 80 1 1 I
+X GND 3 -800 100 200 R 80 80 1 1 W
+X CAP- 4 -800 -300 200 R 80 80 1 1 I
+X Vout 5 800 300 200 L 80 80 1 1 w
+X LV 6 800 -100 200 L 80 80 1 1 O
+X OSC 7 800 100 200 L 80 80 1 1 O
+X +V 8 -800 300 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# ADM8660AR
+#
+DEF ADM8660AR DA 0 40 Y Y 1 F N
+F0 "DA" -100 500 80 H V L CNN
+F1 "ADM8660AR" -300 -500 80 H V L CNN
+F2 "SO_8" 0 -250 30 H I C CNN
+F3 "T:\\Components\\AnalogDevices\\VoltageConverters\\ADM660_8660.pdf" 50 -350 20 H I C CNN
+F4 "Any" 50 -275 30 H I C CNN "Наименование"
+F5 "Any" -25 -275 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -275 30 H I C CNN "Поле3"
+F7 "Any" 75 -275 33 H I C CNN "Поле4"
+F8 "Any" 25 -275 30 H I C CNN "Поле5"
+F9 "11.06.2010_13:31" 0 -100 30 H I C CNN "Дата создания"
+F10 "16.02.2012_15:20" 0 -150 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." 0 -200 30 H I C CNN "Автор"
+DRAW
+T 0 0 300 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -400  -200 -200 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X FC 1 800 -300 200 L 80 80 1 1 I
+X CAP+ 2 -800 -100 200 R 80 80 1 1 I
+X GND 3 -800 100 200 R 80 80 1 1 W
+X CAP- 4 -800 -300 200 R 80 80 1 1 I
+X Vout 5 800 300 200 L 80 80 1 1 O
+X LV 6 800 -100 200 L 80 80 1 1 I
+X SD 7 800 100 200 L 80 80 1 1 I
+X +V 8 -800 300 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AP5100
+#
+DEF AP5100 DD 0 40 Y Y 1 F N
+F0 "DD" 0 350 80 H V C CNN
+F1 "AP5100" 0 -400 80 H V C CNN
+F2 "SOT_23" 0 -250 50 H I C CNN
+F3 "T:\\Components\\Diodes Inc\\AP5100.pdf" 0 -250 30 H I C CNN
+F4 "AP5100" 0 -250 50 H I C CNN "Наименование"
+F5 "Any" -100 -250 60 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -100 -250 50 H I C CNN "Поле3"
+F7 "Any" -50 -250 50 H I C CNN "Поле4"
+F8 "Any" -100 -250 50 H I C CNN "Поле5"
+F9 "25.12.13_10:55" -50 -250 50 H I C CNN "Дата создания"
+F10 "25.12.13_10:55" -50 -250 50 H I C CNN "Дата последней правки"
+F11 "Миронова" -50 -250 50 H I C CNN "Автор"
+DRAW
+T 0 -50 200 80 0 0 0 DC  Normal 0 C C
+T 0 50 -200 80 0 0 0 DC  Normal 0 C C
+S 600 -300 -600 300 0 1 0 N
+P 2 0 1 0  -200 -300  -200 300 N
+P 2 0 1 0  200 300  -200 -300 N
+P 2 0 1 0  200 300  200 -300 N
+X BST 1 800 200 200 L 80 80 1 1 O
+X GND 2 -800 -200 200 R 80 80 1 1 W
+X FB 3 800 -200 200 L 80 80 1 1 I
+X EN 4 -800 0 200 R 80 80 1 1 I
+X Vi 5 -800 200 200 R 80 80 1 1 W
+X SW 6 800 0 200 L 80 80 1 1 O
+ENDDRAW
+ENDDEF
+#
+# B9-1212S
+#
+DEF B9-1212S DA 0 80 Y Y 1 F N
+F0 "DA" 50 600 80 H V C CNN
+F1 "B9-1212S" -25 -600 80 H V C CNN
+F2 "SPB03" 500 -475 20 H I C CNN
+F3 "T:\\Components\\BOTHHAND\\B9-1212S.pdf" -50 -475 10 H I C CNN
+F4 "B9-1212S" 400 -475 20 H I C CNN "Наименование"
+F5 "Any" 300 -475 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -450 -475 20 H I C CNN "Поле3"
+F7 "Any" 450 -475 20 H I C CNN "Поле4"
+F8 "Any" -50 -475 20 H I C CNN "Поле5"
+F9 "30.03.2012_11:32" 125 -475 20 H I C CNN "Дата создания"
+F10 "29.09.2016_10:32" -450 -475 20 H I C CNN "Дата последней коррекции"
+F11 "Миронова" -200 -475 20 H I C CNN "Автор"
+ALIAS B9-2415S2LF
+DRAW
+T 0 0 350 80 0 0 0 *STU  Normal 0 C C
+S -598 500 600 -502 0 1 0 N
+P 2 0 1 0  -600 -100  -200 -100 N
+P 2 0 1 0  -200 100  -200 -500 N
+P 2 0 1 0  -200 100  -200 500 N
+P 2 0 1 0  200 100  200 -500 N
+P 2 0 1 0  200 100  200 500 N
+P 3 0 1 0  200 -100  558 -100  598 -100 N
+X UIN- 1 -800 0 200 R 80 80 1 1 I
+X UNI+ 2 -800 400 200 R 80 80 1 1 I
+X RC 3 -800 -300 200 R 80 80 1 1 P
+X NC 5 700 -200 100 L 80 80 1 1 O
+X UO+ 6 800 400 200 L 80 80 1 1 O
+X UO- 7 800 0 200 L 80 80 1 1 O
+X NC 8 700 -400 100 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# CAT661EVA
+#
+DEF CAT661EVA DA 0 40 Y Y 1 F N
+F0 "DA" -100 500 80 H V L CNN
+F1 "CAT661EVA" -300 -500 80 H V L CNN
+F2 "SO_8" 0 -250 30 H I C CNN
+F3 "T:\\Components\\ON Semiconductor\\Voltage Regulators\\cat661.pdf" 50 -350 30 H I C CNN
+F4 "CAT661EVA" 0 -275 30 H I C CNN "Наименование"
+F5 "Any" -125 -325 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -100 -325 30 H I C CNN "Поле3"
+F7 "Any" 125 -275 33 H I C CNN "Поле4"
+F8 "Any" -125 -275 30 H I C CNN "Поле5"
+F9 "25.01.2018" 0 -150 30 H I C CNN "Дата создания"
+F10 "Денисов_Е.А." 0 -200 30 H I C CNN "Автор"
+F11 "25.012018" 700 1300 30 H I C CNN "Дата последней правки"
+DRAW
+T 0 0 300 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -400  -200 -200 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X FC 1 -800 300 200 R 80 80 1 1 I
+X CAP+ 2 -800 -100 200 R 80 80 1 1 I
+X GND 3 -800 100 200 R 80 80 1 1 W
+X CAP- 4 -800 -300 200 R 80 80 1 1 I
+X Vout 5 800 -300 200 L 80 80 1 1 O
+X LV 6 800 -100 200 L 80 80 1 1 I
+X OSC 7 800 100 200 L 80 80 1 1 I
+X +V 8 800 300 200 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# ICL7660SCBA
+#
+DEF ICL7660SCBA DA 0 40 Y Y 1 F N
+F0 "DA" -100 500 80 H V L CNN
+F1 "ICL7660SCBA" -300 -500 80 H V L CNN
+F2 "SO_8" 0 -250 30 H I C CNN
+F3 "T:\\Components\\Intersil\\Voltage Converters\\ICL7660S.pdf" 50 -350 20 H I C CNN
+F4 "ICL7660SCBA" 50 -275 30 H I C CNN "Наименование"
+F5 "Any" -25 -275 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -275 30 H I C CNN "Поле3"
+F7 "Any" 75 -275 33 H I C CNN "Поле4"
+F8 "Any" 25 -275 30 H I C CNN "Поле5"
+F9 "01.11.2011_16:10" 0 -100 30 H I C CNN "Дата создания"
+F10 "01.11.2011_16:10" 0 -150 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 0 -200 30 H I C CNN "Автор"
+DRAW
+T 0 0 300 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -400  -200 -200 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X TEST 1 800 -300 200 L 80 80 1 1 I
+X CAP+ 2 -800 -100 200 R 80 80 1 1 I
+X GND 3 -800 100 200 R 80 80 1 1 W
+X CAP- 4 -800 -300 200 R 80 80 1 1 I
+X Vout 5 800 300 200 L 80 80 1 1 w
+X LV 6 800 -100 200 L 80 80 1 1 O
+X OSC 7 800 100 200 L 80 80 1 1 I
+X VIN 8 -800 300 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# L7805CD2T
+#
+DEF L7805CD2T DA 0 40 Y Y 1 F N
+F0 "DA" -100 400 80 H V L CNN
+F1 "L7805CD2T" -300 -400 80 H V L CNN
+F2 "TO-263AB" 0 0 30 H I C CNN
+F3 "Any_DOC" 0 -275 20 H I C CNN
+F4 "L7805CD2T-TR" 0 -200 30 H I C CNN "Наименование"
+F5 "Any" -150 -225 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -50 -225 30 H I C CNN "Поле3"
+F7 "Any" 50 -225 30 H I C CNN "Поле4"
+F8 "Any" 150 -225 30 H I C CNN "Поле5"
+F9 "07.04.2015_15:16" 0 -150 30 H I C CNN "Дата создания"
+F10 "07.04.2015_15:16" 0 -100 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 0 -50 30 H I C CNN "Автор"
+ALIAS L7815CD2T
+DRAW
+T 0 0 200 80 0 0 0 *STU  Normal 0 C C
+S -600 300 600 -300 0 1 0 N
+P 3 0 1 0  -200 300  -200 -300  -200 -300 N
+P 3 0 1 0  200 300  200 -300  200 -300 N
+X Vin 1 -800 200 200 R 80 80 1 1 W
+X Vout 2 800 200 200 L 80 80 1 1 w
+X GND 3 800 -200 200 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# L78L05CD13TR
+#
+DEF L78L05CD13TR DA 0 40 Y Y 1 F N
+F0 "DA" -100 500 80 H V L CNN
+F1 "L78L05CD13TR" -450 -500 80 H V L CNN
+F2 "SO_8" 0 -350 30 H I C CNN
+F3 "T:\\Components\\STMicroelectronics\\Voltage Regulator\\L78Lxx.pdf" -50 -350 20 H I C CNN
+F4 "Any" -50 -325 30 H I C CNN "Наименование"
+F5 "Any" -125 -325 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -325 30 H I C CNN "Поле3"
+F7 "Any" 75 -325 30 H I C CNN "Поле4"
+F8 "Any" -125 -325 30 H I C CNN "Поле5"
+F9 "11.06.2010 13:31" -200 -350 30 H I C CNN "Дата создания"
+F10 "06.09.2011 15:07" -100 -350 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." -50 -350 30 H I C CNN "Автор"
+DRAW
+T 0 0 300 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -600 200  -200 200  -200 200 N
+P 3 0 1 0  -200 400  -200 -400  -200 -200 N
+P 3 0 1 0  200 200  600 200  600 200 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X Vout 1 800 300 200 L 80 80 1 1 w
+X GND 2 800 100 200 L 80 80 1 1 W
+X GND 3 800 -100 200 L 80 80 1 1 W
+X NC 4 700 -300 100 L 80 80 1 1 N
+X NC 5 -700 -300 100 R 80 80 1 1 N
+X GND 6 -800 -100 200 R 80 80 1 1 W
+X GND 7 -800 100 200 R 80 80 1 1 W
+X Vin 8 -800 300 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# L78L09CZ
+#
+DEF L78L09CZ DA 0 40 Y Y 1 F N
+F0 "DA" -100 400 80 H V L CNN
+F1 "L78L09CZ" -300 -400 80 H V L CNN
+F2 "TO_92" 50 -250 30 H I C CNN
+F3 "T:\\Components\\STMicroelectronics\\Voltage Regulator\\L78Lxx.pdf" 0 -250 20 H I C CNN
+F4 "Any" -50 -175 30 H I C CNN "Наименование"
+F5 "Any" -125 -175 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -175 30 H I C CNN "Поле3"
+F7 "Any" 75 -175 30 H I C CNN "Поле4"
+F8 "Any" -125 -175 30 H I C CNN "Поле5"
+F9 "11.06.2010_13:31" -150 -250 30 H I C CNN "Дата создания"
+F10 "15.09.2011_13:13" -50 -250 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." 0 -250 30 H I C CNN "Автор"
+DRAW
+T 0 0 200 80 0 0 0 *STU  Normal 0 C C
+S -600 300 600 -300 0 1 0 N
+P 3 0 1 0  -200 300  -200 -300  -200 -300 N
+P 3 0 1 0  200 300  200 -300  200 -300 N
+X Vout 1 800 200 200 L 80 80 1 1 W
+X GND 2 800 -200 200 L 80 80 1 1 W
+X Vin 3 -800 200 200 R 80 80 1 1 w
+ENDDRAW
+ENDDEF
+#
+# LD1117DT33TR
+#
+DEF LD1117DT33TR DA 0 40 Y Y 1 F N
+F0 "DA" -100 400 80 H V L CNN
+F1 "LD1117DT33TR" -450 -400 80 H V L CNN
+F2 "DPAK" 0 0 30 H I C CNN
+F3 "T:\\Components\\STMicroelectronics\\Voltage Regulator\\LD1117.pdf" 0 -275 20 H I C CNN
+F4 "LD1117DT33TR" 0 -200 30 H I C CNN "Наименование"
+F5 "Any" -150 -225 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -50 -225 30 H I C CNN "Поле3"
+F7 "Any" 50 -225 30 H I C CNN "Поле4"
+F8 "Any" 150 -225 30 H I C CNN "Поле5"
+F9 "09.02.2015_14:38" 0 -150 30 H I C CNN "Дата создания"
+F10 "09.02.2015_14:38" 0 -100 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 0 -50 30 H I C CNN "Автор"
+DRAW
+T 0 0 200 80 0 0 0 *STU  Normal 0 C C
+S -600 300 600 -300 0 1 0 N
+P 3 0 1 0  -200 300  -200 -300  -200 -300 N
+P 3 0 1 0  200 300  200 -300  200 -300 N
+X GND 1 -800 200 200 R 80 80 1 1 W
+X Vout 2 800 200 200 L 80 80 1 1 w
+X Vin 3 800 -200 200 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM2760M5
+#
+DEF LM2760M5 DA 0 40 Y Y 1 F N
+F0 "DA" -100 375 80 H V L CNN
+F1 "LM2760M5" -375 -350 80 H V L CNN
+F2 "SOT_23_5" -225 -250 30 H I C CNN
+F3 "Any_DOC" -25 -250 30 H I C CNN
+F4 "LM2760M5" 300 -250 30 H I C CNN "Наименование"
+F5 "Any" -250 -200 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -150 -200 30 H I C CNN "Поле3"
+F7 "Any" -50 -200 30 H I C CNN "Поле4"
+F8 "Any" 50 -200 30 H I C CNN "Поле5"
+F9 "27.04.2012_12:55" 0 -150 30 H I C CNN "Дата создания"
+F10 "27.04.2012_12:55" 0 -100 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 200 -200 30 H I C CNN "Автор"
+DRAW
+T 0 0 175 80 0 0 0 *STU  Normal 0 C C
+S -600 300 600 -275 0 1 0 N
+P 3 0 1 0  -200 300  -200 -275  -200 -275 N
+P 3 0 1 0  200 300  200 -275  200 -275 N
+X Vin 1 800 200 200 L 80 80 1 1 W
+X GND 2 800 -200 200 L 80 80 1 1 W
+X Vout 3 -800 200 200 R 80 80 1 1 w
+X CAP+ 4 -800 -200 200 R 80 80 1 1 P
+X CAP- 5 -800 0 200 R 80 80 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LP2985AIM5-3.5
+#
+DEF LP2985AIM5-3.5 DA 0 40 Y Y 1 F N
+F0 "DA" -100 375 80 H V L CNN
+F1 "LP2985AIM5-3.5" -475 -350 80 H V L CNN
+F2 "Any_PAT" -225 -250 30 H I C CNN
+F3 "Any_DOC" -25 -250 30 H I C CNN
+F4 "LP2985AIM5-3.5" 300 -250 30 H I C CNN "Наименование"
+F5 "Any" -250 -200 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -150 -200 30 H I C CNN "Поле3"
+F7 "Any" -50 -200 30 H I C CNN "Поле4"
+F8 "Any" 50 -200 30 H I C CNN "Поле5"
+F9 "02.09.20110_11:52" 0 -150 30 H I C CNN "Дата создания"
+F10 "01.03.2013_11:21" 0 -100 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев" 200 -200 30 H I C CNN "Автор"
+ALIAS LT1761ES5-5 LT1761ES5-3.3 LP2985AIM5-3.3
+DRAW
+T 0 0 175 80 0 0 0 *STU  Normal 0 C C
+S -600 300 600 -275 0 1 0 N
+P 3 0 1 0  -200 300  -200 -275  -200 -275 N
+P 3 0 1 0  200 300  200 -275  200 -275 N
+X Vin 1 -800 200 200 R 80 80 1 1 W
+X GND 2 -800 -200 200 R 80 80 1 1 W
+X ON 3 -800 0 200 R 80 80 1 1 I
+X BP 4 800 -200 200 L 80 80 1 1 I
+X Vout 5 800 200 200 L 80 80 1 1 w
+ENDDRAW
+ENDDEF
+#
+# LP3981IMM-3.3
+#
+DEF LP3981IMM-3.3 DA 0 40 Y Y 1 F N
+F0 "DA" -100 475 80 H V L CNN
+F1 "LP3981IMM-3.3" -475 -500 80 H V L CNN
+F2 "SSOP_8" -225 -375 30 H I C CNN
+F3 "Any_DOC" -25 -375 30 H I C CNN
+F4 "LP3981IMM-3.3" 300 -375 30 H I C CNN "Наименование"
+F5 "Any" -250 -325 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -150 -325 30 H I C CNN "Поле3"
+F7 "Any" -50 -325 30 H I C CNN "Поле4"
+F8 "Any" 50 -325 30 H I C CNN "Поле5"
+F9 "27.09.2017_11:00" 0 -275 30 H I C CNN "Дата создания"
+F10 "27.09.2017_11:00" 0 -225 30 H I C CNN "Дата последней коррекции"
+F11 "Денисов" -50 -175 30 H I C CNN "Автор"
+DRAW
+T 0 0 275 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -400  -200 -175 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X Vout 1 800 300 200 L 80 80 1 1 w
+X Vin 2 -800 300 200 R 80 80 1 1 W
+X NC 3 -800 -100 200 R 80 80 1 1 N
+X Vosen 4 800 100 200 L 80 80 1 1 O
+X GND 5 -800 -300 200 R 80 80 1 1 W
+X BP 6 800 -100 200 L 80 80 1 1 I
+X Ven 7 -800 100 200 R 80 80 1 1 I
+X NC 8 800 -300 200 L 80 80 1 1 N
+ENDDRAW
+ENDDEF
+#
+# MCP1252T
+#
+DEF MCP1252T DA 0 40 Y Y 1 F N
+F0 "DA" -100 500 80 H V L CNN
+F1 "MCP1252T" -300 -500 80 H V L CNN
+F2 "TSSOP_8" 0 -350 30 H I C CNN
+F3 "T:\\Components\\Microchip\\Charge Pump\\MCP1252.pdf" 0 -350 20 H I C CNN
+F4 "Any" 50 -275 30 H I C CNN "Наименование"
+F5 "Any" -25 -275 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -275 30 H I C CNN "Поле3"
+F7 "Any" 75 -275 30 H I C CNN "Поле4"
+F8 "Any" 25 -275 30 H I C CNN "Поле5"
+F9 "14.01.2011 10:03" 50 -350 30 H I C CNN "Дата создания"
+F10 "09.11.2012_11:19" 0 -350 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." 50 -350 30 H I C CNN "Автор"
+DRAW
+T 0 0 300 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -400  -200 -200 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X PG 1 800 -300 200 L 80 80 1 1 I
+X Vout 2 800 300 200 L 80 80 1 1 w
+X Vin 3 -800 300 200 R 80 80 1 1 W
+X GND 4 -800 100 200 R 80 80 1 1 W
+X CAP- 5 -800 -300 200 R 80 80 1 1 I
+X CAP+ 6 -800 -100 200 R 80 80 1 1 I
+X ~SD 7 800 100 200 L 80 80 1 1 I I
+X SEL 8 800 -100 200 L 80 80 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP1252T-33X50I/MS
+#
+DEF MCP1252T-33X50I/MS DA 0 40 Y Y 1 F N
+F0 "DA" -100 500 80 H V L CNN
+F1 "MCP1252T-33X50I/MS" -750 -500 80 H V L CNN
+F2 "TSSOP_8" 0 -350 30 H I C CNN
+F3 "T:\\Components\\Microchip\\Charge Pump\\MCP1252.pdf" 0 -350 20 H I C CNN
+F4 "Any" 50 -275 30 H I C CNN "Наименование"
+F5 "Any" -25 -275 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -275 30 H I C CNN "Поле3"
+F7 "Any" 75 -275 30 H I C CNN "Поле4"
+F8 "Any" 25 -275 30 H I C CNN "Поле5"
+F9 "14.01.2011 10:03" 50 -350 30 H I C CNN "Дата создания"
+F10 "09.11.2012_11:20" 0 -350 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." 50 -350 30 H I C CNN "Автор"
+DRAW
+T 0 0 300 80 0 0 0 *STU  Normal 0 C C
+S -600 400 600 -400 0 1 0 N
+P 3 0 1 0  -200 400  -200 -400  -200 -200 N
+P 3 0 1 0  200 400  200 -400  200 -400 N
+X PG 1 800 -300 200 L 80 80 1 1 I
+X Vout 2 800 300 200 L 80 80 1 1 w
+X Vin 3 -800 300 200 R 80 80 1 1 W
+X GND 4 -800 100 200 R 80 80 1 1 W
+X CAP- 5 -800 -300 200 R 80 80 1 1 I
+X CAP+ 6 -800 -100 200 R 80 80 1 1 I
+X ~SD 7 800 100 200 L 80 80 1 1 I I
+X SEL 8 800 -100 200 L 80 80 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP73123-22S/MF
+#
+DEF MCP73123-22S/MF DA 0 40 Y Y 1 F N
+F0 "DA" -100 700 80 H V L CNN
+F1 "MCP73123-22S/MF" -600 -700 80 H V L CNN
+F2 "10_LFCSP" 0 -550 30 H I C CNN
+F3 "T:\\Components\\Microchip\\Battery Charge Controllers\\MCP73123_22S_MF.pdf" 0 -550 20 H I C CNN
+F4 "Any" 50 -475 30 H I C CNN "Наименование"
+F5 "Any" -25 -475 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -475 30 H I C CNN "Поле3"
+F7 "Any" 75 -475 30 H I C CNN "Поле4"
+F8 "Any" 25 -475 30 H I C CNN "Поле5"
+F9 "25.10.2013_13:21" 50 -550 30 H I C CNN "Дата создания"
+F10 "25.10.2013_13:21" 0 -550 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 50 -550 30 H I C CNN "Автор"
+ALIAS MCP73223-C2S/MF
+DRAW
+T 0 0 500 80 0 0 0 *STU  Normal 0 C C
+S -600 600 600 -600 0 1 0 N
+P 3 0 1 0  -200 600  -200 -600  -200 -200 N
+P 3 0 1 0  200 600  200 -600  200 -400 N
+X Vdd 1 -800 300 200 R 80 80 1 1 W
+X Vdd 2 -800 100 200 R 80 80 1 1 W
+X Vbat 3 800 500 200 L 80 80 1 1 W
+X Vbat 4 800 300 200 L 80 80 1 1 W
+X NC 5 -800 -100 200 R 80 80 1 1 N
+X NC 6 -800 -300 200 R 80 80 1 1 N
+X STAT 7 -800 500 200 R 80 80 1 1 B
+X Vss 8 800 -300 200 L 80 80 1 1 W
+X Vss 9 800 -500 200 L 80 80 1 1 W
+X PROG 10 800 100 200 L 80 80 1 1 B
+X DGND 11 -800 -500 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MP2481
+#
+DEF MP2481 DA 0 40 Y Y 1 F N
+F0 "DA" 0 600 80 H V C CNN
+F1 "MP2481" 0 -600 80 H V C CNN
+F2 "TSSOP_8" 100 -400 30 V I C CNN
+F3 "T:\\Components\\MPS\\mp2481.pdf" 150 -250 20 V I C CNN
+F4 "MP2481" 50 -300 30 V I C CNN "Наименование"
+F5 "Any" 50 -450 30 V I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -450 30 V I C CNN "Поле3"
+F7 "Any" 50 -150 30 V I C CNN "Поле4"
+F8 "Any" 100 -250 30 V I C CNN "Поле5"
+F9 "05.10.11_09:51" -50 -300 30 V I C CNN "Дата создания"
+F10 "09.11.12_11:23" -100 -300 30 V I C CNN "Дата последней правки"
+F11 "Миронова" 0 -250 30 V I C CNN "Автор"
+DRAW
+T 0 0 400 80 0 0 0 *STU  Normal 0 C C
+S -600 500 600 -500 0 1 0 N
+P 2 0 1 0  -200 500  -200 -500 N
+P 2 0 1 0  200 500  200 -500 N
+X VDD 1 -800 400 200 R 80 80 1 1 W
+X VSS 2 -800 -400 200 R 80 80 1 1 W
+X 0VP 3 800 400 200 L 80 80 1 1 I
+X FB 4 800 -400 200 L 80 80 1 1 I
+X EN 5 -800 200 200 R 80 75 1 1 I
+X INGND 6 -800 -200 200 R 80 80 1 1 I
+X BST 7 800 -200 200 L 80 80 1 1 I
+X SW 8 800 200 200 L 80 80 1 1 O
+ENDDRAW
+ENDDEF
+#
+# NCP1117STAT3
+#
+DEF NCP1117STAT3 DA 0 40 Y Y 1 F N
+F0 "DA" -100 400 80 H V L CNN
+F1 "NCP1117STAT3" -450 -400 80 H V L CNN
+F2 "SOT_223_3" -50 -250 30 H I C CNN
+F3 "T:\\Components\\ON Semiconductor\\Voltage Regulators\\NCP1117.PDF" 0 -250 20 H I C CNN
+F4 "Any" 50 -225 30 H I C CNN "Наименование"
+F5 "Any" -25 -225 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -225 30 H I C CNN "Поле3"
+F7 "Any" 75 -225 33 H I C CNN "Поле4"
+F8 "Any" 25 -225 30 H I C CNN "Поле5"
+F9 "01.07.2010_15:16" -100 -250 30 H I C CNN "Дата создания"
+F10 "29.12.2016_09:02" 50 -250 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." -200 -250 30 H I C CNN "Автор"
+DRAW
+T 0 0 200 80 0 0 0 *STU  Normal 0 C C
+S -600 300 600 -300 0 1 0 N
+P 3 0 1 0  -200 300  -200 -300  -200 -300 N
+P 3 0 1 0  200 300  200 -300  200 -300 N
+X Adj 1 -800 -200 200 R 80 80 1 1 W
+X Vout 2 800 200 200 L 80 80 1 1 w
+X Vin 3 -800 200 200 R 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# PSR-7805LF
+#
+DEF PSR-7805LF DA 0 40 Y Y 1 F N
+F0 "DA" -100 400 80 H V L CNN
+F1 "PSR-7805LF" -450 -400 80 H V L CNN
+F2 "Any_PAD" 0 0 30 H I C CNN
+F3 "Any_DOC" 0 -275 20 H I C CNN
+F4 "Any" 0 -200 30 H I C CNN "Наименование"
+F5 "Any" -150 -225 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -50 -225 30 H I C CNN "Поле3"
+F7 "Any" 50 -225 30 H I C CNN "Поле4"
+F8 "Any" 150 -225 30 H I C CNN "Поле5"
+F9 "01.07.2010_15:16" 0 -150 30 H I C CNN "Дата создания"
+F10 "09.02.2015_14:38" 0 -100 30 H I C CNN "Дата последней коррекции"
+F11 "Хлюнев А.А." 0 -50 30 H I C CNN "Автор"
+ALIAS L7812 L7805 L7805ABV
+DRAW
+T 0 0 200 80 0 0 0 *STU  Normal 0 C C
+S -600 300 600 -300 0 1 0 N
+P 3 0 1 0  -200 300  -200 -300  -200 -300 N
+P 3 0 1 0  200 300  200 -300  200 -300 N
+X Vin 1 -800 200 200 R 80 80 1 1 W
+X GND 2 800 -200 200 L 80 80 1 1 W
+X Vout 3 800 200 200 L 80 80 1 1 w
+ENDDRAW
+ENDDEF
+#
+# SPB03A-12
+#
+DEF SPB03A-12 DA 0 80 Y Y 1 F N
+F0 "DA" 50 600 80 H V C CNN
+F1 "SPB03A-12" -25 -600 80 H V C CNN
+F2 "SPB03" 500 -475 20 H I C CNN
+F3 "T:\\Components\\Mean Well\\DC_DC\\spb03-spec.pdf" -50 -475 10 H I C CNN
+F4 "SPB03A-12" 400 -475 20 H I C CNN "Наименование"
+F5 "Any" 300 -475 20 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -450 -475 20 H I C CNN "Поле3"
+F7 "Any" 450 -475 20 H I C CNN "Поле4"
+F8 "Any" -50 -475 20 H I C CNN "Поле5"
+F9 "12.12.2011_13:21" 125 -475 20 H I C CNN "Дата создания"
+F10 "12.12.2011_13:21" -450 -475 20 H I C CNN "Дата последней коррекции"
+F11 "Миронова" -200 -475 20 H I C CNN "Автор"
+DRAW
+T 0 0 350 80 0 0 0 *STU  Normal 0 C C
+S -598 500 600 -502 0 1 0 N
+P 2 0 1 0  -600 -100  -200 -100 N
+P 2 0 1 0  -200 100  -200 -500 N
+P 2 0 1 0  -200 100  -200 500 N
+P 2 0 1 0  200 100  200 -500 N
+P 2 0 1 0  200 100  200 500 N
+P 3 0 1 0  200 -100  558 -100  598 -100 N
+X UIN- 1 -800 0 200 R 80 80 1 1 I
+X UNI+ 2 -800 400 200 R 80 80 1 1 I
+X RC 3 -800 -300 200 R 80 80 1 1 P
+X NC 5 700 -200 100 L 80 80 1 1 O
+X UO+ 6 800 400 200 L 80 80 1 1 O
+X UO- 7 800 0 200 L 80 80 1 1 O
+X NC 8 700 -400 100 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TPS60101PWP
+#
+DEF TPS60101PWP DA 0 40 Y Y 1 F N
+F0 "DA" -100 1600 80 H V L CNN
+F1 "TPS60101PWP" -450 -1600 80 H V L CNN
+F2 "TSSOP_20" -50 -1450 30 H I C CNN
+F3 "T:\\Components\\TexasInstruments\\Power\\tps60101.pdf" -50 -1450 20 H I C CNN
+F4 "TPS60101PWR" 0 -1375 30 H I C CNN "Наименование"
+F5 "Any" -25 -1375 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -50 -1375 30 H I C CNN "Поле3"
+F7 "Any" -25 -1325 30 H I C CNN "Поле4"
+F8 "Any" -25 -1375 30 H I C CNN "Поле5"
+F9 "04.05.2012_09:56" 0 -1450 30 H I C CNN "Дата создания"
+F10 "27.03.2013_13:16" -50 -1450 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 0 -1450 30 H I C CNN "Автор"
+DRAW
+T 0 0 1400 80 0 0 0 *STU  Normal 0 C C
+S -600 1500 600 -1500 0 1 0 N
+P 3 0 1 0  -200 1500  -200 -1500  -200 900 N
+P 3 0 1 0  200 1500  200 -1500  200 700 N
+X GND 1 800 -1200 200 L 80 80 1 1 W
+X SYNC 2 -800 400 200 R 80 80 1 1 I
+X EN 3 -800 0 200 R 80 80 1 1 I
+X FB 4 800 0 200 L 80 80 1 1 W
+X OUT 5 800 -400 200 L 80 80 1 1 w
+X C1+ 6 -800 1400 200 R 80 80 1 1 P
+X IN 7 -800 -200 200 R 80 80 1 1 W
+X C1- 8 -800 1000 200 R 80 80 1 1 P
+X PGND 9 800 -800 200 L 80 80 1 1 W
+X PGND 10 800 -1000 200 L 80 80 1 1 W
+X GND 20 -800 -1200 200 R 80 80 1 1 W
+X PGND 11 -800 -800 200 R 80 80 1 1 W
+X TP 21 800 -1400 200 L 80 80 1 1 W
+X PGND 12 -800 -1000 200 R 80 80 1 1 W
+X C2- 13 800 1000 200 L 80 80 1 1 P
+X IN 14 -800 -400 200 R 80 80 1 1 W
+X C2+ 15 800 1400 200 L 80 80 1 1 P
+X OUT 16 800 -200 200 L 80 80 1 1 w
+X SKIP 17 -800 200 200 R 80 80 1 1 I
+X COM 18 -800 600 200 R 80 80 1 1 I
+X 3V8 19 -800 800 200 R 80 80 1 1 I
+ENDDRAW
+ENDDEF
+#
+# TPS62220DDC
+#
+DEF TPS62220DDC DD 0 40 Y Y 1 F N
+F0 "DD" 0 350 80 H V C CNN
+F1 "TPS62220DDC" 0 -400 80 H V C CNN
+F2 "SOT_G5" 0 -250 50 H I C CNN
+F3 "T:\\Components\\TexasInstruments\\DCDCconverter\\tps62220.pdf" 0 -250 30 H I C CNN
+F4 "TPS62220DDC" 0 -250 50 H I C CNN "Наименование"
+F5 "Any" -100 -250 60 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" -100 -250 50 H I C CNN "Поле3"
+F7 "Any" -50 -250 50 H I C CNN "Поле4"
+F8 "Any" -100 -250 50 H I C CNN "Поле5"
+F9 "12.12.13_13:04" -50 -250 50 H I C CNN "Дата создания"
+F10 "12.12.13_13:04" -50 -250 50 H I C CNN "Дата последней правки"
+F11 "Миронова" -50 -250 50 H I C CNN "Автор"
+DRAW
+T 0 -50 200 80 0 0 0 DC  Normal 0 C C
+T 0 50 -200 80 0 0 0 DC  Normal 0 C C
+S 600 -300 -600 300 0 1 0 N
+P 2 0 1 0  -200 -300  -200 300 N
+P 2 0 1 0  200 300  -200 -300 N
+P 2 0 1 0  200 300  200 -300 N
+X Vi 1 -800 200 200 R 80 80 1 1 W
+X GND 2 -800 -200 200 R 80 80 1 1 W
+X EN 3 -800 0 200 R 80 80 1 1 I
+X FB 4 800 -200 200 L 80 80 1 1 I
+X SW 5 800 200 200 L 80 80 1 1 O
+ENDDRAW
+ENDDEF
+#
+# TPS63031
+#
+DEF TPS63031 DA 0 40 Y Y 1 F N
+F0 "DA" -100 700 80 H V L CNN
+F1 "TPS63031" -250 -700 80 H V L CNN
+F2 "TPS63031" 0 -550 30 H I C CNN
+F3 "T:\\Components\\TexasInstruments\\Power\\tps63030.pdf" 0 -550 20 H I C CNN
+F4 "TPS63031DSKP" 50 -475 30 H I C CNN "Наименование"
+F5 "Any" 25 -475 30 H I C CNN "Обозначение по ГОСТ"
+F6 "Any" 0 -475 30 H I C CNN "Поле3"
+F7 "Any" 25 -425 30 H I C CNN "Поле4"
+F8 "Any" 25 -475 30 H I C CNN "Поле5"
+F9 "04.05.2012_09:56" 50 -550 30 H I C CNN "Дата создания"
+F10 "08.04.2013_12:43" 0 -550 30 H I C CNN "Дата последней коррекции"
+F11 "Миронова" 50 -550 30 H I C CNN "Автор"
+DRAW
+T 0 0 500 80 0 0 0 *STU  Normal 0 C C
+S -600 600 600 -600 0 1 0 N
+P 2 0 1 0  -200 -600  -200 600 N
+P 2 0 1 0  200 -600  200 600 N
+X Vout 1 750 300 150 L 80 80 1 1 w
+X L2 2 750 500 150 L 80 80 1 1 P
+X PGND 3 750 -300 150 L 80 80 1 1 W
+X L1 4 -750 500 150 R 80 80 1 1 P
+X Vin 5 -750 300 150 R 80 80 1 1 w
+X EN 6 -750 -500 150 R 80 80 1 1 I
+X SYNC 7 -750 -100 150 R 80 80 1 1 I
+X VinA 8 -750 100 150 R 80 80 1 1 P
+X GND 9 -750 -300 150 R 80 80 1 1 W
+X FB 10 750 100 150 L 80 80 1 1 W
+X PPAD 11 750 -500 150 L 80 80 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

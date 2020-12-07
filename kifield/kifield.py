@@ -207,7 +207,7 @@ def csvfile_to_wb(csv_filename):
         DEBUG_DETAILED,
         'Converting CSV file {} into an XLSX workbook.'.format(csv_filename))
 
-    with open(csv_filename) as csv_file:
+    with open(csv_filename, 'r', encoding='utf-8') as csv_file:
         dialect = csv.Sniffer().sniff(csv_file.read())
         if USING_PYTHON2:
             for attr in dir(dialect):
@@ -235,7 +235,7 @@ def wb_to_csvfile(wb, csv_filename, dialect):
     mode = 'w'
     if USING_PYTHON2:
         mode += 'b'
-    with open(csv_filename, mode) as csv_file:
+    with open(csv_filename, mode, encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file, dialect=dialect, lineterminator='\n')
         for row in ws.rows:
             writer.writerow([cell.value for cell in row])
@@ -359,7 +359,7 @@ def cull_list(fields, inc_fields=None, exc_fields=None):
         pass
 
 
-def extract_part_fields_from_wb(wb, inc_field_names=None, exc_field_names=None, recurse=False):
+def extract_part_fields_from_wb(wb, inc_field_names=None, exc_field_names=None, fNeedExplode=True):
     '''Return a dictionary of part fields extracted from an XLSX workbook.'''
 
     part_fields = {}  # Start with an empty part dictionary.
@@ -403,8 +403,11 @@ def extract_part_fields_from_wb(wb, inc_field_names=None, exc_field_names=None, 
 
             # Explode the part reference into its individual references and
             # assign the field values to each part.
-            for single_ref in explode(ref):
-                part_fields[single_ref] = field_values
+            if fNeedExplode :
+                for single_ref in explode(ref):
+                    part_fields[single_ref] = field_values
+            else:
+                part_fields[ref] = field_values
 
     except FindLabelError:
         logger.warn('No references column found.')
@@ -442,7 +445,7 @@ def extract_part_fields_from_csv(filename, inc_field_names=None, exc_field_names
     try:
         # Convert the CSV file into an XLSX workbook object and extract fields from that.
         wb,_ = csvfile_to_wb(filename)
-        return extract_part_fields_from_wb(wb, inc_field_names, exc_field_names)
+        return extract_part_fields_from_wb(wb, inc_field_names, exc_field_names, False)
     except FieldExtractionError:
         logger.warn('Field extraction failed on {}.'.format(filename))
     return {}
@@ -511,7 +514,7 @@ def extract_part_fields_from_sch(filename, inc_field_names=None, exc_field_names
 
         # Create a dictionary entry for each ref and assign the part fields to it.
         for ref in get_component_refs(component):
-            if ref[0] == '#' or ref[-1] == '?':
+            if ref[-1] == '?':
                 continue  # Skip pseudo-parts (e.g. power nets) and unallocated parts.
 
             # Some components (like resistor arrays) contain multiple units.
@@ -649,6 +652,47 @@ def extract_part_fields_from_dcm(filename, inc_field_names=None, exc_field_names
 
     return part_fields_dict
 
+def extract_part_fields_from_xml(filename, inc_field_names=None, exc_field_names=None, recurse=False):
+    '''Return a dictionary of part fields extracted from a part description file.'''
+
+    logger.log(DEBUG_OVERVIEW,
+               'Extracting fields {}, -{} from xml netfile {}.'.format(inc_field_names, exc_field_names,
+                                                                   filename))
+
+    part_fields_dict = {}  # Start with an empty part dictionary.
+
+    try:
+        net = kicad_netlist_reader.netlist(filename)
+    except IOError:
+        return part_fields_dict  # Return empty part fields dict if no XML file found.
+
+    # Start with DCM field names and keep the desired ones.
+    field_names = deepcopy(dcm_field_names)
+    cull_list(field_names, inc_field_names, exc_field_names)
+
+    # Go through each component, extracting its fields.
+    #for component in dcm.components:
+    #    component_name = component.name
+
+    #    # Get the fields and their values from the component.
+    #    part_fields = {}
+    #    for name in field_names:
+    #        value = getattr(component, name, None)
+    #        if value is not None:
+    #            logger.log(DEBUG_OBSESSIVE,
+    #               'Extracted part description: {} {} {}.'.format(
+    #                   component_name, name, value))
+    #            part_fields[name] = value
+
+    #    # Create a dictionary entry for this library component.
+    #    part_fields_dict[component_name] = part_fields
+
+    if logger.isEnabledFor(DEBUG_DETAILED):
+        print('Extracted Part Fields:')
+        pprint(part_fields_dict)
+
+    return part_fields_dict
+
 
 def combine_part_field_dicts(from_dict, to_dict, do_union=True):
     '''Combine two part field dictionaries.'''
@@ -688,6 +732,7 @@ def extract_part_fields(filenames, inc_field_names=None, exc_field_names=None, r
         '.tsv': extract_part_fields_from_csv,
         '.csv': extract_part_fields_from_csv,
         '.sch': extract_part_fields_from_sch,
+        '.xml': extract_part_fields_from_xml,
         '.lib': extract_part_fields_from_lib,
         '.dcm': extract_part_fields_from_dcm,
     }
@@ -735,11 +780,11 @@ def insert_part_fields_into_wb(part_fields_dict, wb, recurse=False):
     id_label = 'Refs'
 
     # Get all the unique field labels used in the dictionary of part fields.
-    field_labels = set([])
+    field_labels = []
     for fields_and_values in part_fields_dict.values():
         for field_label in fields_and_values:
-            field_labels.add(field_label)
-    field_labels = sorted(field_labels)
+            if field_labels.count(field_label) == 0:
+                field_labels.append(field_label)
     field_labels.insert(0, id_label)
 
     if wb is None:
@@ -1025,7 +1070,7 @@ def insert_part_fields_into_sch(part_fields_dict, filename, recurse, group_compo
 
                 # Canonically order the fields to make schematic comparisons
                 # easier during acceptance testing.
-                component.fields = reorder_sch_fields(component.fields)
+                # component.fields = reorder_sch_fields(component.fields)
 
     # Save the updated schematic.
     sch.save(filename)
@@ -1113,6 +1158,7 @@ def insert_part_fields_into_lib(part_fields_dict, filename, recurse, group_compo
                     # Copy an existing field from the component and then
                     # update its name and value to create a new field.
                     new_field = deepcopy(component.fields[-1])
+                    new_field['text_size'] = '80'
                     new_field['fieldname'] = quote(field_name)
                     new_field['name'] = quote(field_value)
                     component.fields.append(new_field)
@@ -1124,8 +1170,9 @@ def insert_part_fields_into_lib(part_fields_dict, filename, recurse, group_compo
         component.fields = [
             f
             for f in component.fields
-            if unquote(f.get('fieldname', None)) in (None, '', '~') or unquote(
-                f.get('name', None)) not in (None, '')
+                if unquote(f.get('reference', None)) != None or
+                   unquote(f.get('fieldname', None)) == '' or
+                   unquote(f.get('fieldname', None)) not in (None, '') and unquote(f.get('name', None)) not in (None, '')
         ]
 
     # Save the updated library.
@@ -1146,7 +1193,7 @@ def insert_part_fields_into_dcm(part_fields_dict, filename, recurse, group_compo
     dcm_part_fields_dict = extract_part_fields_from_dcm(filename)
 
     # Add the part fields from the part field dictionary.
-    dcm_part_fields_dict = combine_part_field_dicts(part_fields_dict, dcm_part_fields_dict)
+    dcm_part_fields_dict = combine_part_field_dicts(part_fields_dict, dcm_part_fields_dict, False)
 
     # Create a new Dcm object from the combined part fields.
     dcm = Dcm()
